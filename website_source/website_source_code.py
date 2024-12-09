@@ -9,7 +9,7 @@ def download_website(url):
         return None
 
 def main():
-    url = ""  # Replace with the URL of the website you want to download
+    url = "" 
 
     website_source = download_website(url)
     if website_source:
