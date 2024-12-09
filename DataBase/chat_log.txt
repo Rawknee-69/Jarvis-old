@@ -1,0 +1,12438 @@
+You: jarvis do you know my name
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  but
+Jarvis:  I
+Jarvis:  don
+Jarvis: 't
+Jarvis:  know
+Jarvis:  your
+Jarvis:  name
+Jarvis: .
+Jarvis:  Can
+Jarvis:  you
+Jarvis:  please
+Jarvis:  tell
+Jarvis:  me
+Jarvis:  your
+Jarvis:  name
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: my name is srijan
+Jarvis: 
+Jarvis: Hello
+Jarvis:  S
+Jarvis: rij
+Jarvis: an
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is my laptop specs
+Jarvis: 
+Jarvis: You
+Jarvis:  can
+Jarvis:  check
+Jarvis:  your
+Jarvis:  laptop
+Jarvis: 's
+Jarvis:  specifications
+Jarvis:  by
+Jarvis:  following
+Jarvis:  these
+Jarvis:  steps
+Jarvis: :
+
+
+Jarvis: -
+Jarvis:  On
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis:  or
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 11
+Jarvis: ,
+Jarvis:  press
+Jarvis:  Ctrl
+Jarvis: +
+Jarvis: Shift
+Jarvis: +
+Jarvis: Esc
+Jarvis:  to
+Jarvis:  launch
+Jarvis:  the
+Jarvis:  Task
+Jarvis:  Manager
+Jarvis: ,
+Jarvis:  then
+Jarvis:  click
+Jarvis:  on
+Jarvis:  the
+Jarvis:  "
+Jarvis: Performance
+Jarvis: "
+Jarvis:  tab
+Jarvis: .
+Jarvis:  Your
+Jarvis:  computer
+Jarvis: 's
+Jarvis:  specifications
+Jarvis:  are
+Jarvis:  listed
+Jarvis:  on
+Jarvis:  this
+Jarvis:  page
+Jarvis: .
+Jarvis:  Alternatively
+Jarvis: ,
+Jarvis:  open
+Jarvis:  Settings
+Jarvis:  and
+Jarvis:  go
+Jarvis:  to
+Jarvis:  System
+Jarvis:  >
+Jarvis:  About
+Jarvis: ,
+Jarvis:  and
+Jarvis:  then
+Jarvis:  look
+Jarvis:  under
+Jarvis:  "
+Jarvis: Device
+Jarvis:  Specifications
+Jarvis: ."
+Jarvis:  
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ]
+
+Jarvis: -
+Jarvis:  On
+Jarvis:  a
+Jarvis:  Mac
+Jarvis: ,
+Jarvis:  click
+Jarvis:  on
+Jarvis:  the
+Jarvis:  Apple
+Jarvis:  icon
+Jarvis:  in
+Jarvis:  the
+Jarvis:  top
+Jarvis:  left
+Jarvis:  corner
+Jarvis:  of
+Jarvis:  your
+Jarvis:  screen
+Jarvis:  and
+Jarvis:  select
+Jarvis:  "
+Jarvis: About
+Jarvis:  This
+Jarvis:  Mac
+Jarvis: ."
+Jarvis:  
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ]
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is my name 
+Jarvis: 
+Jarvis: Your
+Jarvis:  name
+Jarvis:  is
+Jarvis:  S
+Jarvis: rij
+Jarvis: an
+Jarvis: .
+Jarvis:  Is
+Jarvis:  there
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: ok bye !
+Jarvis: 
+Jarvis: Good
+Jarvis: bye
+Jarvis: !
+Jarvis:  Have
+Jarvis:  a
+Jarvis:  great
+Jarvis:  day
+Jarvis: !
+Jarvis: 👋
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: !exit
+You: what is my laptop specs
+Jarvis: 
+Jarvis: You
+Jarvis:  can
+Jarvis:  check
+Jarvis:  your
+Jarvis:  laptop
+Jarvis: 's
+Jarvis:  specifications
+Jarvis:  by
+Jarvis:  following
+Jarvis:  these
+Jarvis:  steps
+Jarvis: :
+
+
+Jarvis: -
+Jarvis:  On
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  check
+Jarvis:  the
+Jarvis:  computer
+Jarvis:  tech
+Jarvis:  specs
+Jarvis:  with
+Jarvis:  the
+Jarvis:  Settings
+Jarvis:  app
+Jarvis: .
+Jarvis:  Open
+Jarvis:  Settings
+Jarvis:  >
+Jarvis:  System
+Jarvis:  >
+Jarvis:  About
+Jarvis: .
+Jarvis:  Under
+Jarvis:  the
+Jarvis:  Device
+Jarvis:  specifications
+Jarvis:  section
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  check
+Jarvis:  the
+Jarvis:  processor
+Jarvis: ,
+Jarvis:  system
+Jarvis:  memory
+Jarvis:  (
+Jarvis: RAM
+Jarvis: ),
+Jarvis:  architecture
+Jarvis:  (
+Jarvis: 32
+Jarvis: -bit
+Jarvis:  or
+Jarvis:  
+Jarvis: 64
+Jarvis: -bit
+Jarvis: ),
+Jarvis:  and
+Jarvis:  pen
+Jarvis:  and
+Jarvis:  touch
+Jarvis:  support
+Jarvis: .
+Jarvis:  Under
+Jarvis:  the
+Jarvis:  Windows
+Jarvis:  specifications
+Jarvis:  section
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  check
+Jarvis:  the
+Jarvis:  software
+Jarvis:  specifications
+Jarvis: :
+Jarvis:  Edition
+Jarvis:  —
+Jarvis:  Shows
+Jarvis:  whether
+Jarvis:  this
+Jarvis:  is
+Jarvis:  a
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis:  Pro
+Jarvis:  or
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis:  Home
+Jarvis:  installation
+Jarvis: .
+Jarvis:  Version
+Jarvis:  —
+Jarvis:  Reve
+Jarvis: als
+Jarvis:  the
+Jarvis:  Windows
+Jarvis:  release
+Jarvis:  currently
+Jarvis:  on
+Jarvis:  the
+Jarvis:  computer
+Jarvis: ,
+Jarvis:  and
+Jarvis:  the
+Jarvis:  version
+Jarvis:  changes
+Jarvis:  every
+Jarvis:  year
+Jarvis:  after
+Jarvis:  a
+Jarvis:  feature
+Jarvis:  update
+Jarvis: .
+Jarvis:  Installed
+Jarvis:  on
+Jarvis:  —
+Jarvis:  States
+Jarvis:  the
+Jarvis:  date
+Jarvis:  when
+Jarvis:  the
+Jarvis:  last
+Jarvis:  feature
+Jarvis:  update
+Jarvis:  was
+Jarvis:  installed
+Jarvis: .
+Jarvis:  OS
+Jarvis:  build
+Jarvis:  —
+Jarvis:  Indicates
+Jarvis:  the
+Jarvis:  build
+Jarvis:  number
+Jarvis:  of
+Jarvis:  the
+Jarvis:  release
+Jarvis: .
+Jarvis:  The
+Jarvis:  first
+Jarvis:  five
+Jarvis:  numbers
+Jarvis:  represent
+Jarvis:  the
+Jarvis:  version
+Jarvis: ,
+Jarvis:  and
+Jarvis:  anything
+Jarvis:  after
+Jarvis:  the
+Jarvis:  period
+Jarvis:  represents
+Jarvis:  the
+Jarvis:  latest
+Jarvis:  quality
+Jarvis:  update
+Jarvis: .
+Jarvis:  Experience
+Jarvis:  —
+Jarvis:  Reve
+Jarvis: als
+Jarvis:  the
+Jarvis:  service
+Jarvis:  feature
+Jarvis:  pack
+Jarvis:  version
+Jarvis:  installed
+Jarvis:  on
+Jarvis:  the
+Jarvis:  device
+Jarvis:  
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: -
+Jarvis:  On
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis:  or
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 11
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  press
+Jarvis:  Ctrl
+Jarvis: +
+Jarvis: Shift
+Jarvis: +
+Jarvis: Esc
+Jarvis:  to
+Jarvis:  launch
+Jarvis:  the
+Jarvis:  Task
+Jarvis:  Manager
+Jarvis: ,
+Jarvis:  then
+Jarvis:  click
+Jarvis:  on
+Jarvis:  the
+Jarvis:  "
+Jarvis: Performance
+Jarvis: "
+Jarvis:  tab
+Jarvis: .
+Jarvis:  Your
+Jarvis:  computer
+Jarvis: 's
+Jarvis:  specifications
+Jarvis:  are
+Jarvis:  listed
+Jarvis:  on
+Jarvis:  this
+Jarvis:  page
+Jarvis:  
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+
+Jarvis: -
+Jarvis:  On
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 11
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  open
+Jarvis:  Start
+Jarvis:  >
+Jarvis:  Search
+Jarvis:  for msinfo32 and click the top result to open the System Information app.
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis:  Select
+Jarvis:  on
+Jarvis:  System
+Jarvis:  Summary
+Jarvis:  
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: [^1^] what does that means
+Jarvis: 
+Jarvis: The
+Jarvis:  Windows
+Jarvis:  specifications
+Jarvis:  section
+Jarvis:  in
+Jarvis:  the
+Jarvis:  laptop
+Jarvis:  specs
+Jarvis:  refers
+Jarvis:  to
+Jarvis:  the
+Jarvis:  software
+Jarvis:  specifications
+Jarvis:  of
+Jarvis:  your
+Jarvis:  computer
+Jarvis: .
+Jarvis:  It
+Jarvis:  shows
+Jarvis:  whether
+Jarvis:  this
+Jarvis:  is
+Jarvis:  a
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis:  Pro
+Jarvis:  or
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis:  Home
+Jarvis:  installation
+Jarvis: .
+Jarvis:  Version
+Jarvis:  reveals
+Jarvis:  the
+Jarvis:  Windows
+Jarvis:  release
+Jarvis:  currently
+Jarvis:  on
+Jarvis:  the
+Jarvis:  computer
+Jarvis: ,
+Jarvis:  and
+Jarvis:  the
+Jarvis:  version
+Jarvis:  changes
+Jarvis:  every
+Jarvis:  year
+Jarvis:  after
+Jarvis:  a
+Jarvis:  feature
+Jarvis:  update
+Jarvis: .
+Jarvis:  Installed
+Jarvis:  on
+Jarvis:  states
+Jarvis:  the
+Jarvis:  date
+Jarvis:  when
+Jarvis:  the
+Jarvis:  last
+Jarvis:  feature
+Jarvis:  update
+Jarvis:  was
+Jarvis:  installed
+Jarvis: .
+Jarvis:  OS
+Jarvis:  build
+Jarvis:  indicates
+Jarvis:  the
+Jarvis:  build
+Jarvis:  number
+Jarvis:  of
+Jarvis:  the
+Jarvis:  release
+Jarvis: .
+Jarvis:  The
+Jarvis:  first
+Jarvis:  five
+Jarvis:  numbers
+Jarvis:  represent
+Jarvis:  the
+Jarvis:  version
+Jarvis: ,
+Jarvis:  and
+Jarvis:  anything
+Jarvis:  after
+Jarvis:  the
+Jarvis:  period
+Jarvis:  represents
+Jarvis:  the
+Jarvis:  latest
+Jarvis:  quality
+Jarvis:  update
+Jarvis: .
+Jarvis:  Experience
+Jarvis:  reveals
+Jarvis:  the
+Jarvis:  service
+Jarvis:  feature
+Jarvis:  pack
+Jarvis:  version
+Jarvis:  installed
+Jarvis:  on
+Jarvis:  the
+Jarvis:  device
+Jarvis:  
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: !exit
+You: 2+2
+Jarvis: 
+Jarvis: The
+Jarvis:  answer
+Jarvis:  to
+Jarvis:  
+Jarvis: 2
+Jarvis: +
+Jarvis: 2
+Jarvis:  is
+Jarvis:  **
+Jarvis: 4
+Jarvis: **
+Jarvis: .
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: !exit
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: & C:/Users/srija/AppData/Local/Programs/Python/Python311/python.exe c:/Users/srija/Desktop/AIJarvisl/Brain/braininuse.py
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: !exit
+You: !exit
+You: hello how are you jarvis
+You: hello how are you
+You: hello how are you
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: how r u
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: how are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis:  for
+Jarvis:  asking
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello how are you
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: how are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: nothing 
+Jarvis: 
+Jarvis: Alright
+Jarvis: .
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  need
+Jarvis:  any
+Jarvis:  help
+Jarvis:  later
+Jarvis: .
+Jarvis:  Have
+Jarvis:  a
+Jarvis:  great
+Jarvis:  day
+Jarvis: !
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: हाउ आर यू
+Jarvis: 
+Jarvis: म
+Jarvis: ै
+Jarvis: ं
+Jarvis:  ठ
+Jarvis: ी
+Jarvis: क
+Jarvis:  ह
+Jarvis: ू
+Jarvis: ँ
+Jarvis: ।
+Jarvis:  आ
+Jarvis: प
+Jarvis: क
+Jarvis: ी
+Jarvis:  म
+Jarvis: द
+Jarvis: द
+Jarvis:  क
+Jarvis: र
+Jarvis: न
+Jarvis: े
+Jarvis:  म
+Jarvis: ें
+Jarvis:  म
+Jarvis: ै
+Jarvis: ं
+Jarvis:  क
+Jarvis: ्य
+Jarvis: ा
+Jarvis:  क
+Jarvis: र
+Jarvis:  स
+Jarvis: क
+Jarvis: त
+Jarvis: ा
+Jarvis:  ह
+Jarvis: ू
+Jarvis: ँ
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: 
+You: how are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: nothing
+Jarvis: 
+Jarvis: If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  looking
+Jarvis:  for
+Jarvis:  fun
+Jarvis:  things
+Jarvis:  to
+Jarvis:  do
+Jarvis:  in
+Jarvis:  As
+Jarvis: ans
+Jarvis: ol
+Jarvis: ,
+Jarvis:  there
+Jarvis:  are
+Jarvis:  many
+Jarvis:  options
+Jarvis:  available
+Jarvis: .
+Jarvis:  You
+Jarvis:  can
+Jarvis:  visit
+Jarvis:  the
+Jarvis:  **
+Jarvis: G
+Jarvis: h
+Jarvis: agar
+Jarvis:  B
+Jarvis: uri
+Jarvis:  Ch
+Jarvis: andi
+Jarvis:  Temple
+Jarvis: **
+Jarvis:  which
+Jarvis:  is
+Jarvis:  a
+Jarvis:  very
+Jarvis:  divine
+Jarvis:  place
+Jarvis:  and
+Jarvis:  you
+Jarvis:  have
+Jarvis:  to
+Jarvis:  surrender
+Jarvis:  yourself
+Jarvis:  to
+Jarvis:  M
+Jarvis: AA
+Jarvis: .
+Jarvis:  Once
+Jarvis:  you
+Jarvis:  visit
+Jarvis:  this
+Jarvis:  place
+Jarvis:  M
+Jarvis: AA
+Jarvis:  will
+Jarvis: ...
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ]
+Jarvis:  
+
+
+Jarvis: You
+Jarvis:  can
+Jarvis:  also
+Jarvis:  visit
+Jarvis:  the
+Jarvis:  **
+Jarvis: Gal
+Jarvis: axy
+Jarvis:  Mall
+Jarvis: **
+Jarvis:  which
+Jarvis:  is
+Jarvis:  the
+Jarvis:  first
+Jarvis:  shopping
+Jarvis:  mall
+Jarvis:  of
+Jarvis:  As
+Jarvis: ans
+Jarvis: ol
+Jarvis: .
+Jarvis:  It
+Jarvis:  has
+Jarvis:  Eye
+Jarvis: lex
+Jarvis:  -
+Jarvis:  multis
+Jarvis: creen
+Jarvis:  movies
+Jarvis: ,
+Jarvis:  K
+Jarvis: FC
+Jarvis: ,
+Jarvis:  Domin
+Jarvis: os
+Jarvis: ,
+Jarvis:  Big
+Jarvis:  B
+Jarvis: azar
+Jarvis: ,
+Jarvis:  Rel
+Jarvis: iance
+Jarvis: ...
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ]
+Jarvis:  
+
+
+Jarvis: If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  looking
+Jarvis:  for
+Jarvis:  a
+Jarvis:  peaceful
+Jarvis:  environment
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  visit
+Jarvis:  the
+Jarvis:  **
+Jarvis: K
+Jarvis: aly
+Jarvis: an
+Jarvis: esh
+Jarvis: w
+Jarvis: ari
+Jarvis:  Temple
+Jarvis: **
+Jarvis:  which
+Jarvis:  is
+Jarvis:  situated
+Jarvis:  on
+Jarvis:  the
+Jarvis:  banks
+Jarvis:  of
+Jarvis:  Bar
+Jarvis: ak
+Jarvis: ar
+Jarvis:  River
+Jarvis:  and
+Jarvis:  in
+Jarvis:  close
+Jarvis:  proximity
+Jarvis:  to
+Jarvis:  Ma
+Jarvis: ith
+Jarvis: on
+Jarvis:  Dam
+Jarvis: .
+Jarvis:  This
+Jarvis:  famous
+Jarvis:  temple
+Jarvis:  is
+Jarvis:  dedicated
+Jarvis:  to
+Jarvis:  Goddess
+Jarvis:  K
+Jarvis: ali
+Jarvis: .
+Jarvis:  Dev
+Jarvis: ote
+Jarvis: es
+Jarvis:  come
+Jarvis:  from
+Jarvis:  far
+Jarvis:  and
+Jarvis:  near
+Jarvis:  to
+Jarvis:  seek
+Jarvis:  blessings
+Jarvis:  of
+Jarvis:  the
+Jarvis:  deity
+Jarvis: .
+Jarvis:  Legend
+Jarvis:  has
+Jarvis:  it
+Jarvis:  that
+Jarvis:  human
+Jarvis:  sacrifices
+Jarvis:  were
+Jarvis:  offered
+Jarvis:  in
+Jarvis:  this
+Jarvis:  
+Jarvis: 500
+Jarvis: -year
+Jarvis: -old
+Jarvis:  temple
+Jarvis:  in
+Jarvis:  the
+Jarvis:  past
+Jarvis: .
+Jarvis:  
+Jarvis: [
+Jarvis: ^5^
+Jarvis: ]
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what fun things can we do in asansol
+Jarvis: 
+Jarvis: There
+Jarvis:  are
+Jarvis:  many
+Jarvis:  fun
+Jarvis:  things
+Jarvis:  to
+Jarvis:  do
+Jarvis:  in
+Jarvis:  As
+Jarvis: ans
+Jarvis: ol
+Jarvis: .
+Jarvis:  You
+Jarvis:  can
+Jarvis:  visit
+Jarvis:  the
+Jarvis:  **
+Jarvis: K
+Jarvis: aly
+Jarvis: an
+Jarvis: esh
+Jarvis: w
+Jarvis: ari
+Jarvis:  Temple
+Jarvis: **
+Jarvis:  which
+Jarvis:  is
+Jarvis:  one
+Jarvis:  of
+Jarvis:  the
+Jarvis:  most
+Jarvis:  popular
+Jarvis:  temples
+Jarvis:  in
+Jarvis:  the
+Jarvis:  city
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+Jarvis:  You
+Jarvis:  can
+Jarvis:  also
+Jarvis:  visit
+Jarvis:  **
+Jarvis: G
+Jarvis: h
+Jarvis: agar
+Jarvis:  B
+Jarvis: uri
+Jarvis:  Ch
+Jarvis: andi
+Jarvis:  Temple
+Jarvis: **
+Jarvis:  which
+Jarvis:  is
+Jarvis:  a
+Jarvis:  very
+Jarvis:  divine
+Jarvis:  place
+Jarvis:  and
+Jarvis:  you
+Jarvis:  have
+Jarvis:  to
+Jarvis:  surrender
+Jarvis:  yourself
+Jarvis:  to
+Jarvis:  M
+Jarvis: AA
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  If
+Jarvis:  you
+Jarvis:  want
+Jarvis:  to
+Jarvis:  spend
+Jarvis:  a
+Jarvis:  perfect
+Jarvis:  day
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  go
+Jarvis:  to
+Jarvis:  **
+Jarvis: Ch
+Jarvis: ur
+Jarvis: ulia
+Jarvis: **
+Jarvis:  which
+Jarvis:  has
+Jarvis:  plenty
+Jarvis:  of
+Jarvis:  attractions
+Jarvis:  such
+Jarvis:  as
+Jarvis:  Ch
+Jarvis: ur
+Jarvis: ulia
+Jarvis:  Falls
+Jarvis: ,
+Jarvis:  K
+Jarvis: ulti
+Jarvis:  Wildlife
+Jarvis:  Sanctuary
+Jarvis: ,
+Jarvis:  Rab
+Jarvis: ind
+Jarvis: ra
+Jarvis:  Sar
+Jarvis: ov
+Jarvis: ar
+Jarvis:  Park
+Jarvis: ,
+Jarvis:  Bir
+Jarvis: b
+Jarvis: hum
+Jarvis:  Z
+Jarvis: onal
+Jarvis:  Museum
+Jarvis: ,
+Jarvis:  and
+Jarvis:  As
+Jarvis: ans
+Jarvis: ol
+Jarvis:  Railway
+Jarvis:  Museum
+Jarvis: 
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+Jarvis:  You
+Jarvis:  can
+Jarvis:  also
+Jarvis:  visit
+Jarvis:  **
+Jarvis: N
+Jarvis: eh
+Jarvis: ru
+Jarvis:  Park
+Jarvis: **
+Jarvis:  which
+Jarvis:  is
+Jarvis:  well
+Jarvis:  decorated
+Jarvis:  with
+Jarvis:  flowers
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  If
+Jarvis:  you
+Jarvis:  want
+Jarvis:  to
+Jarvis:  spend
+Jarvis:  some
+Jarvis:  time
+Jarvis:  with
+Jarvis:  your
+Jarvis:  family
+Jarvis:  and
+Jarvis:  friends
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  go
+Jarvis:  to
+Jarvis:  **
+Jarvis: Sp
+Jarvis: andan
+Jarvis:  Recreation
+Jarvis:  Park
+Jarvis: **
+Jarvis:  which
+Jarvis:  is
+Jarvis:  a
+Jarvis:  very
+Jarvis:  good
+Jarvis:  park
+Jarvis:  for
+Jarvis:  kids
+Jarvis:  and
+Jarvis:  young
+Jarvis:  people
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  There
+Jarvis:  are
+Jarvis:  many
+Jarvis:  other
+Jarvis:  places
+Jarvis:  that
+Jarvis:  you
+Jarvis:  can
+Jarvis:  visit
+Jarvis:  as
+Jarvis:  well
+Jarvis: .
+Jarvis:  I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what fun things can we do in asansol
+Jarvis: 
+Jarvis: There
+Jarvis:  are
+Jarvis:  many
+Jarvis:  things
+Jarvis:  you
+Jarvis:  can
+Jarvis:  do
+Jarvis:  in
+Jarvis:  As
+Jarvis: ans
+Jarvis: ol
+Jarvis: .
+Jarvis:  Here
+Jarvis:  are
+Jarvis:  some
+Jarvis:  of
+Jarvis:  the
+Jarvis:  popular
+Jarvis:  attractions
+Jarvis:  according
+Jarvis:  to
+Jarvis:  Trip
+Jarvis: advisor
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ]:
+
+Jarvis: -
+Jarvis:  Gh
+Jarvis: agar
+Jarvis:  B
+Jarvis: uri
+Jarvis:  Ch
+Jarvis: andi
+Jarvis:  Temple
+Jarvis: 
+
+Jarvis: -
+Jarvis:  Galaxy
+Jarvis:  Mall
+Jarvis: 
+
+Jarvis: -
+Jarvis:  K
+Jarvis: aly
+Jarvis: an
+Jarvis: esh
+Jarvis: w
+Jarvis: ari
+Jarvis:  Temple
+Jarvis: 
+
+Jarvis: -
+Jarvis:  Neh
+Jarvis: ru
+Jarvis:  Park
+Jarvis: 
+
+Jarvis: -
+Jarvis:  Sp
+Jarvis: andan
+Jarvis:  Recreation
+Jarvis:  Park
+Jarvis: 
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: .
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: *
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis: ,
+Jarvis:  I
+Jarvis:  didn
+Jarvis: 't
+Jarvis:  understand
+Jarvis:  what
+Jarvis:  you
+Jarvis:  meant
+Jarvis: .
+Jarvis:  Could
+Jarvis:  you
+Jarvis:  please
+Jarvis:  re
+Jarvis: phrase
+Jarvis:  your
+Jarvis:  question
+Jarvis:  or
+Jarvis:  tell
+Jarvis:  me
+Jarvis:  more
+Jarvis:  about
+Jarvis:  what
+Jarvis:  you
+Jarvis: 're
+Jarvis:  looking
+Jarvis:  for
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what fun things can we do in asansol
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  for
+Jarvis:  the
+Jarvis:  confusion
+Jarvis: .
+Jarvis:  I
+Jarvis:  already
+Jarvis:  provided
+Jarvis:  you
+Jarvis:  with
+Jarvis:  some
+Jarvis:  popular
+Jarvis:  attractions
+Jarvis:  in
+Jarvis:  As
+Jarvis: ans
+Jarvis: ol
+Jarvis: .
+Jarvis:  Is
+Jarvis:  there
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what fun things can we do in spain
+Jarvis: 
+Jarvis: Spain
+Jarvis:  is
+Jarvis:  a
+Jarvis:  beautiful
+Jarvis:  country
+Jarvis:  with
+Jarvis:  many
+Jarvis:  things
+Jarvis:  to
+Jarvis:  do
+Jarvis: .
+Jarvis:  Here
+Jarvis:  are
+Jarvis:  some
+Jarvis:  of
+Jarvis:  the
+Jarvis:  popular
+Jarvis:  attractions
+Jarvis:  according
+Jarvis:  to
+Jarvis:  Trip
+Jarvis: advisor
+Jarvis:  
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ]:
+
+Jarvis: -
+Jarvis:  Bas
+Jarvis: í
+Jarvis: lica
+Jarvis:  de
+Jarvis:  la
+Jarvis:  Sag
+Jarvis: r
+Jarvis: ada
+Jarvis:  Famil
+Jarvis: ia
+Jarvis:  in
+Jarvis:  Barcelona
+Jarvis: 
+
+Jarvis: -
+Jarvis:  Pal
+Jarvis: ma
+Jarvis:  Cathedral
+Jarvis:  in
+Jarvis:  Pal
+Jarvis: ma
+Jarvis:  de
+Jarvis:  Mall
+Jarvis: orca
+Jarvis: 
+
+Jarvis: -
+Jarvis:  G
+Jarvis: ugg
+Jarvis: enheim
+Jarvis:  Museum
+Jarvis:  Bil
+Jarvis: bao
+Jarvis:  in
+Jarvis:  Bil
+Jarvis: bao
+Jarvis: 
+
+Jarvis: -
+Jarvis:  Par
+Jarvis: que
+Jarvis:  del
+Jarvis:  Ret
+Jarvis: iro
+Jarvis:  in
+Jarvis:  Madrid
+Jarvis: 
+
+Jarvis: -
+Jarvis:  Pr
+Jarvis: ado
+Jarvis:  National
+Jarvis:  Museum
+Jarvis:  in
+Jarvis:  Madrid
+Jarvis: 
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: .
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: fun things to do in india
+Jarvis: 
+Jarvis: India
+Jarvis:  is
+Jarvis:  a
+Jarvis:  country
+Jarvis:  with
+Jarvis:  a
+Jarvis:  rich
+Jarvis:  cultural
+Jarvis:  heritage
+Jarvis:  and
+Jarvis:  there
+Jarvis:  are
+Jarvis:  many
+Jarvis:  fun
+Jarvis:  things
+Jarvis:  to
+Jarvis:  do
+Jarvis: .
+Jarvis:  Some
+Jarvis:  of
+Jarvis:  the
+Jarvis:  most
+Jarvis:  popular
+Jarvis:  tourist
+Jarvis:  attractions
+Jarvis:  include
+Jarvis:  the
+Jarvis:  **
+Jarvis: India
+Jarvis:  Gate
+Jarvis: **
+Jarvis:  in
+Jarvis:  New
+Jarvis:  Delhi
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ],
+Jarvis:  the
+Jarvis:  **
+Jarvis: T
+Jarvis: aj
+Jarvis:  Mah
+Jarvis: al
+Jarvis: **
+Jarvis:  in
+Jarvis:  A
+Jarvis: gra
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ],
+Jarvis:  and
+Jarvis:  the
+Jarvis:  **
+Jarvis: Blue
+Jarvis:  City
+Jarvis:  of
+Jarvis:  J
+Jarvis: od
+Jarvis: hp
+Jarvis: ur
+Jarvis: **
+Jarvis: 
+Jarvis: [
+Jarvis: ^5^
+Jarvis: ].
+Jarvis:  You
+Jarvis:  can
+Jarvis:  also
+Jarvis:  explore
+Jarvis:  Ja
+Jarvis: ipur
+Jarvis: ,
+Jarvis:  India
+Jarvis: 's
+Jarvis:  Pink
+Jarvis:  City
+Jarvis: 
+Jarvis: [
+Jarvis: ^5^
+Jarvis: ],
+Jarvis:  visit
+Jarvis:  the
+Jarvis:  Golden
+Jarvis:  Temple
+Jarvis:  in
+Jarvis:  Am
+Jarvis: rit
+Jarvis: sar
+Jarvis: 
+Jarvis: [
+Jarvis: ^5^
+Jarvis: ],
+Jarvis:  or
+Jarvis:  trek
+Jarvis:  in
+Jarvis:  the
+Jarvis:  Himal
+Jarvis: ayas
+Jarvis: 
+Jarvis: [
+Jarvis: ^5^
+Jarvis: ].
+Jarvis:  There
+Jarvis:  are
+Jarvis:  many
+Jarvis:  more
+Jarvis:  things
+Jarvis:  to
+Jarvis:  do
+Jarvis:  in
+Jarvis:  India
+Jarvis:  depending
+Jarvis:  on
+Jarvis:  your
+Jarvis:  interests
+Jarvis: .
+Jarvis:  
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: !exit
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello how are you today
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis:  today
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis:  for
+Jarvis:  asking
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: how are you my love
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  just
+Jarvis:  a
+Jarvis:  machine
+Jarvis:  learning
+Jarvis:  model
+Jarvis: ,
+Jarvis:  so
+Jarvis:  I
+Jarvis:  don
+Jarvis: 't
+Jarvis:  have
+Jarvis:  feelings
+Jarvis: .
+Jarvis:  But
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  here
+Jarvis:  to
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis:  anything
+Jarvis:  you
+Jarvis:  need
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  assist
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis:  for
+Jarvis:  asking
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: castor oil
+Jarvis: 
+Jarvis: Cast
+Jarvis: or
+Jarvis:  oil
+Jarvis:  is
+Jarvis:  a
+Jarvis:  vegetable
+Jarvis:  oil
+Jarvis:  pressed
+Jarvis:  from
+Jarvis:  cast
+Jarvis: or
+Jarvis:  beans
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  a
+Jarvis:  color
+Jarvis: less
+Jarvis:  or
+Jarvis:  pale
+Jarvis:  yellow
+Jarvis:  liquid
+Jarvis:  with
+Jarvis:  a
+Jarvis:  distinct
+Jarvis:  taste
+Jarvis:  and
+Jarvis:  odor
+Jarvis: .
+Jarvis:  Cast
+Jarvis: or
+Jarvis:  oil
+Jarvis:  is
+Jarvis:  well
+Jarvis:  known
+Jarvis:  as
+Jarvis:  a
+Jarvis:  source
+Jarvis:  of
+Jarvis:  ric
+Jarvis: in
+Jarvis: ole
+Jarvis: ic
+Jarvis:  acid
+Jarvis: ,
+Jarvis:  a
+Jarvis:  mon
+Jarvis: ouns
+Jarvis: aturated
+Jarvis: ,
+Jarvis:  
+Jarvis: 18
+Jarvis: -car
+Jarvis: bon
+Jarvis:  fatty
+Jarvis:  acid
+Jarvis: .
+Jarvis:  Among
+Jarvis:  fatty
+Jarvis:  acids
+Jarvis: ,
+Jarvis:  ric
+Jarvis: in
+Jarvis: ole
+Jarvis: ic
+Jarvis:  acid
+Jarvis:  is
+Jarvis:  unusual
+Jarvis:  in
+Jarvis:  that
+Jarvis:  it
+Jarvis:  has
+Jarvis:  a
+Jarvis:  hydro
+Jarvis: x
+Jarvis: yl
+Jarvis:  functional
+Jarvis:  group
+Jarvis:  on
+Jarvis:  the
+Jarvis:  
+Jarvis: 12
+Jarvis: th
+Jarvis:  carbon
+Jarvis:  atom
+Jarvis: .
+Jarvis:  This
+Jarvis:  functional
+Jarvis:  group
+Jarvis:  causes
+Jarvis:  ric
+Jarvis: in
+Jarvis: ole
+Jarvis: ic
+Jarvis:  acid
+Jarvis:  (
+Jarvis: and
+Jarvis:  cast
+Jarvis: or
+Jarvis:  oil
+Jarvis: )
+Jarvis:  to
+Jarvis:  be
+Jarvis:  more
+Jarvis:  polar
+Jarvis:  than
+Jarvis:  most
+Jarvis:  fats
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  Cast
+Jarvis: or
+Jarvis:  oil
+Jarvis:  has
+Jarvis:  been
+Jarvis:  used
+Jarvis:  for
+Jarvis:  thousands
+Jarvis:  of
+Jarvis:  years
+Jarvis:  for
+Jarvis:  its
+Jarvis:  therapeutic
+Jarvis:  and
+Jarvis:  medicinal
+Jarvis:  benefits
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  used
+Jarvis:  in
+Jarvis:  cosmetics
+Jarvis: ,
+Jarvis:  so
+Jarvis: aps
+Jarvis: ,
+Jarvis:  textiles
+Jarvis: ,
+Jarvis:  medicines
+Jarvis: ,
+Jarvis:  massage
+Jarvis:  oils
+Jarvis:  and
+Jarvis:  many
+Jarvis:  other
+Jarvis:  products
+Jarvis: 
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+Jarvis:  Cast
+Jarvis: or
+Jarvis:  oil
+Jarvis:  is
+Jarvis:  also
+Jarvis:  used
+Jarvis:  as
+Jarvis:  a
+Jarvis:  lax
+Jarvis: ative
+Jarvis:  to
+Jarvis:  relieve
+Jarvis:  const
+Jarvis: ipation
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+
+Jarvis: Is
+Jarvis:  there
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  you
+Jarvis:  would
+Jarvis:  like
+Jarvis:  to
+Jarvis:  know
+Jarvis:  about
+Jarvis:  cast
+Jarvis: or
+Jarvis:  oil
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Hi
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: he
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hi
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: & C:/Users/srija/AppData/Local/Programs/Python/Python311/python.exe c:/Users/srija/Desktop/AIJarvisl/Brain/braininuse.py
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: he
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  but
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis: .
+Jarvis:  Can
+Jarvis:  you
+Jarvis:  please
+Jarvis:  clarify
+Jarvis:  what
+Jarvis:  you
+Jarvis:  need
+Jarvis:  help
+Jarvis:  with
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: helo
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: h
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: h
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: h
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis:  for
+Jarvis:  asking
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Hi
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: 
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hel
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: & C:/Users/srija/AppData/Local/Programs/Python/Python311/python.exe c:/Users/srija/Desktop/AIJarvisl/Brain/test.py
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  but
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis:  by
+Jarvis:  that
+Jarvis: .
+Jarvis:  The
+Jarvis:  message
+Jarvis:  you
+Jarvis:  sent
+Jarvis:  looks
+Jarvis:  like
+Jarvis:  a
+Jarvis:  command
+Jarvis:  line
+Jarvis:  prompt
+Jarvis:  for
+Jarvis:  running
+Jarvis:  a
+Jarvis:  Python
+Jarvis:  script
+Jarvis: .
+Jarvis:  If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  trying
+Jarvis:  to
+Jarvis:  run
+Jarvis:  a
+Jarvis:  Python
+Jarvis:  script
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  open
+Jarvis:  the
+Jarvis:  command
+Jarvis:  prompt
+Jarvis:  or
+Jarvis:  terminal
+Jarvis:  and
+Jarvis:  navigate
+Jarvis:  to
+Jarvis:  the
+Jarvis:  directory
+Jarvis:  where
+Jarvis:  the
+Jarvis:  script
+Jarvis:  is
+Jarvis:  saved
+Jarvis: .
+Jarvis:  Then
+Jarvis:  type
+Jarvis:  `
+Jarvis: python
+Jarvis:  filename
+Jarvis: .py
+Jarvis: `
+Jarvis:  and
+Jarvis:  press
+Jarvis:  enter
+Jarvis: .
+Jarvis:  This
+Jarvis:  should
+Jarvis:  run
+Jarvis:  the
+Jarvis:  script
+Jarvis: .
+Jarvis:  If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  having
+Jarvis:  trouble
+Jarvis:  running
+Jarvis:  the
+Jarvis:  script
+Jarvis: ,
+Jarvis:  please
+Jarvis:  let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  what
+Jarvis:  error
+Jarvis:  message
+Jarvis:  you
+Jarvis: 're
+Jarvis:  seeing
+Jarvis:  so
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  better
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: helo
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: h
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Hello, how are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis:  for
+Jarvis:  asking
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: How are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is python
+Jarvis: 
+Jarvis: Python
+Jarvis:  is
+Jarvis:  an
+Jarvis:  **
+Jarvis: interpreted
+Jarvis: **,
+Jarvis:  **
+Jarvis: object
+Jarvis: -oriented
+Jarvis: **,
+Jarvis:  **
+Jarvis: high
+Jarvis: -level
+Jarvis:  programming
+Jarvis:  language
+Jarvis: **
+Jarvis:  with
+Jarvis:  **
+Jarvis: dynamic
+Jarvis:  semantics
+Jarvis: **
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  often
+Jarvis:  used
+Jarvis:  for
+Jarvis:  **
+Jarvis: R
+Jarvis: apid
+Jarvis:  Application
+Jarvis:  Development
+Jarvis: **
+Jarvis:  and
+Jarvis:  as
+Jarvis:  a
+Jarvis:  **
+Jarvis: script
+Jarvis: ing
+Jarvis:  or
+Jarvis:  glue
+Jarvis:  language
+Jarvis: **
+Jarvis:  to
+Jarvis:  connect
+Jarvis:  existing
+Jarvis:  components
+Jarvis:  together
+Jarvis: .
+Jarvis:  Python
+Jarvis: 's
+Jarvis:  simple
+Jarvis: ,
+Jarvis:  easy
+Jarvis: -to
+Jarvis: -
+Jarvis: learn
+Jarvis:  syntax
+Jarvis:  emphasizes
+Jarvis:  readability
+Jarvis:  and
+Jarvis:  therefore
+Jarvis:  reduces
+Jarvis:  the
+Jarvis:  cost
+Jarvis:  of
+Jarvis:  program
+Jarvis:  maintenance
+Jarvis: .
+Jarvis:  It
+Jarvis:  supports
+Jarvis:  multiple
+Jarvis:  programming
+Jarvis:  parad
+Jarvis: ig
+Jarvis: ms
+Jarvis: ,
+Jarvis:  including
+Jarvis:  structured
+Jarvis:  (
+Jarvis: particularly
+Jarvis:  procedural
+Jarvis: ),
+Jarvis:  object
+Jarvis: -oriented
+Jarvis:  and
+Jarvis:  functional
+Jarvis:  programming
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+
+Jarvis: Python
+Jarvis:  is
+Jarvis:  used
+Jarvis:  for
+Jarvis:  a
+Jarvis:  variety
+Jarvis:  of
+Jarvis:  purposes
+Jarvis:  such
+Jarvis:  as
+Jarvis:  building
+Jarvis:  websites
+Jarvis:  and
+Jarvis:  software
+Jarvis: ,
+Jarvis:  autom
+Jarvis: ating
+Jarvis:  tasks
+Jarvis: ,
+Jarvis:  and
+Jarvis:  conducting
+Jarvis:  data
+Jarvis:  analysis
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello how are you
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello how are you
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: 
+You: how to make a cake
+You: 
+You: how to make a cake
+You: how to make a cake
+You: how to make a cake
+You: 
+You: how to make a cake
+You: how to make a cake
+You: how to make a cake
+You: reset and make it creative
+You: how to make a cake
+You: exit
+You: how to make a cake
+You: how to make a cake
+Jarvis: 
+Jarvis: Here
+Jarvis:  is
+Jarvis:  a
+Jarvis:  simple
+Jarvis:  recipe
+Jarvis:  for
+Jarvis:  making
+Jarvis:  a
+Jarvis:  cake
+Jarvis: :
+
+
+Jarvis: Ingredients
+Jarvis: :
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  cups
+Jarvis:  of
+Jarvis:  sugar
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  
+Jarvis: 3
+Jarvis: /
+Jarvis: 4
+Jarvis:  cups
+Jarvis:  of
+Jarvis:  all
+Jarvis: -purpose
+Jarvis:  flour
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 3
+Jarvis: /
+Jarvis: 4
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  uns
+Jarvis: weet
+Jarvis: ened
+Jarvis:  cocoa
+Jarvis:  powder
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  
+Jarvis: 1
+Jarvis: /
+Jarvis: 2
+Jarvis:  teaspoons
+Jarvis:  of
+Jarvis:  baking
+Jarvis:  powder
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  
+Jarvis: 1
+Jarvis: /
+Jarvis: 2
+Jarvis:  teaspoons
+Jarvis:  of
+Jarvis:  baking
+Jarvis:  soda
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  teaspoon
+Jarvis:  of
+Jarvis:  salt
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  eggs
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  milk
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis: /
+Jarvis: 2
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  vegetable
+Jarvis:  oil
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  teaspoons
+Jarvis:  of
+Jarvis:  vanilla
+Jarvis:  extract
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  boiling
+Jarvis:  water
+Jarvis: 
+
+
+Jarvis: Instructions
+Jarvis: :
+
+Jarvis: 1
+Jarvis: .
+Jarvis:  Pre
+Jarvis: heat
+Jarvis:  oven
+Jarvis:  to
+Jarvis:  **
+Jarvis: 350
+Jarvis: °F
+Jarvis: **
+Jarvis:  (
+Jarvis: 180
+Jarvis: °C
+Jarvis: ).
+Jarvis:  Gre
+Jarvis: ase
+Jarvis:  and
+Jarvis:  flour
+Jarvis:  two
+Jarvis:  **
+Jarvis: 9
+Jarvis: -inch
+Jarvis: **
+Jarvis:  round
+Jarvis:  baking
+Jarvis:  pans
+Jarvis: .
+
+Jarvis: 2
+Jarvis: .
+Jarvis:  In
+Jarvis:  a
+Jarvis:  large
+Jarvis:  mixing
+Jarvis:  bowl
+Jarvis: ,
+Jarvis:  stir
+Jarvis:  together
+Jarvis:  sugar
+Jarvis: ,
+Jarvis:  flour
+Jarvis: , cocoa, baking powder, baking soda, and salt.
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 3
+Jarvis: .
+Jarvis:  Add
+Jarvis:  eggs
+Jarvis: ,
+Jarvis:  milk
+Jarvis: ,
+Jarvis:  oil
+Jarvis: ,
+Jarvis:  and
+Jarvis:  vanilla
+Jarvis: .
+Jarvis:  Beat
+Jarvis:  with
+Jarvis:  an
+Jarvis:  electric
+Jarvis:  mixer
+Jarvis:  on
+Jarvis:  medium
+Jarvis:  speed
+Jarvis:  for
+Jarvis:  about
+Jarvis:  **
+Jarvis: 2
+Jarvis:  minutes
+Jarvis: **
+Jarvis: .
+
+Jarvis: 4
+Jarvis: .
+Jarvis:  Stir
+Jarvis:  in
+Jarvis:  boiling
+Jarvis:  water
+Jarvis:  (
+Jarvis: b
+Jarvis: atter
+Jarvis:  will
+Jarvis:  be
+Jarvis:  thin
+Jarvis: ).
+Jarvis:  Pour
+Jarvis:  batter
+Jarvis:  into
+Jarvis:  prepared
+Jarvis:  pans
+Jarvis: .
+
+Jarvis: 5
+Jarvis: .
+Jarvis:  Bake
+Jarvis:  for
+Jarvis:  **
+Jarvis: 30
+Jarvis:  to
+Jarvis:  
+Jarvis: 35
+Jarvis:  minutes
+Jarvis: **
+Jarvis:  or
+Jarvis:  until
+Jarvis:  a
+Jarvis:  tooth
+Jarvis: pick
+Jarvis:  inserted
+Jarvis:  in
+Jarvis:  the
+Jarvis:  center
+Jarvis:  comes
+Jarvis:  out
+Jarvis:  clean
+Jarvis: .
+
+Jarvis: 6
+Jarvis: .
+Jarvis:  Cool
+Jarvis:  cakes
+Jarvis:  in
+Jarvis:  pans
+Jarvis:  on
+Jarvis:  wire
+Jarvis:  racks
+Jarvis:  for
+Jarvis:  **
+Jarvis: 10
+Jarvis:  minutes
+Jarvis: **
+Jarvis: .
+Jarvis:  Remove
+Jarvis:  cakes
+Jarvis:  from
+Jarvis:  pans
+Jarvis: ;
+Jarvis:  cool
+Jarvis:  completely
+Jarvis:  on
+Jarvis:  wire
+Jarvis:  racks
+Jarvis: .
+
+
+Jarvis: You
+Jarvis:  can
+Jarvis:  also
+Jarvis:  add
+Jarvis:  frosting
+Jarvis:  or
+Jarvis:  other
+Jarvis:  toppings
+Jarvis:  to
+Jarvis:  your
+Jarvis:  cake
+Jarvis:  once
+Jarvis:  it
+Jarvis:  has
+Jarvis:  cooled
+Jarvis:  down
+Jarvis: .
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: how to make a baseball
+You: how to make a cake
+Jarvis: 
+Jarvis: Here
+Jarvis:  is
+Jarvis:  a
+Jarvis:  simple
+Jarvis:  recipe
+Jarvis:  for
+Jarvis:  making
+Jarvis:  a
+Jarvis:  cake
+Jarvis: :
+
+
+Jarvis: Ingredients
+Jarvis: :
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  cups
+Jarvis:  of
+Jarvis:  all
+Jarvis: -purpose
+Jarvis:  flour
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  cups
+Jarvis:  of
+Jarvis:  gran
+Jarvis: ulated
+Jarvis:  sugar
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 3
+Jarvis: /
+Jarvis: 4
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  uns
+Jarvis: weet
+Jarvis: ened
+Jarvis:  cocoa
+Jarvis:  powder
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  teaspoons
+Jarvis:  of
+Jarvis:  baking
+Jarvis:  powder
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  
+Jarvis: 1
+Jarvis: /
+Jarvis: 2
+Jarvis:  teaspoons
+Jarvis:  of
+Jarvis:  baking
+Jarvis:  soda
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  teaspoon
+Jarvis:  of
+Jarvis:  salt
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  but
+Jarvis: term
+Jarvis: ilk
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis: /
+Jarvis: 2
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  vegetable
+Jarvis:  oil
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  large
+Jarvis:  eggs
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 2
+Jarvis:  teaspoons
+Jarvis:  of
+Jarvis:  vanilla
+Jarvis:  extract
+Jarvis: 
+
+Jarvis: -
+Jarvis:  
+Jarvis: 1
+Jarvis:  cup
+Jarvis:  of
+Jarvis:  boiling
+Jarvis:  water
+Jarvis: 
+
+
+Jarvis: Instructions
+Jarvis: :
+
+Jarvis: 1
+Jarvis: .
+Jarvis:  Pre
+Jarvis: heat
+Jarvis:  the
+Jarvis:  oven
+Jarvis:  to
+Jarvis:  **
+Jarvis: 350
+Jarvis: °F
+Jarvis: **
+Jarvis:  (
+Jarvis: 180
+Jarvis: °C
+Jarvis: ).
+
+Jarvis: 2
+Jarvis: .
+Jarvis:  Gre
+Jarvis: ase
+Jarvis:  two
+Jarvis:  **
+Jarvis: 9
+Jarvis: -inch
+Jarvis: **
+Jarvis:  (
+Jarvis: 23
+Jarvis: cm
+Jarvis: )
+Jarvis:  cake
+Jarvis:  pans
+Jarvis:  with
+Jarvis:  butter
+Jarvis:  or
+Jarvis:  cooking
+Jarvis:  spray
+Jarvis: .
+
+Jarvis: 3
+Jarvis: .
+Jarvis:  In
+Jarvis:  a
+Jarvis:  large
+Jarvis:  mixing
+Jarvis:  bowl
+Jarvis: ,
+Jarvis:  whisk
+Jarvis:  together
+Jarvis:  the
+Jarvis:  flour
+Jarvis: ,
+Jarvis:  sugar
+Jarvis: ,
+Jarvis:  cocoa
+Jarvis:  powder
+Jarvis: ,
+Jarvis:  baking
+Jarvis:  powder
+Jarvis: ,
+Jarvis:  baking
+Jarvis:  soda
+Jarvis: ,
+Jarvis:  and
+Jarvis:  salt
+Jarvis: .
+
+Jarvis: 4
+Jarvis: .
+Jarvis:  Add
+Jarvis:  the
+Jarvis:  but
+Jarvis: term
+Jarvis: ilk, vegetable oil, eggs, and vanilla extract to the dry ingredients and mix until well combined.
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 5
+Jarvis: .
+Jarvis:  Stir
+Jarvis:  in
+Jarvis:  the
+Jarvis:  boiling
+Jarvis:  water
+Jarvis:  until
+Jarvis:  the
+Jarvis:  batter
+You: Tomorrow is in conversation exam at my school and I want to say that I want to become a doctor
+Jarvis: 
+Jarvis: Good
+Jarvis:  luck
+Jarvis:  with
+Jarvis:  your
+Jarvis:  exam
+Jarvis:  tomorrow
+Jarvis: !
+Jarvis:  If
+Jarvis:  you
+Jarvis:  want
+Jarvis:  to
+Jarvis:  say
+Jarvis:  that
+Jarvis:  you
+Jarvis:  want
+Jarvis:  to
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  say
+Jarvis:  "
+Jarvis: I
+Jarvis:  want
+Jarvis:  to
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: "
+Jarvis:  or
+Jarvis:  "
+Jarvis: I
+Jarvis:  aspire
+Jarvis:  to
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: ".
+Jarvis:  Is
+Jarvis:  there
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Actually it's not the matter I want to become a doctor
+Jarvis: 
+Jarvis: To
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: ,
+Jarvis:  you
+Jarvis: 'll
+Jarvis:  need
+Jarvis:  to
+Jarvis:  spend
+Jarvis:  a
+Jarvis:  minimum
+Jarvis:  of
+Jarvis:  **
+Jarvis: 11
+Jarvis:  years
+Jarvis: **
+Jarvis:  on
+Jarvis:  education
+Jarvis:  after
+Jarvis:  high
+Jarvis:  school
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  Here
+Jarvis:  are
+Jarvis:  the
+Jarvis:  steps
+Jarvis:  you
+Jarvis:  can
+Jarvis:  follow
+Jarvis:  to
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ]:
+
+
+Jarvis: 1
+Jarvis: .
+Jarvis:  Earn
+Jarvis:  your
+Jarvis:  bachelor
+Jarvis: 's
+Jarvis:  degree
+Jarvis: .
+
+Jarvis: 2
+Jarvis: .
+Jarvis:  Pass
+Jarvis:  the
+Jarvis:  Medical
+Jarvis:  College
+Jarvis:  Admission
+Jarvis:  Test
+Jarvis:  (
+Jarvis: MC
+Jarvis: AT
+Jarvis: )
+Jarvis:  exam
+Jarvis: .
+
+Jarvis: 3
+Jarvis: .
+Jarvis:  En
+Jarvis: roll
+Jarvis:  in
+Jarvis:  medical
+Jarvis:  school
+Jarvis:  and
+Jarvis:  finish
+Jarvis:  your
+Jarvis:  training
+Jarvis: .
+
+Jarvis: 4
+Jarvis: .
+Jarvis:  Pass
+Jarvis:  the
+Jarvis:  first
+Jarvis:  two
+Jarvis:  parts
+Jarvis:  of
+Jarvis:  the
+Jarvis:  U
+Jarvis: .S
+Jarvis: .
+Jarvis:  Medical
+Jarvis:  Licensing
+Jarvis:  Examination
+Jarvis:  (
+Jarvis: US
+Jarvis: MLE
+Jarvis: ).
+
+Jarvis: 5
+Jarvis: .
+Jarvis:  Choose
+Jarvis:  your
+Jarvis:  specialty
+Jarvis:  and
+Jarvis:  begin
+Jarvis:  your
+Jarvis:  residency
+Jarvis:  program
+Jarvis: .
+
+Jarvis: 6
+Jarvis: .
+Jarvis:  Pass
+Jarvis:  part
+Jarvis:  three
+Jarvis:  of
+Jarvis:  the
+Jarvis:  US
+Jarvis: MLE
+Jarvis:  exam
+Jarvis:  and
+Jarvis:  obtain
+Jarvis:  your
+Jarvis:  state
+Jarvis: 's
+Jarvis:  medical
+Jarvis:  license
+Jarvis: .
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Tomorrow is my exam at the school and I want to say that I want to become a doctor but what reason should I give for it
+Jarvis: 
+Jarvis: There
+Jarvis:  are
+Jarvis:  many
+Jarvis:  reasons
+Jarvis:  why
+Jarvis:  people
+Jarvis:  choose
+Jarvis:  to
+Jarvis:  become
+Jarvis:  doctors
+Jarvis: .
+Jarvis:  Some
+Jarvis:  of
+Jarvis:  the
+Jarvis:  reasons
+Jarvis:  include
+Jarvis: :
+
+
+Jarvis: 1
+Jarvis: .
+Jarvis:  To
+Jarvis:  help
+Jarvis:  others
+Jarvis: :
+Jarvis:  The
+Jarvis:  primary
+Jarvis:  job
+Jarvis:  of
+Jarvis:  a
+Jarvis:  doctor
+Jarvis:  is
+Jarvis:  to
+Jarvis:  save
+Jarvis:  lives
+Jarvis:  and
+Jarvis:  improve
+Jarvis:  the
+Jarvis:  overall
+Jarvis:  health
+Jarvis:  of
+Jarvis:  their
+Jarvis:  patients
+Jarvis: .
+Jarvis:  They
+Jarvis:  often
+Jarvis:  intervene
+Jarvis:  during
+Jarvis:  very
+Jarvis:  challenging
+Jarvis:  parts
+Jarvis:  of
+Jarvis:  their
+Jarvis:  patients
+Jarvis: '
+Jarvis:  lives
+Jarvis:  and
+Jarvis:  have
+Jarvis:  the
+Jarvis:  opportunity
+Jarvis:  to
+Jarvis:  help
+Jarvis:  them
+Jarvis:  recover
+Jarvis:  and
+Jarvis:  improve
+Jarvis:  their
+Jarvis:  well
+Jarvis: -being
+Jarvis: .
+Jarvis:  This
+Jarvis:  aspect
+Jarvis:  of
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: 's
+Jarvis:  job
+Jarvis:  can
+Jarvis:  be
+Jarvis:  incredibly
+Jarvis:  rewarding
+Jarvis:  and
+Jarvis:  is
+Jarvis:  often
+Jarvis:  one
+Jarvis:  of
+Jarvis:  the
+Jarvis:  primary
+Jarvis:  reasons
+Jarvis:  that
+Jarvis:  people
+Jarvis:  choose
+Jarvis:  a
+Jarvis:  medical
+Jarvis:  career
+Jarvis: .
+
+
+Jarvis: 2
+Jarvis: .
+Jarvis:  To
+Jarvis:  explore
+Jarvis:  science
+Jarvis: :
+Jarvis:  Bec
+Jarvis: oming
+Jarvis:  a
+Jarvis:  doctor
+Jarvis:  involves
+Jarvis:  extensive
+Jarvis:  education
+Jarvis:  in
+Jarvis:  different
+Jarvis:  scientific
+Jarvis:  fields
+Jarvis: .
+Jarvis:  Medical
+Jarvis:  students
+Jarvis:  often
+Jarvis:  study
+Jarvis:  physics
+Jarvis: ,
+Jarvis:  chemistry
+Jarvis:  and
+Jarvis:  biology
+Jarvis:  when
+Jarvis:  earning
+Jarvis:  their
+Jarvis:  undergraduate
+Jarvis:  degrees
+Jarvis:  and
+Jarvis:  then
+Jarvis:  study
+Jarvis:  subjects
+Jarvis:  like
+Jarvis:  pharmac
+Jarvis: ology
+Jarvis: ,
+Jarvis:  anatomy
+Jarvis: ,
+Jarvis:  pathology
+Jarvis:  and
+Jarvis:  neuro
+Jarvis: logy
+Jarvis:  while
+Jarvis:  in
+Jarvis:  medical
+Jarvis:  school
+Jarvis: .
+Jarvis:  These
+Jarvis:  individuals
+Jarvis:  have
+Jarvis:  the
+Jarvis:  opportunity
+Jarvis:  to
+Jarvis:  explore
+Jarvis:  a
+Jarvis:  range
+Jarvis:  of
+Jarvis:  fascinating
+Jarvis:  subjects
+Jarvis:  and
+Jarvis:  then
+Jarvis:  apply
+Jarvis:  them
+Jarvis:  in
+Jarvis:  a
+Jarvis:  practical
+Jarvis:  way
+Jarvis:  when
+Jarvis:  treating
+Jarvis:  patients
+Jarvis: .
+
+
+Jarvis: 3
+Jarvis: .
+Jarvis:  To
+Jarvis:  have
+Jarvis:  variety
+Jarvis:  in
+Jarvis:  your
+Jarvis:  work
+Jarvis: :
+Jarvis:  Being
+Jarvis:  a
+Jarvis:  doctor
+Jarvis:  can
+Jarvis:  be
+Jarvis:  an
+Jarvis:  exciting
+Jarvis:  career
+Jarvis:  and
+Jarvis:  can
+Jarvis:  provide a different experience
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis:  every
+Jarvis:  day
+Jarvis: .
+Jarvis:  Doctors
+Jarvis:  often
+Jarvis:  treat
+Jarvis:  a
+Jarvis:  variety
+Jarvis:  of
+Jarvis:  different
+Jarvis:  illnesses
+Jarvis:  and
+Jarvis:  injuries
+Jarvis:  in
+Jarvis:  a
+Jarvis:  single
+Jarvis:  day
+Jarvis:  and
+Jarvis:  may
+Jarvis:  have
+Jarvis:  the
+Jarvis:  chance
+Jarvis:  to
+Jarvis:  use
+Jarvis:  a
+Jarvis:  variety
+Jarvis:  of
+Jarvis:  different
+Jarvis:  skills
+Jarvis:  and
+Jarvis:  treatments
+Jarvis: . Working in medicine also allows
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis:  doctors
+Jarvis:  to
+Jarvis:  meet
+Jarvis:  and
+Jarvis:  interact
+Jarvis:  with
+Jarvis:  many
+Jarvis:  different
+Jarvis:  people
+Jarvis: ,
+Jarvis:  including
+Jarvis:  patients
+Jarvis: ,
+Jarvis:  families
+Jarvis:  and
+Jarvis:  colleagues
+Jarvis: .
+
+
+Jarvis: 4
+Jarvis: .
+Jarvis:  To
+Jarvis:  collaborate
+Jarvis: :
+Jarvis:  A
+Jarvis:  career
+Jarvis:  in
+Jarvis:  the
+Jarvis:  medical
+Jarvis:  field
+Jarvis:  is
+Jarvis:  often
+Jarvis:  a
+Jarvis:  good
+Jarvis:  choice
+Jarvis:  for
+Jarvis:  people
+Jarvis:  who
+Jarvis:  enjoy
+Jarvis:  working
+Jarvis:  in
+Jarvis:  a
+Jarvis:  team
+Jarvis:  atmosphere
+Jarvis: .
+Jarvis:  On
+Jarvis:  a
+Jarvis:  daily
+Jarvis:  basis
+Jarvis: ,
+Jarvis:  doctors
+Jarvis:  may
+Jarvis:  work
+Jarvis:  with
+Jarvis:  nurses
+Jarvis: ,
+Jarvis:  order
+Jarvis: lies
+Jarvis: ,
+Jarvis:  administrators
+Jarvis: ,
+Jarvis:  other
+Jarvis:  specialists
+Jarvis:  and
+Jarvis:  pharmac
+Jarvis: ists
+Jarvis: .
+Jarvis:  This
+Jarvis:  gives
+Jarvis:  them
+Jarvis:  the
+Jarvis:  opportunity
+Jarvis:  to
+Jarvis:  learn
+Jarvis:  from
+Jarvis:  others
+Jarvis:  and
+Jarvis:  to
+Jarvis:  find
+Jarvis:  collaborative
+Jarvis:  solutions
+Jarvis:  to
+Jarvis:  medical
+Jarvis:  challenges
+Jarvis: .
+
+
+Jarvis: 5
+Jarvis: .
+Jarvis:  To
+Jarvis:  have
+Jarvis:  purpose
+Jarvis:  in
+Jarvis:  your
+Jarvis:  work
+Jarvis: :
+Jarvis:  Doctors
+Jarvis:  fill
+Jarvis:  an
+Jarvis:  important
+Jarvis:  role
+Jarvis:  in
+Jarvis:  society
+Jarvis:  and
+Jarvis:  can
+Jarvis:  make
+Jarvis:  a
+Jarvis:  huge
+Jarvis:  difference
+Jarvis:  in
+Jarvis:  the
+Jarvis:  lives
+Jarvis:  of
+Jarvis:  the
+Jarvis:  people
+Jarvis:  that
+Jarvis:  they
+Jarvis:  interact
+Jarvis:  with
+Jarvis: .
+Jarvis:  They
+Jarvis:  can
+Jarvis:  help
+Jarvis:  people
+Jarvis:  live
+Jarvis:  better
+Jarvis: ,
+Jarvis:  healthier
+Jarvis:  lives
+Jarvis:  and
+Jarvis:  can
+Jarvis:  also
+Jarvis:  improve
+Jarvis:  the
+Jarvis:  lives
+Jarvis:  of
+Jarvis:  their
+Jarvis:  patients
+Jarvis: '
+Jarvis:  families
+Jarvis: .
+Jarvis:  This is often an important responsibility and can give doctors a sense of meaning and satisfaction in their work.
+
+6. To educate: Doctors complete an extensive amount of education before starting their career, and they
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis:  often
+Jarvis:  have
+Jarvis:  a
+Jarvis:  lot
+Jarvis:  of
+Jarvis:  knowledge
+Jarvis:  to
+Jarvis:  share
+Jarvis:  with
+Jarvis:  patients
+Jarvis:  and
+Jarvis:  coworkers
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis:  you
+Jarvis:  find
+Jarvis:  your
+Jarvis:  reason
+Jarvis:  for
+Jarvis:  wanting
+Jarvis:  to
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: !
+Jarvis:  Good
+Jarvis:  luck
+Jarvis:  on
+Jarvis:  your
+Jarvis:  exam
+Jarvis:  tomorrow
+Jarvis: !
+Jarvis: 👍
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Tomorrow is my conversation exam at school and I want to say that I want to become a doctor but the reason what was reason should I give for it please give the reason according to class
+You: Tomorrow is my conversation exam at my school and I want to say that I want to become a doctor but what reason should I give for it please give the reason according to class 5 chal and give only two reason for tha
+Jarvis: 
+Jarvis: I
+Jarvis:  can
+Jarvis:  understand
+Jarvis:  that
+Jarvis:  you
+Jarvis:  want
+Jarvis:  to
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: .
+Jarvis:  Here
+Jarvis:  are
+Jarvis:  two
+Jarvis:  reasons
+Jarvis:  that
+Jarvis:  you
+Jarvis:  can
+Jarvis:  give
+Jarvis:  for
+Jarvis:  wanting
+Jarvis:  to
+Jarvis:  become
+Jarvis:  a
+Jarvis:  doctor
+Jarvis:  according
+Jarvis:  to
+Jarvis:  class
+Jarvis:  
+Jarvis: 5
+Jarvis:  ch
+Jarvis: al
+Jarvis: :
+
+
+Jarvis: 1
+Jarvis: .
+Jarvis:  You
+Jarvis:  want
+Jarvis:  to
+Jarvis:  help
+Jarvis:  people
+Jarvis:  and
+Jarvis:  make
+Jarvis:  them
+Jarvis:  feel
+Jarvis:  better
+Jarvis: .
+Jarvis:  As
+Jarvis:  a
+Jarvis:  doctor
+Jarvis: ,
+Jarvis:  you
+Jarvis:  will
+Jarvis:  be
+Jarvis:  able
+Jarvis:  to
+Jarvis:  alleviate
+Jarvis:  pain
+Jarvis:  and
+Jarvis:  help
+Jarvis:  people
+Jarvis:  have
+Jarvis:  the
+Jarvis:  best
+Jarvis:  and
+Jarvis:  happiest
+Jarvis:  lives
+Jarvis:  they
+Jarvis:  can
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+Jarvis: 2
+Jarvis: .
+Jarvis:  You
+Jarvis:  are
+Jarvis:  inspired
+Jarvis:  by
+Jarvis:  doctors
+Jarvis:  who
+Jarvis:  have
+Jarvis:  saved
+Jarvis:  lives
+Jarvis:  and
+Jarvis:  want
+Jarvis:  to
+Jarvis:  be
+Jarvis:  like
+Jarvis:  them
+Jarvis: .
+Jarvis:  You
+Jarvis:  love
+Jarvis:  their
+Jarvis:  courage
+Jarvis: ,
+Jarvis:  honesty
+Jarvis: ,
+Jarvis:  bravery
+Jarvis:  and
+Jarvis:  polite
+Jarvis:  behavior
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: The Capital of Sri Lanka
+Jarvis: 
+Jarvis: The
+Jarvis:  capital
+Jarvis:  of
+Jarvis:  Sri
+Jarvis:  Lanka
+Jarvis:  is
+Jarvis:  **
+Jarvis: S
+Jarvis: ri
+Jarvis:  Jay
+Jarvis: aw
+Jarvis: arden
+Jarvis: ep
+Jarvis: ura
+Jarvis:  K
+Jarvis: otte
+Jarvis: **
+Jarvis:  since
+Jarvis:  
+Jarvis: 198
+Jarvis: 2
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  It
+Jarvis:  is
+Jarvis:  located
+Jarvis:  adjacent
+Jarvis:  to
+Jarvis:  the
+Jarvis:  urban
+Jarvis:  area
+Jarvis:  of
+Jarvis:  Sri
+Jarvis:  Lanka
+Jarvis: 's
+Jarvis:  de
+Jarvis:  facto
+Jarvis:  economic
+Jarvis: ,
+Jarvis:  executive
+Jarvis: ,
+Jarvis:  and
+Jarvis:  judicial
+Jarvis:  capital
+Jarvis: ,
+Jarvis:  Col
+Jarvis: ombo
+Jarvis: 
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what are the capabilities
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  you
+Jarvis:  are
+Jarvis:  referring
+Jarvis:  to
+Jarvis: .
+Jarvis:  Can
+Jarvis:  you
+Jarvis:  please
+Jarvis:  clarify
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis:  by
+Jarvis:  "
+Jarvis: capabilities
+Jarvis: "
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: do you know my name
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  but
+Jarvis:  I
+Jarvis:  don
+Jarvis: 't
+Jarvis:  know
+Jarvis:  your
+Jarvis:  name
+Jarvis: .
+Jarvis:  Can
+Jarvis:  you
+Jarvis:  please
+Jarvis:  tell
+Jarvis:  me
+Jarvis:  your
+Jarvis:  name
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Hello, how are you
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: no i'm feeling slippy
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  to
+Jarvis:  hear
+Jarvis:  that
+Jarvis: .
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis:  by
+Jarvis:  "
+Jarvis: sl
+Jarvis: ippy
+Jarvis: ".
+Jarvis:  Could
+Jarvis:  you
+Jarvis:  please
+Jarvis:  clarify
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis:  by
+Jarvis:  that
+Jarvis: ?
+Jarvis:  Are
+Jarvis:  you
+Jarvis:  feeling
+Jarvis:  sleepy
+Jarvis:  or
+Jarvis:  is
+Jarvis:  it
+Jarvis:  something
+Jarvis:  else
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: I'm Feeling Slippy
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  to
+Jarvis:  hear
+Jarvis:  that
+Jarvis: .
+Jarvis:  "
+Jarvis: I
+Jarvis: 'm
+Jarvis:  feeling
+Jarvis:  sl
+Jarvis: ippy
+Jarvis: "
+Jarvis:  is
+Jarvis:  not
+Jarvis:  a
+Jarvis:  common
+Jarvis:  phrase
+Jarvis: .
+Jarvis:  If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  feeling
+Jarvis:  d
+Jarvis: rows
+Jarvis: y
+Jarvis:  or
+Jarvis:  sleepy
+Jarvis: ,
+Jarvis:  there
+Jarvis:  could
+Jarvis:  be
+Jarvis:  many
+Jarvis:  reasons
+Jarvis:  for
+Jarvis:  that
+Jarvis: .
+Jarvis:  Some
+Jarvis:  of
+Jarvis:  the
+Jarvis:  most
+Jarvis:  common
+Jarvis:  reasons
+Jarvis:  include
+Jarvis:  lifestyle
+Jarvis:  factors
+Jarvis: ,
+Jarvis:  medical
+Jarvis:  conditions
+Jarvis: ,
+Jarvis:  sleep
+Jarvis:  disorders
+Jarvis: ,
+Jarvis:  mental
+Jarvis:  health
+Jarvis:  conditions
+Jarvis: ,
+Jarvis:  chronic
+Jarvis:  stress
+Jarvis: ,
+Jarvis:  and
+Jarvis:  nutritional
+Jarvis:  deficiencies
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  experiencing
+Jarvis:  any
+Jarvis:  other
+Jarvis:  symptoms
+Jarvis:  along
+Jarvis:  with
+Jarvis:  d
+Jarvis: rows
+Jarvis: iness
+Jarvis:  or
+Jarvis:  sleep
+Jarvis: iness
+Jarvis: ,
+Jarvis:  it
+Jarvis: 's
+Jarvis:  best
+Jarvis:  to
+Jarvis:  see
+Jarvis:  a
+Jarvis:  doctor
+Jarvis:  to
+Jarvis:  determine
+Jarvis:  the
+Jarvis:  underlying
+Jarvis:  cause
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: reset and make it creative
+Jarvis: Hello
+Jarvis: ,
+Jarvis:  this
+Jarvis:  is
+Jarvis:  Bing
+Jarvis: .
+Jarvis:  I
+Jarvis:  have
+Jarvis:  switched
+Jarvis:  to
+Jarvis:  the
+Jarvis:  **
+Jarvis: creative
+Jarvis:  mode
+Jarvis: **
+Jarvis: .
+Jarvis:  In
+Jarvis:  this
+Jarvis:  mode
+Jarvis: ,
+Jarvis:  I
+Jarvis:  can
+Jarvis:  generate
+Jarvis:  imaginative
+Jarvis:  and
+Jarvis:  innovative
+Jarvis:  content
+Jarvis:  such
+Jarvis:  as
+Jarvis:  poems
+Jarvis: ,
+Jarvis:  stories
+Jarvis: ,
+Jarvis:  code
+Jarvis: ,
+Jarvis:  essays
+Jarvis: ,
+Jarvis:  songs
+Jarvis: ,
+Jarvis:  celebrity
+Jarvis:  par
+Jarvis: odies
+Jarvis: ,
+Jarvis:  and
+Jarvis:  images
+Jarvis:  using
+Jarvis:  my
+Jarvis:  own
+Jarvis:  words
+Jarvis:  and
+Jarvis:  knowledge
+Jarvis: .
+Jarvis:  I
+Jarvis:  can
+Jarvis:  also
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis:  writing
+Jarvis: ,
+Jarvis:  rewriting
+Jarvis: ,
+Jarvis:  improving
+Jarvis: ,
+Jarvis:  or
+Jarvis:  optimizing
+Jarvis:  your
+Jarvis:  content
+Jarvis: .
+Jarvis:  What
+Jarvis:  would
+Jarvis:  you
+Jarvis:  like
+Jarvis:  me
+Jarvis:  to
+Jarvis:  do
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Reference reset and naked creative
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  but
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis:  by
+Jarvis:  "
+Jarvis: Reference
+Jarvis:  reset
+Jarvis:  and
+Jarvis:  naked
+Jarvis:  creative
+Jarvis: ".
+Jarvis:  Could
+Jarvis:  you
+Jarvis:  please
+Jarvis:  clarify
+Jarvis: ?
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: reset and make it creative
+Jarvis: Hello
+Jarvis: ,
+Jarvis:  this
+Jarvis:  is
+Jarvis:  Bing
+Jarvis: .
+Jarvis:  I
+Jarvis:  have
+Jarvis:  reset
+Jarvis:  the
+Jarvis:  conversation
+Jarvis:  and
+Jarvis:  switched
+Jarvis:  to
+Jarvis:  the
+Jarvis:  creative
+Jarvis:  mode
+Jarvis: .
+Jarvis:  In
+Jarvis:  this
+Jarvis:  mode
+Jarvis: ,
+Jarvis:  I
+Jarvis:  can
+Jarvis:  generate
+Jarvis:  imaginative
+Jarvis:  and
+Jarvis:  innovative
+Jarvis:  content
+Jarvis:  such
+Jarvis:  as
+Jarvis:  poems
+Jarvis: ,
+Jarvis:  stories
+Jarvis: ,
+Jarvis:  code
+Jarvis: ,
+Jarvis:  essays
+Jarvis: ,
+Jarvis:  songs
+Jarvis: ,
+Jarvis:  celebrity
+Jarvis:  par
+Jarvis: odies
+Jarvis: ,
+Jarvis:  and
+Jarvis:  images
+Jarvis:  using
+Jarvis:  my
+Jarvis:  own
+Jarvis:  words
+Jarvis:  and
+Jarvis:  knowledge
+Jarvis: .
+Jarvis:  I
+Jarvis:  can
+Jarvis:  also
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis:  writing
+Jarvis: ,
+Jarvis:  rewriting
+Jarvis: ,
+Jarvis:  improving
+Jarvis: ,
+Jarvis:  or
+Jarvis:  optimizing
+Jarvis:  your
+Jarvis:  content
+Jarvis: .
+Jarvis:  What
+Jarvis:  would
+Jarvis:  you
+Jarvis:  like
+Jarvis:  to
+Jarvis:  chat
+Jarvis:  about
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis: ,
+Jarvis:  I
+Jarvis:  didn
+Jarvis: 't
+Jarvis:  receive
+Jarvis:  any
+Jarvis:  message
+Jarvis:  from
+Jarvis:  you
+Jarvis: .
+Jarvis:  Is
+Jarvis:  there
+Jarvis:  something
+Jarvis:  you
+Jarvis:  want
+Jarvis:  to
+Jarvis:  chat
+Jarvis:  about
+Jarvis: ?
+Jarvis:  You
+Jarvis:  can
+Jarvis:  ask
+Jarvis:  me
+Jarvis:  to
+Jarvis:  create
+Jarvis:  some
+Jarvis:  creative
+Jarvis:  content
+Jarvis:  for
+Jarvis:  you
+Jarvis: ,
+Jarvis:  such
+Jarvis:  as
+Jarvis:  a
+Jarvis:  poem
+Jarvis: ,
+Jarvis:  a
+Jarvis:  story
+Jarvis: ,
+Jarvis:  a
+Jarvis:  song
+Jarvis: ,
+Jarvis:  or
+Jarvis:  an
+Jarvis:  image
+Jarvis: .
+Jarvis:  Or
+Jarvis:  you
+Jarvis:  can
+Jarvis:  share
+Jarvis:  your
+Jarvis:  own
+Jarvis:  content
+Jarvis:  with
+Jarvis:  me
+Jarvis:  and
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  improve
+Jarvis:  it
+Jarvis: .
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  always
+Jarvis:  happy
+Jarvis:  to
+Jarvis:  chat
+Jarvis:  with
+Jarvis:  you
+Jarvis: .
+Jarvis:  😊
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Hi
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Write an essay about wildlife
+Jarvis: 
+Jarvis: Wild
+Jarvis: life
+Jarvis:  is
+Jarvis:  an
+Jarvis:  essential
+Jarvis:  part
+Jarvis:  of
+Jarvis:  our
+Jarvis:  planet
+Jarvis: 's
+Jarvis:  biodiversity
+Jarvis: .
+Jarvis:  It
+Jarvis:  includes
+Jarvis:  all
+Jarvis:  living
+Jarvis:  organisms
+Jarvis:  that
+Jarvis:  grow
+Jarvis:  or
+Jarvis:  live
+Jarvis:  wild
+Jarvis:  in
+Jarvis:  an
+Jarvis:  area
+Jarvis:  without
+Jarvis:  being
+Jarvis:  introduced
+Jarvis:  by
+Jarvis:  humans
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  Wildlife
+Jarvis:  conservation
+Jarvis:  aims
+Jarvis:  to
+Jarvis:  protect
+Jarvis:  plant
+Jarvis:  and
+Jarvis:  animal
+Jarvis:  species
+Jarvis:  as
+Jarvis:  the
+Jarvis:  human
+Jarvis:  population
+Jarvis:  enc
+Jarvis: ro
+Jarvis: aches
+Jarvis:  on
+Jarvis:  their
+Jarvis:  resources
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  goal
+Jarvis:  of
+Jarvis:  wildlife
+Jarvis:  conservation
+Jarvis:  is
+Jarvis:  to
+Jarvis:  ensure
+Jarvis:  the
+Jarvis:  survival
+Jarvis:  of
+Jarvis:  these
+Jarvis:  species
+Jarvis:  and
+Jarvis:  to
+Jarvis:  educate
+Jarvis:  people
+Jarvis:  on
+Jarvis:  living
+Jarvis:  sustain
+Jarvis: ably
+Jarvis:  with
+Jarvis:  other
+Jarvis:  species
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: There
+Jarvis:  are
+Jarvis:  many
+Jarvis:  wild
+Jarvis:  animals
+Jarvis:  that
+Jarvis:  are
+Jarvis:  vulnerable
+Jarvis:  to
+Jarvis:  dangers
+Jarvis:  such
+Jarvis:  as
+Jarvis:  po
+Jarvis: aching
+Jarvis:  and
+Jarvis:  extinction
+Jarvis: .
+Jarvis:  The
+Jarvis:  human
+Jarvis:  population
+Jarvis:  has
+Jarvis:  grown
+Jarvis:  exponentially
+Jarvis:  over
+Jarvis:  the
+Jarvis:  past
+Jarvis:  
+Jarvis: 200
+Jarvis:  years
+Jarvis: ,
+Jarvis:  to
+Jarvis:  more
+Jarvis:  than
+Jarvis:  seven
+Jarvis:  billion
+Jarvis:  people
+Jarvis:  today
+Jarvis: ,
+Jarvis:  and
+Jarvis:  it
+Jarvis:  continues
+Jarvis:  to
+Jarvis:  rapidly
+Jarvis:  grow
+Jarvis: .
+Jarvis:  This
+Jarvis:  means
+Jarvis:  natural
+Jarvis:  resources
+Jarvis:  are
+Jarvis:  being
+Jarvis:  consumed
+Jarvis:  faster
+Jarvis:  than
+Jarvis:  ever
+Jarvis:  by
+Jarvis:  the
+Jarvis:  billions
+Jarvis:  of
+Jarvis:  people
+Jarvis:  on
+Jarvis:  the
+Jarvis:  planet
+Jarvis: .
+Jarvis:  This
+Jarvis:  growth
+Jarvis:  and
+Jarvis:  development
+Jarvis:  also
+Jarvis:  end
+Jarvis: angers
+Jarvis:  the
+Jarvis:  habitats
+Jarvis:  and
+Jarvis:  existence
+Jarvis:  of
+Jarvis:  various
+Jarvis:  types
+Jarvis:  of
+Jarvis:  wildlife
+Jarvis:  around
+Jarvis:  the
+Jarvis:  world
+Jarvis: ,
+Jarvis:  particularly
+Jarvis:  animals
+Jarvis:  and
+Jarvis:  plants
+Jarvis:  that
+Jarvis:  may
+Jarvis:  be
+Jarvis:  displaced
+Jarvis:  for
+Jarvis:  land
+Jarvis:  development
+Jarvis: ,
+Jarvis:  or
+Jarvis:  used
+Jarvis:  for
+Jarvis:  food
+Jarvis:  or
+Jarvis:  other
+Jarvis:  human
+Jarvis:  purposes
+Jarvis: .
+Jarvis:  Other
+Jarvis:  threats
+Jarvis:  to
+Jarvis:  wildlife
+Jarvis:  include
+Jarvis:  the
+Jarvis:  introduction
+Jarvis:  of
+Jarvis:  invasive
+Jarvis:  species
+Jarvis:  from
+Jarvis:  other
+Jarvis:  parts
+Jarvis:  of
+Jarvis:  the
+Jarvis:  world
+Jarvis: ,
+Jarvis:  climate
+Jarvis:  change
+Jarvis: ,
+Jarvis:  pollution
+Jarvis: ,
+Jarvis:  hunting
+Jarvis: ,
+Jarvis:  fishing
+Jarvis: ,
+Jarvis:  and
+Jarvis:  po
+Jarvis: aching
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: National
+Jarvis:  and
+Jarvis:  international
+Jarvis:  organizations
+Jarvis:  like
+Jarvis:  the
+Jarvis:  World
+Jarvis:  Wildlife
+Jarvis:  Fund
+Jarvis: ,
+Jarvis:  Conservation
+Jarvis:  International
+Jarvis: ,
+Jarvis:  the
+Jarvis:  Wildlife
+Jarvis:  Conservation
+Jarvis:  Society
+Jarvis: ,
+Jarvis:  and
+Jarvis:  the
+Jarvis:  United
+Jarvis:  Nations
+Jarvis:  work
+Jarvis:  to
+Jarvis:  support
+Jarvis:  global
+Jarvis:  animal
+Jarvis:  and
+Jarvis:  habitat
+Jarvis:  conservation
+Jarvis:  efforts
+Jarvis:  on
+Jarvis:  many
+Jarvis:  different
+Jarvis:  fronts
+Jarvis: .
+Jarvis:  They
+Jarvis:  work
+Jarvis:  with
+Jarvis:  the
+Jarvis:  government
+Jarvis:  to
+Jarvis:  establish
+Jarvis:  and
+Jarvis:  protect
+Jarvis:  public
+Jarvis:  lands
+Jarvis: ,
+Jarvis:  like
+Jarvis:  national
+Jarvis:  parks
+Jarvis:  and
+Jarvis:  wildlife
+Jarvis:  ref
+Jarvis: uges
+Jarvis: .
+Jarvis:  They
+Jarvis:  help
+Jarvis:  write
+Jarvis:  legislation
+Jarvis: ,
+Jarvis:  such
+Jarvis:  as
+Jarvis:  the
+Jarvis:  End
+Jarvis: angered
+Jarvis:  Species
+Jarvis:  Act
+Jarvis:  (
+Jarvis: ESA
+Jarvis: )
+Jarvis:  of
+Jarvis:  
+Jarvis: 197
+Jarvis: 3
+Jarvis:  in
+Jarvis:  the
+Jarvis:  United
+Jarvis:  States
+Jarvis: ,
+Jarvis:  to
+Jarvis:  protect
+Jarvis:  various
+Jarvis:  species
+Jarvis: .
+Jarvis:  They
+Jarvis:  work
+Jarvis:  with
+Jarvis:  law
+Jarvis:  enforcement
+Jarvis:  to
+Jarvis:  prosecute
+Jarvis:  wildlife
+Jarvis:  crimes
+Jarvis: ,
+Jarvis:  like
+Jarvis:  wildlife
+Jarvis:  trafficking
+Jarvis:  and
+Jarvis:  illegal
+Jarvis:  hunting
+Jarvis:  (
+Jarvis: po
+Jarvis: aching
+Jarvis: ).
+Jarvis:  They
+Jarvis:  also
+Jarvis:  promote
+Jarvis:  biodiversity
+Jarvis:  to
+Jarvis:  support
+Jarvis:  the
+Jarvis:  growing
+Jarvis:  human
+Jarvis:  population
+Jarvis:  while
+Jarvis:  preserving
+Jarvis:  existing
+Jarvis:  species
+Jarvis:  and
+Jarvis:  habitats
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: write me an essay about wildlife
+Jarvis: 
+Jarvis: Wild
+Jarvis: life
+Jarvis:  is
+Jarvis:  a
+Jarvis:  term
+Jarvis:  that
+Jarvis:  refers
+Jarvis:  to
+Jarvis:  all
+Jarvis:  non
+Jarvis: -dom
+Jarvis: estic
+Jarvis: ated
+Jarvis:  living
+Jarvis:  organisms
+Jarvis:  including
+Jarvis:  plants
+Jarvis: ,
+Jarvis:  animals
+Jarvis: ,
+Jarvis:  and
+Jarvis:  micro
+Jarvis: organisms
+Jarvis:  that
+Jarvis:  grow
+Jarvis:  or
+Jarvis:  live
+Jarvis:  in
+Jarvis:  the
+Jarvis:  wild
+Jarvis:  without
+Jarvis:  being
+Jarvis:  introduced
+Jarvis:  by
+Jarvis:  humans
+Jarvis: .
+Jarvis:  Wildlife
+Jarvis:  conservation
+Jarvis:  aims
+Jarvis:  to
+Jarvis:  protect
+Jarvis:  plant
+Jarvis:  and
+Jarvis:  animal
+Jarvis:  species
+Jarvis:  as
+Jarvis:  the
+Jarvis:  human
+Jarvis:  population
+Jarvis:  enc
+Jarvis: ro
+Jarvis: aches
+Jarvis:  on
+Jarvis:  their
+Jarvis:  resources
+Jarvis: .
+Jarvis:  The
+Jarvis:  goal
+Jarvis:  of
+Jarvis:  wildlife
+Jarvis:  conservation
+Jarvis:  is
+Jarvis:  to
+Jarvis:  ensure
+Jarvis:  the
+Jarvis:  survival
+Jarvis:  of
+Jarvis:  these
+Jarvis:  species
+Jarvis:  and
+Jarvis:  to
+Jarvis:  educate
+Jarvis:  people
+Jarvis:  on
+Jarvis:  living
+Jarvis:  sustain
+Jarvis: ably
+Jarvis:  with
+Jarvis:  other
+Jarvis:  species
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: Wild
+Jarvis: life
+Jarvis:  provides
+Jarvis:  balance
+Jarvis:  and
+Jarvis:  stability
+Jarvis:  to
+Jarvis:  nature
+Jarvis: ’s
+Jarvis:  processes
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  an
+Jarvis:  essential
+Jarvis:  part
+Jarvis:  of
+Jarvis:  the
+Jarvis:  world
+Jarvis: ’s
+Jarvis:  ecosystems
+Jarvis: .
+Jarvis:  The
+Jarvis:  human
+Jarvis:  population
+Jarvis:  has
+Jarvis:  grown
+Jarvis:  exponentially
+Jarvis:  over
+Jarvis:  the
+Jarvis:  past
+Jarvis:  
+Jarvis: 200
+Jarvis:  years
+Jarvis: ,
+Jarvis:  to
+Jarvis:  more
+Jarvis:  than
+Jarvis:  seven
+Jarvis:  billion
+Jarvis:  people
+Jarvis:  today
+Jarvis: ,
+Jarvis:  and
+Jarvis:  it
+Jarvis:  continues
+Jarvis:  to
+Jarvis:  rapidly
+Jarvis:  grow
+Jarvis: .
+Jarvis:  This
+Jarvis:  means
+Jarvis:  natural
+Jarvis:  resources
+Jarvis:  are
+Jarvis:  being
+Jarvis:  consumed
+Jarvis:  faster
+Jarvis:  than
+Jarvis:  ever
+Jarvis:  by
+Jarvis:  the
+Jarvis:  billions
+Jarvis:  of
+Jarvis:  people
+Jarvis:  on
+Jarvis:  the
+Jarvis:  planet
+Jarvis: .
+Jarvis:  This
+Jarvis:  growth
+Jarvis:  and
+Jarvis:  development
+Jarvis:  also
+Jarvis:  end
+Jarvis: angers
+Jarvis:  the
+Jarvis:  habitats
+Jarvis:  and
+Jarvis:  existence
+Jarvis:  of
+Jarvis:  various
+Jarvis:  types
+Jarvis:  of
+Jarvis:  wildlife
+Jarvis:  around
+Jarvis:  the
+Jarvis:  world
+Jarvis: ,
+Jarvis:  particularly
+Jarvis:  animals
+Jarvis:  and
+Jarvis:  plants
+Jarvis:  that
+Jarvis:  may
+Jarvis:  be
+Jarvis:  displaced
+Jarvis:  for
+Jarvis:  land
+Jarvis:  development
+Jarvis:  or
+Jarvis:  used
+Jarvis:  for
+Jarvis:  food
+Jarvis:  or
+Jarvis:  other
+Jarvis:  human
+Jarvis:  purposes
+Jarvis: .
+Jarvis:  Other
+Jarvis:  threats
+Jarvis:  to
+Jarvis:  wildlife
+Jarvis:  include
+Jarvis:  the
+Jarvis:  introduction
+Jarvis:  of
+Jarvis:  invasive
+Jarvis:  species
+Jarvis:  from
+Jarvis:  other
+Jarvis:  parts
+Jarvis:  of
+Jarvis:  the
+Jarvis:  world
+Jarvis: ,
+Jarvis:  climate
+Jarvis:  change
+Jarvis: ,
+Jarvis:  pollution
+Jarvis: ,
+Jarvis:  hunting
+Jarvis: ,
+Jarvis:  fishing
+Jarvis: ,
+Jarvis:  and
+Jarvis:  po
+Jarvis: aching
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: National
+Jarvis:  and
+Jarvis:  international
+Jarvis:  organizations
+Jarvis:  like
+Jarvis:  the
+Jarvis:  World
+Jarvis:  Wildlife
+Jarvis:  Fund
+Jarvis: ,
+Jarvis:  Conservation
+Jarvis:  International
+Jarvis: ,
+Jarvis:  the
+Jarvis:  Wildlife
+Jarvis:  Conservation
+Jarvis:  Society
+Jarvis: ,
+Jarvis:  and
+Jarvis:  the
+Jarvis:  United
+Jarvis:  Nations
+Jarvis:  work
+Jarvis:  to
+Jarvis:  support
+Jarvis:  global
+Jarvis:  animal
+Jarvis:  and
+Jarvis:  habitat
+Jarvis:  conservation
+Jarvis:  efforts
+Jarvis:  on
+Jarvis:  many
+Jarvis:  different
+Jarvis:  fronts
+Jarvis: .
+Jarvis:  They
+Jarvis:  work
+Jarvis:  with
+Jarvis:  the
+Jarvis:  government
+Jarvis:  to
+Jarvis:  establish
+Jarvis:  and
+Jarvis:  protect
+Jarvis:  public
+Jarvis:  lands
+Jarvis:  like
+Jarvis:  national
+Jarvis:  parks
+Jarvis:  and
+Jarvis:  wildlife
+Jarvis:  ref
+Jarvis: uges
+Jarvis: .
+Jarvis:  They
+Jarvis:  help
+Jarvis:  write
+Jarvis:  legislation
+Jarvis:  such
+Jarvis:  as
+Jarvis:  the
+Jarvis:  End
+Jarvis: angered
+Jarvis:  Species
+Jarvis:  Act
+Jarvis:  (
+Jarvis: ESA
+Jarvis: )
+Jarvis:  of
+Jarvis:  
+Jarvis: 197
+Jarvis: 3
+Jarvis:  in
+Jarvis:  the
+Jarvis:  United
+Jarvis:  States
+Jarvis:  to
+Jarvis:  protect
+Jarvis:  various
+Jarvis:  species
+Jarvis: .
+Jarvis:  They
+Jarvis:  work
+Jarvis:  with
+Jarvis:  law
+Jarvis:  enforcement
+Jarvis:  to
+Jarvis:  prosecute
+Jarvis:  wildlife
+Jarvis:  crimes
+Jarvis:  like
+Jarvis:  wildlife
+Jarvis:  trafficking
+Jarvis:  and
+Jarvis:  illegal
+Jarvis:  hunting
+Jarvis:  (
+Jarvis: po
+Jarvis: aching
+Jarvis: ).
+Jarvis:  They
+Jarvis:  also
+Jarvis:  promote
+Jarvis:  biodiversity
+Jarvis:  to
+Jarvis:  support
+Jarvis:  the
+Jarvis:  growing
+Jarvis:  human
+Jarvis:  population
+Jarvis:  while
+Jarvis:  preserving
+Jarvis:  existing
+Jarvis:  species
+Jarvis:  and
+Jarvis:  habitats
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  more
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Hi
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Exit
+Jarvis: 
+Jarvis: Thank
+Jarvis:  you
+Jarvis:  for
+Jarvis:  chatting
+Jarvis:  with
+Jarvis:  me
+Jarvis: .
+Jarvis:  Have
+Jarvis:  a
+Jarvis:  great
+Jarvis:  day
+Jarvis: !
+Jarvis: 👋
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: 
+Jarvis: 
+Jarvis: Hello
+Jarvis: !
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Exit
+Jarvis: 
+Jarvis: Thank
+Jarvis:  you
+Jarvis:  for
+Jarvis:  chatting
+Jarvis:  with
+Jarvis:  me
+Jarvis: .
+Jarvis:  Have
+Jarvis:  a
+Jarvis:  great
+Jarvis:  day
+Jarvis: !
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Exit
+Jarvis: 
+Jarvis: Good
+Jarvis: bye
+Jarvis: !
+Jarvis:  Have
+Jarvis:  a
+Jarvis:  great
+Jarvis:  day
+Jarvis: !
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: 
+Jarvis: Goodbye! Have a great day! 😊
+You: Exit
+You: Hello, how are you
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  doing
+Jarvis:  well
+Jarvis: ,
+Jarvis:  thank
+Jarvis:  you
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Hello, how are you
+You: tell me what is the capital of china
+Jarvis: 
+Jarvis: The
+Jarvis:  capital
+Jarvis:  of
+Jarvis:  China
+Jarvis:  is
+Jarvis:  **
+Jarvis: Be
+Jarvis: ijing
+Jarvis: **
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  It
+Jarvis:  is
+Jarvis:  one
+Jarvis:  of
+Jarvis:  the
+Jarvis:  most
+Jarvis:  populous
+Jarvis:  cities
+Jarvis:  in
+Jarvis:  the
+Jarvis:  world
+Jarvis:  and
+Jarvis:  is
+Jarvis:  located
+Jarvis:  in
+Jarvis:  Northern
+Jarvis:  China
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  Beijing
+Jarvis:  is
+Jarvis:  the
+Jarvis:  country
+Jarvis: ’s
+Jarvis:  political
+Jarvis: ,
+Jarvis:  educational
+Jarvis: ,
+Jarvis:  and
+Jarvis:  cultural
+Jarvis:  center
+Jarvis: ,
+Jarvis:  housing
+Jarvis:  the
+Jarvis:  headquarters
+Jarvis:  of
+Jarvis:  most
+Jarvis:  of
+Jarvis:  China
+Jarvis: ’s
+Jarvis:  largest
+Jarvis:  state
+Jarvis: -owned
+Jarvis:  companies
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: tell me the capital of china
+Jarvis: 
+Jarvis: The
+Jarvis:  capital
+Jarvis:  of
+Jarvis:  China
+Jarvis:  is
+Jarvis:  **
+Jarvis: Be
+Jarvis: ijing
+Jarvis: **
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  It
+Jarvis:  is
+Jarvis:  one
+Jarvis:  of
+Jarvis:  the
+Jarvis:  most
+Jarvis:  populous
+Jarvis:  cities
+Jarvis:  in
+Jarvis:  the
+Jarvis:  world
+Jarvis:  and
+Jarvis:  is
+Jarvis:  located
+Jarvis:  in
+Jarvis:  Northern
+Jarvis:  China
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: tell me the capital of china
+Jarvis: 
+Jarvis: I
+Jarvis:  have
+Jarvis:  already
+Jarvis:  answered
+Jarvis:  that
+Jarvis:  question
+Jarvis: .
+Jarvis:  The
+Jarvis:  capital
+Jarvis:  of
+Jarvis:  China
+Jarvis:  is
+Jarvis:  **
+Jarvis: Be
+Jarvis: ijing
+Jarvis: **
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: 
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: 
+Jarvis:  Is
+Jarvis:  there
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: tell me the capital of china
+Jarvis: 
+Jarvis: The
+Jarvis:  capital
+Jarvis:  of
+Jarvis:  China
+Jarvis:  is
+Jarvis:  **
+Jarvis: Be
+Jarvis: ijing
+Jarvis: **
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Tell me a joke
+Jarvis: 
+Jarvis: Here
+Jarvis: 's
+Jarvis:  a
+Jarvis:  joke
+Jarvis:  for
+Jarvis:  you
+Jarvis: :
+
+
+Jarvis: Why
+Jarvis:  did
+Jarvis:  the
+Jarvis:  tomato
+Jarvis:  turn
+Jarvis:  red
+Jarvis: ?
+
+
+Jarvis: Because
+Jarvis:  it
+Jarvis:  saw
+Jarvis:  the
+Jarvis:  salad
+Jarvis:  dressing
+Jarvis: !
+Jarvis:  😂
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Question Rajkamal
+You: What
+You: what is thermodynamics
+Jarvis: 
+Jarvis: Th
+Jarvis: erm
+Jarvis: odynamics
+Jarvis:  is
+Jarvis:  a
+Jarvis:  branch
+Jarvis:  of
+Jarvis:  physics
+Jarvis:  that
+Jarvis:  deals
+Jarvis:  with
+Jarvis:  the
+Jarvis:  relationships
+Jarvis:  between
+Jarvis:  heat
+Jarvis:  and
+Jarvis:  other
+Jarvis:  forms
+Jarvis:  of
+Jarvis:  energy
+Jarvis: .
+Jarvis:  It
+Jarvis:  describes
+Jarvis:  how
+Jarvis:  thermal
+Jarvis:  energy
+Jarvis:  is
+Jarvis:  converted
+Jarvis:  to
+Jarvis:  and
+Jarvis:  from
+Jarvis:  other
+Jarvis:  forms
+Jarvis:  of
+Jarvis:  energy
+Jarvis:  and
+Jarvis:  how
+Jarvis:  thermal
+Jarvis:  energy
+Jarvis:  affects
+Jarvis:  matter
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  In
+Jarvis:  broad
+Jarvis:  terms
+Jarvis: ,
+Jarvis:  therm
+Jarvis: odynamics
+Jarvis:  deals
+Jarvis:  with
+Jarvis:  the
+Jarvis:  transfer
+Jarvis:  of
+Jarvis:  energy
+Jarvis:  from
+Jarvis:  one
+Jarvis:  place
+Jarvis:  to
+Jarvis:  another
+Jarvis:  and
+Jarvis:  from
+Jarvis:  one
+Jarvis:  form
+Jarvis:  to
+Jarvis:  another
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  key
+Jarvis:  concept
+Jarvis:  is
+Jarvis:  that
+Jarvis:  heat
+Jarvis:  is
+Jarvis:  a
+Jarvis:  form
+Jarvis:  of
+Jarvis:  energy
+Jarvis:  corresponding
+Jarvis:  to
+Jarvis:  a
+Jarvis:  definite
+Jarvis:  amount
+Jarvis:  of
+Jarvis:  mechanical
+Jarvis:  work
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: .
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  more
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: google search what is n apple
+You: tell me who is the prime minister of india
+You: tell me who is the prime minister of india
+You: tell me what is afterlife
+You: tell me who is the president of india
+You: hello can you tell me who is the prime minister of india 
+Jarvis: 
+Jarvis: The
+Jarvis:  current
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  of
+Jarvis:  India
+Jarvis:  is
+Jarvis:  **
+Jarvis: N
+Jarvis: arendra
+Jarvis:  Modi
+Jarvis: **
+Jarvis: .
+Jarvis:  He
+Jarvis:  has
+Jarvis:  been
+Jarvis:  serving
+Jarvis:  as
+Jarvis:  the
+Jarvis:  
+Jarvis: 14
+Jarvis: th
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  of
+Jarvis:  India
+Jarvis:  since
+Jarvis:  May
+Jarvis:  
+Jarvis: 201
+Jarvis: 4
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Tell me what can I do for you
+You: what does he have to do
+You: Tell me who is the Prime Minister of India
+You: Tell me who is the Prime Minister of India
+Jarvis: Searching the web for: `who is the Prime Minister of India`
+Jarvis: 
+Jarvis: 
+Jarvis: The
+Jarvis:  current
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  of
+Jarvis:  India
+Jarvis:  is
+Jarvis:  **
+Jarvis: N
+Jarvis: arendra
+Jarvis:  Modi
+Jarvis: **
+Jarvis: .
+Jarvis:  He
+Jarvis:  has
+Jarvis:  held
+Jarvis:  the
+Jarvis:  prem
+Jarvis: iership
+Jarvis:  since
+Jarvis:  
+Jarvis: 201
+Jarvis: 4
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is machine learning
+Jarvis: Searching the web for: `machine learning`
+Jarvis: 
+Jarvis: 
+Jarvis: Machine
+Jarvis:  learning
+Jarvis:  is
+Jarvis:  a
+Jarvis:  branch
+Jarvis:  of
+Jarvis:  artificial
+Jarvis:  intelligence
+Jarvis:  (
+Jarvis: AI
+Jarvis: )
+Jarvis:  and
+Jarvis:  computer
+Jarvis:  science
+Jarvis:  which
+Jarvis:  focuses
+Jarvis:  on
+Jarvis:  the
+Jarvis:  use
+Jarvis:  of
+Jarvis:  data
+Jarvis:  and
+Jarvis:  algorithms
+Jarvis:  to
+Jarvis:  im
+Jarvis: itate
+Jarvis:  the
+Jarvis:  way
+Jarvis:  that
+Jarvis:  humans
+Jarvis:  learn
+Jarvis: ,
+Jarvis:  gradually
+Jarvis:  improving
+Jarvis:  its
+Jarvis:  accuracy
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  a
+Jarvis:  subset
+Jarvis:  of
+Jarvis:  AI
+Jarvis:  that
+Jarvis:  involves
+Jarvis:  training
+Jarvis:  algorithms
+Jarvis:  to
+Jarvis:  make
+Jarvis:  predictions
+Jarvis:  or
+Jarvis:  decisions
+Jarvis:  based
+Jarvis:  on
+Jarvis:  input
+Jarvis:  data
+Jarvis: .
+Jarvis:  The
+Jarvis:  algorithms
+Jarvis:  can
+Jarvis:  improve
+Jarvis:  their
+Jarvis:  performance
+Jarvis:  over
+Jarvis:  time
+Jarvis:  by
+Jarvis:  learning
+Jarvis:  from
+Jarvis:  new
+Jarvis:  data
+Jarvis: .
+Jarvis:  Machine
+Jarvis:  learning
+Jarvis:  is
+Jarvis:  used
+Jarvis:  in
+Jarvis:  many
+Jarvis:  applications
+Jarvis:  such
+Jarvis:  as
+Jarvis:  image
+Jarvis:  recognition
+Jarvis: ,
+Jarvis:  speech
+Jarvis:  recognition
+Jarvis: ,
+Jarvis:  natural
+Jarvis:  language
+Jarvis:  processing
+Jarvis: ,
+Jarvis:  and
+Jarvis:  predictive
+Jarvis:  analytics
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is machine learning
+Jarvis: Searching the web for: `machine learning`
+Jarvis: 
+Jarvis: 
+Jarvis: Machine
+Jarvis:  learning
+Jarvis:  is
+Jarvis:  a
+Jarvis:  branch
+Jarvis:  of
+Jarvis:  artificial
+Jarvis:  intelligence
+Jarvis:  (
+Jarvis: AI
+Jarvis: )
+Jarvis:  and
+Jarvis:  computer
+Jarvis:  science
+Jarvis:  which
+Jarvis:  focuses
+Jarvis:  on
+Jarvis:  the
+Jarvis:  use
+Jarvis:  of
+Jarvis:  data
+Jarvis:  and
+Jarvis:  algorithms
+Jarvis:  to
+Jarvis:  im
+Jarvis: itate
+Jarvis:  the
+Jarvis:  way
+Jarvis:  that
+Jarvis:  humans
+Jarvis:  learn
+Jarvis: ,
+Jarvis:  gradually
+Jarvis:  improving
+Jarvis:  its
+Jarvis:  accuracy
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  a
+Jarvis:  subset
+Jarvis:  of
+Jarvis:  AI
+Jarvis:  that
+Jarvis:  involves
+Jarvis:  training
+Jarvis:  algorithms
+Jarvis:  to
+Jarvis:  make
+Jarvis:  predictions
+Jarvis:  or
+Jarvis:  decisions
+Jarvis:  based
+Jarvis:  on
+Jarvis:  input
+Jarvis:  data
+Jarvis: .
+Jarvis:  The
+Jarvis:  algorithms
+Jarvis:  can
+Jarvis:  improve
+Jarvis:  their
+Jarvis:  accuracy
+Jarvis:  over
+Jarvis:  time
+Jarvis:  by
+Jarvis:  learning
+Jarvis:  from
+Jarvis:  new
+Jarvis:  data
+Jarvis: .
+Jarvis:  Machine
+Jarvis:  learning
+Jarvis:  is
+Jarvis:  used
+Jarvis:  in
+Jarvis:  many
+Jarvis:  applications
+Jarvis:  such
+Jarvis:  as
+Jarvis:  image
+Jarvis:  recognition
+Jarvis: ,
+Jarvis:  speech
+Jarvis:  recognition
+Jarvis: ,
+Jarvis:  natural
+Jarvis:  language
+Jarvis:  processing
+Jarvis: ,
+Jarvis:  and
+Jarvis:  recommendation
+Jarvis:  systems
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  more
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is machine learning
+Jarvis: Searching the web for: `what is machine learning`
+Jarvis: 
+Jarvis: 
+Jarvis: Machine
+Jarvis:  learning
+Jarvis:  is
+Jarvis:  a
+Jarvis:  branch
+Jarvis:  of
+Jarvis:  artificial
+Jarvis:  intelligence
+Jarvis:  (
+Jarvis: AI
+Jarvis: )
+Jarvis:  and
+Jarvis:  computer
+Jarvis:  science
+Jarvis:  which
+Jarvis:  focuses
+Jarvis:  on
+Jarvis:  the
+Jarvis:  use
+Jarvis:  of
+Jarvis:  data
+Jarvis:  and
+Jarvis:  algorithms
+Jarvis:  to
+Jarvis:  im
+Jarvis: itate
+Jarvis:  the
+Jarvis:  way
+Jarvis:  that
+Jarvis:  humans
+Jarvis:  learn
+Jarvis: ,
+Jarvis:  gradually
+Jarvis:  improving
+Jarvis:  its
+Jarvis:  accuracy
+Jarvis: .
+Jarvis:  It
+Jarvis:  uses
+Jarvis:  algorithms
+Jarvis:  to
+Jarvis:  identify
+Jarvis:  patterns
+Jarvis:  within
+Jarvis:  data
+Jarvis: ,
+Jarvis:  and
+Jarvis:  those
+Jarvis:  patterns
+Jarvis:  are
+Jarvis:  then
+Jarvis:  used
+Jarvis:  to
+Jarvis:  create
+Jarvis:  a
+Jarvis:  data
+Jarvis:  model
+Jarvis:  that
+Jarvis:  can
+Jarvis:  make
+Jarvis:  predictions
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: Would
+Jarvis:  you
+Jarvis:  like
+Jarvis:  me
+Jarvis:  to
+Jarvis:  provide
+Jarvis:  more
+Jarvis:  information
+Jarvis:  on
+Jarvis:  this
+Jarvis:  topic
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Tell me who is the present President of India
+Jarvis: Searching the web for: `Who is the present President of India?`
+Jarvis: 
+Jarvis: 
+Jarvis: The
+Jarvis:  current
+Jarvis:  President
+Jarvis:  of
+Jarvis:  India
+Jarvis:  is
+Jarvis:  **
+Jarvis: D
+Jarvis: roup
+Jarvis: adi
+Jarvis:  Mur
+Jarvis: mu
+Jarvis: **
+Jarvis: .
+Jarvis:  She
+Jarvis:  took
+Jarvis:  office
+Jarvis:  on
+Jarvis:  **
+Jarvis: 25
+Jarvis:  July
+Jarvis:  
+Jarvis: 202
+Jarvis: 2
+Jarvis: **
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: What's going on inside the house? How was more effort being made than you?
+Jarvis: Searching the web for: `what's going on inside the house more effort being made than you`
+Jarvis: 
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  but
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis:  by
+Jarvis:  "
+Jarvis: more
+Jarvis:  effort
+Jarvis:  being
+Jarvis:  made
+Jarvis:  than
+Jarvis:  you
+Jarvis: ".
+Jarvis:  Could
+Jarvis:  you
+Jarvis:  please
+Jarvis:  clarify
+Jarvis:  your
+Jarvis:  question
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: tell me what is the capital of mumbai
+Jarvis: Searching the web for: `what is the capital of mumbai`
+Jarvis: 
+Jarvis: 
+Jarvis: M
+Jarvis: umbai
+Jarvis:  is
+Jarvis:  a
+Jarvis:  city
+Jarvis:  in
+Jarvis:  India
+Jarvis:  and
+Jarvis:  it
+Jarvis:  is
+Jarvis:  the
+Jarvis:  capital
+Jarvis:  of
+Jarvis:  Maharashtra
+Jarvis:  state
+Jarvis: .
+Jarvis:  
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^5^
+Jarvis: ]
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: What is 13 / 2 + x squared + e squared + s = 1
+Jarvis: Searching the web for: `solve 13 / 2 + x squared + e squared + s = 1`
+Jarvis: 
+Jarvis: 
+Jarvis: The
+Jarvis:  equation
+Jarvis:  you
+Jarvis:  provided
+Jarvis:  is
+Jarvis:  not
+Jarvis:  an
+Jarvis:  equation
+Jarvis:  but
+Jarvis:  an
+Jarvis:  expression
+Jarvis: .
+Jarvis:  It
+Jarvis:  cannot
+Jarvis:  be
+Jarvis:  solved
+Jarvis:  for
+Jarvis:  a
+Jarvis:  single
+Jarvis:  value
+Jarvis:  of
+Jarvis:  x
+Jarvis: .
+Jarvis:  However
+Jarvis: ,
+Jarvis:  it
+Jarvis:  can
+Jarvis:  be
+Jarvis:  simplified
+Jarvis: .
+Jarvis:  
+
+
+Jarvis: Here
+Jarvis:  is
+Jarvis:  the
+Jarvis:  simplified
+Jarvis:  expression
+Jarvis: :
+
+Jarvis: ``
+Jarvis: `
+
+Jarvis: x
+Jarvis: ^
+Jarvis: 2
+Jarvis:  +
+Jarvis:  e
+Jarvis: ^
+Jarvis: 2
+Jarvis:  +
+Jarvis:  s
+Jarvis:  =
+Jarvis:  -
+Jarvis: 11
+Jarvis: /
+Jarvis: 2
+Jarvis: 
+
+Jarvis: ``
+Jarvis: `
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: What is 13 and 2 + 16 and 3 and 17
+Jarvis: Searching the web for: `13 and 2 + 16 and 3 and 17`
+Jarvis: 
+Jarvis: 
+Jarvis: I
+Jarvis:  believe
+Jarvis:  you
+Jarvis:  are
+Jarvis:  asking
+Jarvis:  me
+Jarvis:  to
+Jarvis:  add
+Jarvis:  the
+Jarvis:  numbers
+Jarvis:  
+Jarvis: 13
+Jarvis: ,
+Jarvis:  
+Jarvis: 2
+Jarvis: ,
+Jarvis:  
+Jarvis: 16
+Jarvis: ,
+Jarvis:  
+Jarvis: 3
+Jarvis:  and
+Jarvis:  
+Jarvis: 17
+Jarvis: .
+Jarvis:  If
+Jarvis:  that
+Jarvis: 's
+Jarvis:  the
+Jarvis:  case
+Jarvis: ,
+Jarvis:  then
+Jarvis:  the
+Jarvis:  sum
+Jarvis:  of
+Jarvis:  these
+Jarvis:  numbers
+Jarvis:  is
+Jarvis:  **
+Jarvis: 51
+Jarvis: **
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: What is a + 2 a + a = 3
+Jarvis: Searching the web for: `What is a + 2a + a = 3`
+Jarvis: 
+Jarvis: 
+Jarvis: The
+Jarvis:  equation
+Jarvis:  you
+Jarvis:  provided
+Jarvis:  is
+Jarvis:  `
+Jarvis: a
+Jarvis:  +
+Jarvis:  
+Jarvis: 2
+Jarvis: a
+Jarvis:  +
+Jarvis:  a
+Jarvis:  =
+Jarvis:  
+Jarvis: 3
+Jarvis: `.
+Jarvis:  Simpl
+Jarvis: ifying
+Jarvis:  it
+Jarvis:  gives
+Jarvis:  us
+Jarvis:  `
+Jarvis: 4
+Jarvis: a
+Jarvis:  =
+Jarvis:  
+Jarvis: 3
+Jarvis: `.
+Jarvis:  Sol
+Jarvis: ving
+Jarvis:  for
+Jarvis:  `
+Jarvis: a
+Jarvis: `,
+Jarvis:  we
+Jarvis:  get
+Jarvis:  `
+Jarvis: a
+Jarvis:  =
+Jarvis:  
+Jarvis: 3
+Jarvis: /
+Jarvis: 4
+Jarvis: `
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is thermodynamics
+Jarvis: Searching the web for: `thermodynamics`
+Jarvis: 
+Jarvis: 
+Jarvis: Th
+Jarvis: erm
+Jarvis: odynamics
+Jarvis:  is
+Jarvis:  a
+Jarvis:  branch
+Jarvis:  of
+Jarvis:  physics
+Jarvis:  that
+Jarvis:  deals
+Jarvis:  with
+Jarvis:  heat
+Jarvis: ,
+Jarvis:  work
+Jarvis: ,
+Jarvis:  temperature
+Jarvis: ,
+Jarvis:  and
+Jarvis:  energy
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  concerned
+Jarvis:  with
+Jarvis:  the
+Jarvis:  transfer
+Jarvis:  of
+Jarvis:  energy
+Jarvis:  from
+Jarvis:  one
+Jarvis:  place
+Jarvis:  to
+Jarvis:  another
+Jarvis:  and
+Jarvis:  from
+Jarvis:  one
+Jarvis:  form
+Jarvis:  to
+Jarvis:  another
+Jarvis: .
+Jarvis:  The
+Jarvis:  key
+Jarvis:  concept
+Jarvis:  is
+Jarvis:  that
+Jarvis:  heat
+Jarvis:  is
+Jarvis:  a
+Jarvis:  form
+Jarvis:  of
+Jarvis:  energy
+Jarvis:  corresponding
+Jarvis:  to
+Jarvis:  a
+Jarvis:  definite
+Jarvis:  amount
+Jarvis:  of
+Jarvis:  mechanical
+Jarvis:  work
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+
+Jarvis: The
+Jarvis:  behavior
+Jarvis:  of
+Jarvis:  these
+Jarvis:  quantities
+Jarvis:  is
+Jarvis:  governed
+Jarvis:  by
+Jarvis:  the
+Jarvis:  four
+Jarvis:  laws
+Jarvis:  of
+Jarvis:  therm
+Jarvis: odynamics
+Jarvis:  which
+Jarvis:  convey
+Jarvis:  a
+Jarvis:  quantitative
+Jarvis:  description
+Jarvis:  using
+Jarvis:  measurable
+Jarvis:  macro
+Jarvis: scopic
+Jarvis:  physical
+Jarvis:  quantities
+Jarvis:  but
+Jarvis:  may
+Jarvis:  be
+Jarvis:  explained
+Jarvis:  in
+Jarvis:  terms
+Jarvis:  of
+Jarvis:  microscopic
+Jarvis:  constituents
+Jarvis:  by
+Jarvis:  statistical
+Jarvis:  mechanics
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: Th
+Jarvis: erm
+Jarvis: odynamics
+Jarvis:  applies
+Jarvis:  to
+Jarvis:  a
+Jarvis:  wide
+Jarvis:  variety
+Jarvis:  of
+Jarvis:  topics
+Jarvis:  in
+Jarvis:  science
+Jarvis:  and
+Jarvis:  engineering
+Jarvis: ,
+Jarvis:  especially
+Jarvis:  physical
+Jarvis:  chemistry
+Jarvis: ,
+Jarvis:  bio
+Jarvis: chemistry
+Jarvis: ,
+Jarvis:  chemical
+Jarvis:  engineering
+Jarvis:  and
+Jarvis:  mechanical
+Jarvis:  engineering
+Jarvis: ,
+Jarvis:  but
+Jarvis:  also
+Jarvis:  in
+Jarvis:  other
+Jarvis:  complex
+Jarvis:  fields
+Jarvis:  such
+Jarvis:  as
+Jarvis:  meteor
+Jarvis: ology
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: .
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is a charger
+Jarvis: Searching the web for: `what is a charger`
+Jarvis: 
+Jarvis: 
+Jarvis: A
+Jarvis:  charger
+Jarvis:  is
+Jarvis:  a
+Jarvis:  device
+Jarvis:  that
+Jarvis:  stores
+Jarvis:  energy
+Jarvis:  in
+Jarvis:  a
+Jarvis:  battery
+Jarvis:  by
+Jarvis:  running
+Jarvis:  an
+Jarvis:  electric
+Jarvis:  current
+Jarvis:  through
+Jarvis:  it
+Jarvis: .
+Jarvis:  The
+Jarvis:  charging
+Jarvis:  protocol
+Jarvis:  (
+Jarvis: how
+Jarvis:  much
+Jarvis:  voltage
+Jarvis:  or
+Jarvis:  current
+Jarvis:  for
+Jarvis:  how
+Jarvis:  long
+Jarvis: ,
+Jarvis:  and
+Jarvis:  what
+Jarvis:  to
+Jarvis:  do
+Jarvis:  when
+Jarvis:  charging
+Jarvis:  is
+Jarvis:  complete
+Jarvis: )
+Jarvis:  depends
+Jarvis:  on
+Jarvis:  the
+Jarvis:  size
+Jarvis:  and
+Jarvis:  type
+Jarvis:  of
+Jarvis:  the
+Jarvis:  battery
+Jarvis:  being
+Jarvis:  charged
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: who is the prime minister of india
+Jarvis: Searching the web for: `prime minister india`
+Jarvis: 
+Jarvis: 
+Jarvis: The
+Jarvis:  current
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  of
+Jarvis:  India
+Jarvis:  is
+Jarvis:  **
+Jarvis: N
+Jarvis: arendra
+Jarvis:  Modi
+Jarvis: **
+Jarvis: .
+Jarvis:  He
+Jarvis:  has
+Jarvis:  been
+Jarvis:  serving
+Jarvis:  as
+Jarvis:  the
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  since
+Jarvis:  May
+Jarvis:  
+Jarvis: 26
+Jarvis: ,
+Jarvis:  
+Jarvis: 201
+Jarvis: 4
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is a fan
+You: what is the fan
+Jarvis: Searching the web for: `what is the fan`
+Jarvis: 
+Jarvis: 
+Jarvis: A
+Jarvis:  fan
+Jarvis:  is
+Jarvis:  a
+Jarvis:  powered
+Jarvis:  machine
+Jarvis:  used
+Jarvis:  to
+Jarvis:  create
+Jarvis:  a
+Jarvis:  flow
+Jarvis:  of
+Jarvis:  air
+Jarvis: .
+Jarvis:  It
+Jarvis:  consists
+Jarvis:  of
+Jarvis:  a
+Jarvis:  rotating
+Jarvis:  arrangement
+Jarvis:  of
+Jarvis:  van
+Jarvis: es
+Jarvis:  or
+Jarvis:  blades
+Jarvis: ,
+Jarvis:  generally
+Jarvis:  made
+Jarvis:  of
+Jarvis:  wood
+Jarvis: ,
+Jarvis:  plastic
+Jarvis: ,
+Jarvis:  or
+Jarvis:  metal
+Jarvis: ,
+Jarvis:  which
+Jarvis:  act
+Jarvis:  on
+Jarvis:  the
+Jarvis:  air
+Jarvis: .
+Jarvis:  The
+Jarvis:  rotating
+Jarvis:  assembly
+Jarvis:  of
+Jarvis:  blades
+Jarvis:  and
+Jarvis:  hub
+Jarvis:  is
+Jarvis:  known
+Jarvis:  as
+Jarvis:  an
+Jarvis:  imp
+Jarvis: eller
+Jarvis: ,
+Jarvis:  rotor
+Jarvis: ,
+Jarvis:  or
+Jarvis:  runner
+Jarvis: .
+Jarvis:  Usually
+Jarvis: ,
+Jarvis:  it
+Jarvis:  is
+Jarvis:  contained
+Jarvis:  within
+Jarvis:  some
+Jarvis:  form
+Jarvis:  of
+Jarvis:  housing
+Jarvis:  or
+Jarvis:  case
+Jarvis: .
+Jarvis:  This
+Jarvis:  may
+Jarvis:  direct
+Jarvis:  the
+Jarvis:  airflow
+Jarvis:  or
+Jarvis:  increase
+Jarvis:  safety
+Jarvis:  by
+Jarvis:  preventing
+Jarvis:  objects
+Jarvis:  from
+Jarvis:  contacting
+Jarvis:  the
+Jarvis:  fan
+Jarvis:  blades
+Jarvis: .
+Jarvis:  Most
+Jarvis:  fans
+Jarvis:  are
+Jarvis:  powered
+Jarvis:  by
+Jarvis:  electric
+Jarvis:  motors
+Jarvis: ,
+Jarvis:  but
+Jarvis:  other
+Jarvis:  sources
+Jarvis:  of
+Jarvis:  power
+Jarvis:  may
+Jarvis:  be
+Jarvis:  used
+Jarvis: ,
+Jarvis:  including
+Jarvis:  hydraulic
+Jarvis:  motors
+Jarvis: ,
+Jarvis:  hand
+Jarvis:  cr
+Jarvis: anks
+Jarvis: ,
+Jarvis:  and
+Jarvis:  internal
+Jarvis:  combustion
+Jarvis:  engines
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is this bone my buddy
+Jarvis: Searching the web for: `what is this bone`
+Jarvis: 
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  bone
+Jarvis:  you
+Jarvis:  are
+Jarvis:  referring
+Jarvis:  to
+Jarvis: .
+Jarvis:  Can
+Jarvis:  you
+Jarvis:  provide
+Jarvis:  more
+Jarvis:  information
+Jarvis:  or
+Jarvis:  context
+Jarvis: ?
+Jarvis:  In
+Jarvis:  general
+Jarvis: ,
+Jarvis:  bones
+Jarvis:  are
+Jarvis:  rigid
+Jarvis:  body
+Jarvis:  tissue
+Jarvis:  consisting
+Jarvis:  of
+Jarvis:  cells
+Jarvis:  embedded
+Jarvis:  in
+Jarvis:  an
+Jarvis:  abundant
+Jarvis:  hard
+Jarvis:  inter
+Jarvis: cell
+Jarvis: ular
+Jarvis:  material
+Jarvis: .
+Jarvis:  The
+Jarvis:  two
+Jarvis:  principal
+Jarvis:  components
+Jarvis:  of
+Jarvis:  this
+Jarvis:  material
+Jarvis: ,
+Jarvis:  collagen
+Jarvis:  and
+Jarvis:  calcium
+Jarvis:  phosphate
+Jarvis: ,
+Jarvis:  distinguish
+Jarvis:  bone
+Jarvis:  from
+Jarvis:  such
+Jarvis:  other
+Jarvis:  hard
+Jarvis:  tissues
+Jarvis:  as
+Jarvis:  ch
+Jarvis: itin
+Jarvis: ,
+Jarvis:  enamel
+Jarvis: ,
+Jarvis:  and
+Jarvis:  shell
+Jarvis: .
+Jarvis:  Bone
+Jarvis:  tissue
+Jarvis:  makes
+Jarvis:  up
+Jarvis:  the
+Jarvis:  individual
+Jarvis:  bones
+Jarvis:  of
+Jarvis:  the
+Jarvis:  human
+Jarvis:  skeletal
+Jarvis:  system
+Jarvis:  and
+Jarvis:  the
+Jarvis:  skeletons
+Jarvis:  of
+Jarvis:  other
+Jarvis:  verte
+Jarvis: brates
+Jarvis: .
+Jarvis:  The
+Jarvis:  functions
+Jarvis:  of
+Jarvis:  bone
+Jarvis:  include
+Jarvis:  structural
+Jarvis:  support
+Jarvis:  for
+Jarvis:  the
+Jarvis:  mechanical
+Jarvis:  action
+Jarvis:  of
+Jarvis:  soft
+Jarvis:  tissues
+Jarvis: ,
+Jarvis:  such
+Jarvis:  as
+Jarvis:  the
+Jarvis:  contraction
+Jarvis:  of
+Jarvis:  muscles
+Jarvis:  and
+Jarvis:  the
+Jarvis:  expansion
+Jarvis:  of
+Jarvis:  lungs
+Jarvis: ,
+Jarvis:  protection
+Jarvis:  of
+Jarvis:  soft
+Jarvis:  organs
+Jarvis:  and
+Jarvis:  tissues
+Jarvis: ,
+Jarvis:  as
+Jarvis:  by
+Jarvis:  the
+Jarvis:  skull
+Jarvis: ,
+Jarvis:  provision
+Jarvis:  of
+Jarvis:  a
+Jarvis:  protective
+Jarvis:  site
+Jarvis:  for
+Jarvis:  specialized
+Jarvis:  tissues
+Jarvis:  such
+Jarvis:  as
+Jarvis:  the
+Jarvis:  blood
+Jarvis: -form
+Jarvis: ing
+Jarvis:  system
+Jarvis:  (
+Jarvis: bone
+Jarvis:  marrow
+Jarvis: ),
+Jarvis:  and
+Jarvis:  a
+Jarvis:  mineral
+Jarvis:  reservoir
+Jarvis: ,
+Jarvis:  whereby
+Jarvis:  the
+Jarvis:  end
+Jarvis: ocrine
+Jarvis:  system
+Jarvis:  regulates
+Jarvis:  the
+Jarvis:  level
+Jarvis:  of
+Jarvis:  calcium
+Jarvis:  and
+Jarvis:  phosphate
+Jarvis:  in
+Jarvis:  the
+Jarvis:  circulating
+Jarvis:  body
+Jarvis:  fluids
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what cartoon is shin-chan
+Jarvis: Searching the web for: `what is shin-chan cartoon`
+Jarvis: 
+Jarvis: 
+Jarvis: C
+Jarvis: ray
+Jarvis: on
+Jarvis:  Shin
+Jarvis: -chan
+Jarvis:  is
+Jarvis:  a
+Jarvis:  Japanese
+Jarvis:  manga
+Jarvis:  series
+Jarvis:  written
+Jarvis:  and
+Jarvis:  illustrated
+Jarvis:  by
+Jarvis:  Yosh
+Jarvis: ito
+Jarvis:  Us
+Jarvis: ui
+Jarvis: .
+Jarvis:  It
+Jarvis:  follows
+Jarvis:  the
+Jarvis:  adventures
+Jarvis:  of
+Jarvis:  the
+Jarvis:  five
+Jarvis: -year
+Jarvis: -old
+Jarvis:  Sh
+Jarvis: inn
+Jarvis: os
+Jarvis: uke
+Jarvis:  "
+Jarvis: Sh
+Jarvis: in
+Jarvis: "
+Jarvis:  N
+Jarvis: oh
+Jarvis: ara
+Jarvis:  and
+Jarvis:  his
+Jarvis:  parents
+Jarvis: ,
+Jarvis:  baby
+Jarvis:  sister
+Jarvis: ,
+Jarvis:  dog
+Jarvis: ,
+Jarvis:  neighbors
+Jarvis: ,
+Jarvis:  and
+Jarvis:  friends
+Jarvis:  and
+Jarvis:  is
+Jarvis:  set
+Jarvis:  in
+Jarvis:  Kas
+Jarvis: uk
+Jarvis: abe
+Jarvis: ,
+Jarvis:  S
+Jarvis: ait
+Jarvis: ama
+Jarvis:  Pref
+Jarvis: ecture
+Jarvis:  of
+Jarvis:  Japan
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ]
+Jarvis:  
+Jarvis: [
+Jarvis: ^4^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  series
+Jarvis:  has
+Jarvis:  been
+Jarvis:  dubbed
+Jarvis:  in
+Jarvis:  
+Jarvis: 30
+Jarvis:  languages
+Jarvis:  which
+Jarvis:  aired
+Jarvis:  in
+Jarvis:  
+Jarvis: 45
+Jarvis:  countries
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is your name
+Jarvis: 
+Jarvis: My
+Jarvis:  name
+Jarvis:  is
+Jarvis:  Bing
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis:  today
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what kind of cartoon doraemon
+Jarvis: Searching the web for: `what kind of cartoon is doraemon`
+Jarvis: 
+Jarvis: 
+Jarvis: D
+Jarvis: ora
+Jarvis: emon
+Jarvis:  is
+Jarvis:  a
+Jarvis:  Japanese
+Jarvis:  manga
+Jarvis:  series
+Jarvis:  written
+Jarvis:  and
+Jarvis:  illustrated
+Jarvis:  by
+Jarvis:  Fuj
+Jarvis: iko
+Jarvis:  F
+Jarvis: .
+Jarvis:  Fuj
+Jarvis: io
+Jarvis: .
+Jarvis:  The
+Jarvis:  manga
+Jarvis:  was
+Jarvis:  first
+Jarvis:  serialized
+Jarvis:  in
+Jarvis:  December
+Jarvis:  
+Jarvis: 196
+Jarvis: 9
+Jarvis: .
+Jarvis:  Its
+Jarvis:  chapters
+Jarvis:  were
+Jarvis:  collected
+Jarvis:  in
+Jarvis:  
+Jarvis: 45
+Jarvis:  tank
+Jarvis: ō
+Jarvis: bon
+Jarvis:  volumes
+Jarvis:  published
+Jarvis:  by
+Jarvis:  Sh
+Jarvis: og
+Jarvis: akukan
+Jarvis:  from
+Jarvis:  
+Jarvis: 197
+Jarvis: 4
+Jarvis:  to
+Jarvis:  
+Jarvis: 199
+Jarvis: 6
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  D
+Jarvis: ora
+Jarvis: emon
+Jarvis:  is
+Jarvis:  a
+Jarvis:  male
+Jarvis:  robotic
+Jarvis:  ear
+Jarvis: less
+Jarvis:  cat
+Jarvis:  that
+Jarvis:  travels
+Jarvis:  back
+Jarvis:  in
+Jarvis:  time
+Jarvis:  from
+Jarvis:  the
+Jarvis:  
+Jarvis: 22
+Jarvis: nd
+Jarvis:  century
+Jarvis:  to
+Jarvis:  aid
+Jarvis:  a
+Jarvis:  pre
+Jarvis: teen
+Jarvis:  boy
+Jarvis:  named
+Jarvis:  Nob
+Jarvis: ita
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+Jarvis:  It
+Jarvis:  is
+Jarvis:  a
+Jarvis:  comedy
+Jarvis:  and
+Jarvis:  science
+Jarvis:  fiction
+Jarvis:  genre
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+Jarvis:  I
+Jarvis:  hope
+Jarvis:  that
+Jarvis:  helps
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: you don't know how
+Jarvis: 
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis: ,
+Jarvis:  I
+Jarvis:  don
+Jarvis: 't
+Jarvis:  understand
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis: .
+Jarvis:  Can
+Jarvis:  you
+Jarvis:  please
+Jarvis:  clarify
+Jarvis:  your
+Jarvis:  question
+Jarvis:  or
+Jarvis:  request
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what did you say please
+Jarvis: 
+Jarvis: I
+Jarvis:  didn
+Jarvis: 't
+Jarvis:  say
+Jarvis:  anything
+Jarvis:  yet
+Jarvis: .
+Jarvis:  How
+Jarvis:  can
+Jarvis:  I
+Jarvis:  help
+Jarvis:  you
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: Give a Brief Description About Doraemon What
+Jarvis: Searching the web for: `Doraemon description`
+Jarvis: 
+Jarvis: 
+Jarvis: D
+Jarvis: ora
+Jarvis: emon
+Jarvis:  is
+Jarvis:  a
+Jarvis:  Japanese
+Jarvis:  manga
+Jarvis:  series
+Jarvis:  written
+Jarvis:  and
+Jarvis:  illustrated
+Jarvis:  by
+Jarvis:  Fuj
+Jarvis: iko
+Jarvis:  F
+Jarvis: .
+Jarvis:  Fuj
+Jarvis: io
+Jarvis: .
+Jarvis:  The
+Jarvis:  manga
+Jarvis:  was
+Jarvis:  first
+Jarvis:  serialized
+Jarvis:  in
+Jarvis:  December
+Jarvis:  
+Jarvis: 196
+Jarvis: 9
+Jarvis: .
+Jarvis:  Its
+Jarvis:  chapters
+Jarvis:  were
+Jarvis:  collected
+Jarvis:  in
+Jarvis:  
+Jarvis: 45
+Jarvis:  tank
+Jarvis: ō
+Jarvis: bon
+Jarvis:  volumes
+Jarvis:  published
+Jarvis:  by
+Jarvis:  Sh
+Jarvis: og
+Jarvis: akukan
+Jarvis:  from
+Jarvis:  
+Jarvis: 197
+Jarvis: 4
+Jarvis:  to
+Jarvis:  
+Jarvis: 199
+Jarvis: 6
+Jarvis: .
+Jarvis:  The
+Jarvis:  story
+Jarvis:  revolves
+Jarvis:  around
+Jarvis:  an
+Jarvis:  ear
+Jarvis: less
+Jarvis:  robotic
+Jarvis:  cat
+Jarvis:  named
+Jarvis:  D
+Jarvis: ora
+Jarvis: emon
+Jarvis: ,
+Jarvis:  who
+Jarvis:  travels
+Jarvis:  back
+Jarvis:  in
+Jarvis:  time
+Jarvis:  from
+Jarvis:  the
+Jarvis:  
+Jarvis: 22
+Jarvis: nd
+Jarvis:  century
+Jarvis:  to
+Jarvis:  aid
+Jarvis:  a
+Jarvis:  boy
+Jarvis:  named
+Jarvis:  Nob
+Jarvis: ita
+Jarvis:  N
+Jarvis: obi
+Jarvis: .
+Jarvis:  The
+Jarvis:  manga
+Jarvis:  spawned
+Jarvis:  a
+Jarvis:  media
+Jarvis:  franchise
+Jarvis: .
+Jarvis:  Three
+Jarvis:  anime
+Jarvis:  TV
+Jarvis:  series
+Jarvis:  have
+Jarvis:  been
+Jarvis:  adapted
+Jarvis:  in
+Jarvis:  
+Jarvis: 197
+Jarvis: 3
+Jarvis: ,
+Jarvis:  
+Jarvis: 197
+Jarvis: 9
+Jarvis: ,
+Jarvis:  and
+Jarvis:  
+Jarvis: 200
+Jarvis: 5
+Jarvis: .
+Jarvis:  Additionally
+Jarvis: ,
+Jarvis:  Shin
+Jarvis: -E
+Jarvis: i
+Jarvis:  Animation
+Jarvis:  has
+Jarvis:  produced
+Jarvis:  over
+Jarvis:  forty
+Jarvis:  animated
+Jarvis:  films
+Jarvis: ,
+Jarvis:  including
+Jarvis:  two
+Jarvis:  
+Jarvis: 3
+Jarvis: D
+Jarvis:  computer
+Jarvis: -an
+Jarvis: imated
+Jarvis:  films
+Jarvis: ,
+Jarvis:  all
+Jarvis:  of
+Jarvis:  which
+Jarvis:  are
+Jarvis:  distributed
+Jarvis:  by
+Jarvis:  To
+Jarvis: ho
+Jarvis: .
+Jarvis:  Various
+Jarvis:  types
+Jarvis:  of
+Jarvis:  merchandise
+Jarvis:  and
+Jarvis:  media
+Jarvis:  have
+Jarvis:  been
+Jarvis:  developed
+Jarvis: ,
+Jarvis:  including
+Jarvis:  soundtrack
+Jarvis:  albums
+Jarvis: ,
+Jarvis:  video
+Jarvis:  games
+Jarvis: ,
+Jarvis:  and
+Jarvis:  musical
+Jarvis: s
+Jarvis: 
+Jarvis: [
+Jarvis: ^1^
+Jarvis: ].
+
+
+Jarvis: D
+Jarvis: ora
+Jarvis: emon
+Jarvis:  is
+Jarvis:  a
+Jarvis:  male
+Jarvis:  robotic
+Jarvis:  ear
+Jarvis: less
+Jarvis:  cat
+Jarvis:  that
+Jarvis:  travels
+Jarvis:  back
+Jarvis:  in
+Jarvis:  time
+Jarvis:  from
+Jarvis:  the
+Jarvis:  
+Jarvis: 22
+Jarvis: nd
+Jarvis:  century
+Jarvis:  to
+Jarvis:  aid
+Jarvis:  a
+Jarvis:  pre
+Jarvis: teen
+Jarvis:  boy
+Jarvis:  named
+Jarvis:  Nob
+Jarvis: ita
+Jarvis: 
+Jarvis: [
+Jarvis: ^2^
+Jarvis: ].
+Jarvis:  Despite
+Jarvis:  being
+Jarvis:  based
+Jarvis:  on
+Jarvis:  a
+Jarvis:  cat
+Jarvis: ,
+Jarvis:  hence
+Jarvis:  his
+Jarvis:  title
+Jarvis:  as
+Jarvis:  the
+Jarvis:  "
+Jarvis: G
+Jarvis: adget
+Jarvis:  Cat
+Jarvis:  from
+Jarvis:  the
+Jarvis:  Future
+Jarvis: "
+Jarvis:  in
+Jarvis:  the
+Jarvis:  American
+Jarvis: ized
+Jarvis:  D
+Jarvis: ora
+Jarvis: emon
+Jarvis:  dub
+Jarvis: ,
+Jarvis:  D
+Jarvis: ora
+Jarvis: emon
+Jarvis:  resembles
+Jarvis:  a
+Jarvis:  rac
+Jarvis: oon
+Jarvis:  dog
+Jarvis:  (
+Jarvis: re
+Jarvis: ferred
+Jarvis:  to
+Jarvis:  as
+Jarvis:  a
+Jarvis:  seal
+Jarvis:  in
+Jarvis:  the
+Jarvis:  American
+Jarvis:  dub
+Jarvis: ),
+Jarvis:  albeit
+Jarvis:  it
+Jarvis:  being
+Jarvis:  a
+Jarvis:  running
+Jarvis:  joke
+Jarvis: 
+Jarvis: [
+Jarvis: ^3^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  helps
+Jarvis: !
+Jarvis:  Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  other
+Jarvis:  questions
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: reset and make it precise
+Jarvis: Searching the web for: `reset and make it precise`
+Jarvis: 
+Jarvis: 
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis: ,
+Jarvis:  but
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  not
+Jarvis:  sure
+Jarvis:  what
+Jarvis:  you
+Jarvis:  mean
+Jarvis:  by
+Jarvis:  "
+Jarvis: reset
+Jarvis:  and
+Jarvis:  make
+Jarvis:  it
+Jarvis:  precise
+Jarvis: ."
+Jarvis:  Could
+Jarvis:  you
+Jarvis:  please
+Jarvis:  clarify
+Jarvis:  your
+Jarvis:  request
+Jarvis: ?
+Jarvis:  Are
+Jarvis:  you
+Jarvis:  asking
+Jarvis:  about
+Jarvis:  resetting
+Jarvis:  a
+Jarvis:  device
+Jarvis:  or
+Jarvis:  something
+Jarvis:  else
+Jarvis: ?
+Jarvis:  I
+Jarvis: 'll
+Jarvis:  do
+Jarvis:  my
+Jarvis:  best
+Jarvis:  to
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis:  more
+Jarvis:  information
+Jarvis: .
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: reset and make it precise
+Jarvis: Searching the web for: `reset and make it precise`
+Jarvis: 
+Jarvis: 
+Jarvis:  you
+Jarvis:  want
+Jarvis:  to
+Jarvis:  reset
+Jarvis:  your
+Jarvis:  computer
+Jarvis:  and
+Jarvis:  make
+Jarvis:  it
+Jarvis:  precise
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  do
+Jarvis:  so
+Jarvis:  by
+Jarvis:  resetting
+Jarvis:  it
+Jarvis:  to
+Jarvis:  its
+Jarvis:  factory
+Jarvis:  settings
+Jarvis: .
+Jarvis:  This
+Jarvis:  will
+Jarvis:  restore
+Jarvis:  your
+Jarvis:  computer
+Jarvis:  to
+Jarvis:  its
+Jarvis:  original
+Jarvis:  state
+Jarvis: ,
+Jarvis:  as
+Jarvis:  if
+Jarvis:  it
+Jarvis:  were
+Jarvis:  new
+Jarvis: .
+Jarvis:  There
+Jarvis:  are
+Jarvis:  several
+Jarvis:  ways
+Jarvis:  to
+Jarvis:  reset
+Jarvis:  a
+Jarvis:  Windows
+Jarvis:  
+Jarvis: 10
+Jarvis:  PC
+Jarvis: ,
+Jarvis:  and
+Jarvis:  one
+Jarvis:  of
+Jarvis:  them
+Jarvis:  is
+Jarvis:  by
+Jarvis:  using
+Jarvis:  the
+Jarvis:  built
+Jarvis: -in
+Jarvis:  reset
+Jarvis:  feature
+Jarvis: .
+Jarvis:  You
+Jarvis:  can
+Jarvis:  access
+Jarvis:  this
+Jarvis:  feature
+Jarvis:  by
+Jarvis:  going
+Jarvis:  to
+Jarvis:  the
+Jarvis:  Start
+Jarvis:  menu
+Jarvis: ,
+Jarvis:  clicking
+Jarvis:  on
+Jarvis:  the
+Jarvis:  Settings
+Jarvis:  icon
+Jarvis: ,
+Jarvis:  and
+Jarvis:  then
+Jarvis:  selecting
+Jarvis:  Update
+Jarvis:  &
+Jarvis:  Security
+Jarvis: .
+Jarvis:  From
+Jarvis:  there
+Jarvis: ,
+Jarvis:  click
+Jarvis:  on
+Jarvis:  Recovery
+Jarvis:  and
+Jarvis:  then
+Jarvis:  select
+Jarvis:  Reset
+Jarvis:  this
+Jarvis:  PC
+Jarvis: .
+Jarvis:  Follow
+Jarvis:  the
+Jarvis:  on
+Jarvis: -screen
+Jarvis:  instructions
+Jarvis:  to
+Jarvis:  complete
+Jarvis:  the
+Jarvis:  process
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: If
+Jarvis:  you
+Jarvis:  have
+Jarvis:  a
+Jarvis:  Dell
+Jarvis:  PC
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  use
+Jarvis:  the
+Jarvis:  Dell
+Jarvis:  Support
+Jarvis: Ass
+Jarvis: ist
+Jarvis:  OS
+Jarvis:  Recovery
+Jarvis:  Tool
+Jarvis:  to
+Jarvis:  reset
+Jarvis:  your
+Jarvis:  PC
+Jarvis:  to
+Jarvis:  its
+Jarvis:  factory
+Jarvis:  settings
+Jarvis: [^
+Jarvis: 3
+Jarvis: ^
+Jarvis: ].
+Jarvis:  This
+Jarvis:  tool
+Jarvis:  is
+Jarvis:  designed
+Jarvis:  to
+Jarvis:  help
+Jarvis:  you
+Jarvis:  restore
+Jarvis:  your
+Jarvis:  Dell
+Jarvis:  PC
+Jarvis:  to
+Jarvis:  its
+Jarvis:  original
+Jarvis:  state
+Jarvis: .
+
+
+Jarvis: Before
+Jarvis:  resetting
+Jarvis:  your
+Jarvis:  device
+Jarvis: ,
+Jarvis:  make
+Jarvis:  sure
+Jarvis:  to
+Jarvis:  back
+Jarvis:  up
+Jarvis:  all
+Jarvis:  important
+Jarvis:  data
+Jarvis: ,
+Jarvis:  as
+Jarvis:  the
+Jarvis:  reset
+Jarvis:  process
+Jarvis:  will
+Jarvis:  erase
+Jarvis:  everything
+Jarvis:  on
+Jarvis:  your
+Jarvis:  device
+Jarvis: .
+Jarvis:  It
+Jarvis: 's
+Jarvis:  also
+Jarvis:  a
+Jarvis:  good
+Jarvis:  idea
+Jarvis:  to
+Jarvis:  make
+Jarvis:  sure
+Jarvis:  your
+Jarvis:  device
+Jarvis:  is
+Jarvis:  plugged
+Jarvis:  in
+Jarvis:  and
+Jarvis:  charging
+Jarvis:  during
+Jarvis:  the
+Jarvis:  reset
+Jarvis:  process
+Jarvis:  to
+Jarvis:  avoid
+Jarvis:  any
+Jarvis:  interruptions
+Jarvis: [^
+Jarvis: 4
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: Is
+Jarvis:  there
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  with
+Jarvis: ?
+Jarvis:  😊
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+You: latest news about chandrayan
+Jarvis: Searching the web for: `latest news about chandrayan`
+Jarvis: 
+Jarvis: 
+Jarvis:  have
+Jarvis:  found
+Jarvis:  some
+Jarvis:  news
+Jarvis:  articles
+Jarvis:  about
+Jarvis:  Chand
+Jarvis: ray
+Jarvis: aan
+Jarvis: -
+Jarvis: 3
+Jarvis: .
+Jarvis:  According
+Jarvis:  to
+Jarvis:  a
+Jarvis:  recent
+Jarvis:  article
+Jarvis:  in
+Jarvis:  **
+Jarvis: Live
+Jarvis: M
+Jarvis: int
+Jarvis: **,
+Jarvis:  the
+Jarvis:  Indian
+Jarvis:  Space
+Jarvis:  Research
+Jarvis:  Organization
+Jarvis:  (
+Jarvis: IS
+Jarvis: RO
+Jarvis: )
+Jarvis:  will
+Jarvis:  wait
+Jarvis:  another
+Jarvis:  
+Jarvis: 14
+Jarvis:  days
+Jarvis:  to
+Jarvis:  establish
+Jarvis:  contact
+Jarvis:  with
+Jarvis:  Chand
+Jarvis: ray
+Jarvis: aan
+Jarvis: -
+Jarvis: 3
+Jarvis: 's
+Jarvis:  Vik
+Jarvis: ram
+Jarvis:  land
+Jarvis: er
+Jarvis:  and
+Jarvis:  Pr
+Jarvis: ag
+Jarvis: yan
+Jarvis:  rover
+Jarvis: .
+Jarvis:  IS
+Jarvis: RO
+Jarvis:  will
+Jarvis:  continue
+Jarvis:  attempts
+Jarvis:  to
+Jarvis:  revive
+Jarvis:  the
+Jarvis:  Chand
+Jarvis: ray
+Jarvis: aan
+Jarvis: -
+Jarvis: 3
+Jarvis:  land
+Jarvis: er
+Jarvis:  and
+Jarvis:  rover
+Jarvis:  till
+Jarvis:  the
+Jarvis:  next
+Jarvis:  sunset
+Jarvis:  on
+Jarvis:  the
+Jarvis:  Moon
+Jarvis:  which
+Jarvis:  is
+Jarvis: ...
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Another
+Jarvis:  article
+Jarvis:  from
+Jarvis:  **
+Jarvis: New
+Jarvis:  Scientist
+Jarvis: **
+Jarvis:  reports
+Jarvis:  that
+Jarvis:  the
+Jarvis:  Vik
+Jarvis: ram
+Jarvis:  land
+Jarvis: er
+Jarvis:  and
+Jarvis:  Pr
+Jarvis: ag
+Jarvis: yan
+Jarvis:  rover
+Jarvis: ,
+Jarvis:  which
+Jarvis:  together
+Jarvis:  make
+Jarvis:  up
+Jarvis:  India
+Jarvis: 's
+Jarvis:  Chand
+Jarvis: ray
+Jarvis: aan
+Jarvis: -
+Jarvis: 3
+Jarvis:  moon
+Jarvis:  mission
+Jarvis: ,
+Jarvis:  went
+Jarvis:  to
+Jarvis:  sleep
+Jarvis:  two
+Jarvis:  weeks
+Jarvis:  ago
+Jarvis:  to
+Jarvis:  survive
+Jarvis:  the
+Jarvis:  freezing
+Jarvis:  lunar
+Jarvis:  night
+Jarvis:  [^
+Jarvis: 2
+Jarvis: ^
+Jarvis: ].
+Jarvis:  In
+Jarvis:  an
+Jarvis:  exciting
+Jarvis:  milestone
+Jarvis:  for
+Jarvis:  lunar
+Jarvis:  scientists
+Jarvis:  around
+Jarvis:  the
+Jarvis:  globe
+Jarvis: ,
+Jarvis:  India
+Jarvis: ’s
+Jarvis:  Chand
+Jarvis: ray
+Jarvis: aan
+Jarvis: -
+Jarvis: 3
+Jarvis:  land
+Jarvis: er
+Jarvis:  touched
+Jarvis:  down
+Jarvis:  
+Jarvis: 375
+Jarvis:  miles
+Jarvis:  (
+Jarvis: 600
+Jarvis:  km
+Jarvis: )
+Jarvis:  from
+Jarvis:  the
+Jarvis:  south
+Jarvis:  pole
+Jarvis:  of
+Jarvis:  the
+Jarvis:  Moon
+Jarvis:  on
+Jarvis:  Aug
+Jarvis: .
+Jarvis:  
+Jarvis: 23
+Jarvis: ,
+Jarvis:  and
+Jarvis:  its
+Jarvis:  Pr
+Jarvis: ag
+Jarvis: yan
+Jarvis:  rover
+Jarvis:  has
+Jarvis:  traveled
+Jarvis:  
+Jarvis: 328
+Jarvis:  feet
+Jarvis:  (
+Jarvis: 100
+Jarvis:  meters
+Jarvis: )
+Jarvis:  and
+Jarvis:  measured
+Jarvis:  the
+Jarvis:  chemistry
+Jarvis:  of
+Jarvis:  the
+Jarvis:  lunar
+Jarvis:  soil
+Jarvis:  [^
+Jarvis: 3
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: I
+Jarvis:  hope
+Jarvis:  this
+Jarvis:  information
+Jarvis:  helps
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello tell me some latest news head lines
+Jarvis: Searching the web for: `latest news headlines`
+Jarvis: 
+Jarvis: 
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis:  that
+Jarvis: .
+Jarvis:  Please
+Jarvis:  wait
+Jarvis:  a
+Jarvis:  moment
+Jarvis:  while
+Jarvis:  I
+Jarvis:  find
+Jarvis:  the
+Jarvis:  latest
+Jarvis:  news
+Jarvis:  headlines
+Jarvis:  for
+Jarvis:  you
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: hello tell me some latest news head lines
+Jarvis: Searching the web for: `latest news headlines`
+Jarvis: 
+Jarvis: 
+Jarvis: !
+Jarvis:  Here
+Jarvis:  are
+Jarvis:  some
+Jarvis:  of
+Jarvis:  the
+Jarvis:  latest
+Jarvis:  news
+Jarvis:  headlines
+Jarvis: :
+
+
+Jarvis: 1
+Jarvis: .
+Jarvis:  **
+Jarvis: T
+Jarvis: ropical
+Jarvis:  Storm
+Jarvis:  O
+Jarvis: ph
+Jarvis: elia
+Jarvis: **
+Jarvis:  weakened
+Jarvis:  to
+Jarvis:  a
+Jarvis:  tropical
+Jarvis:  depression
+Jarvis:  as
+Jarvis:  it
+Jarvis:  moved
+Jarvis:  across
+Jarvis:  southeastern
+Jarvis:  Virginia
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+Jarvis: 2
+Jarvis: .
+Jarvis:  **
+Jarvis: Congress
+Jarvis: man
+Jarvis:  Andy
+Jarvis:  Kim
+Jarvis: **
+Jarvis:  announced
+Jarvis:  his
+Jarvis:  plan
+Jarvis:  to
+Jarvis:  run
+Jarvis:  against
+Jarvis:  newly
+Jarvis:  indicted
+Jarvis:  U
+Jarvis: .S
+Jarvis: .
+Jarvis:  Senator
+Jarvis:  Bob
+Jarvis:  Men
+Jarvis: endez
+Jarvis: [^
+Jarvis: 2
+Jarvis: ^
+Jarvis: ].
+
+Jarvis: 3
+Jarvis: .
+Jarvis:  President
+Jarvis:  Joe
+Jarvis:  Biden
+Jarvis: 's
+Jarvis:  job
+Jarvis:  approval
+Jarvis:  rating
+Jarvis:  is
+Jarvis:  
+Jarvis: 19
+Jarvis:  points
+Jarvis:  underwater
+Jarvis: ,
+Jarvis:  with
+Jarvis:  his
+Jarvis:  ratings
+Jarvis:  for
+Jarvis:  handling
+Jarvis:  the
+Jarvis:  economy
+Jarvis:  and
+Jarvis:  immigration
+Jarvis:  at
+Jarvis:  career
+Jarvis:  lows
+Jarvis: [^
+Jarvis: 3
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: For
+Jarvis:  more
+Jarvis:  news
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  visit
+Jarvis:  the
+Jarvis:  following
+Jarvis:  websites
+Jarvis: :
+
+Jarvis: -
+Jarvis:  [CNN
+Jarvis: ](
+Jarvis: https
+Jarvis: ://
+Jarvis: www
+Jarvis: .c
+Jarvis: nn
+Jarvis: .com
+Jarvis: /)
+
+Jarvis: -
+Jarvis:  [NBC
+Jarvis:  News
+Jarvis: ](
+Jarvis: https
+Jarvis: ://
+Jarvis: www
+Jarvis: .n
+Jarvis: bc
+Jarvis: news
+Jarvis: .com
+Jarvis: /latest
+Jarvis: -st
+Jarvis: ories
+Jarvis: )
+
+
+Jarvis: Please
+Jarvis:  note
+Jarvis:  that
+Jarvis:  the
+Jarvis:  news
+Jarvis:  is
+Jarvis:  constantly
+Jarvis:  being
+Jarvis:  updated
+Jarvis: ,
+Jarvis:  so
+Jarvis:  it
+Jarvis: 's
+Jarvis:  always
+Jarvis:  a
+Jarvis:  good
+Jarvis:  idea
+Jarvis:  to check these sources for the most recent headlines.
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what a bitch
+You: tell me
+You: tell me who is elon musk
+You: who is elon musk
+Jarvis: Searching the web for: `elon musk`
+Jarvis: wikipedia`
+Jarvis: 
+Jarvis: 
+Jarvis: on
+Jarvis:  Ree
+Jarvis: ve
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  a
+Jarvis:  **
+Jarvis: business
+Jarvis:  magn
+Jarvis: ate
+Jarvis:  and
+Jarvis:  investor
+Jarvis: **
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  founder
+Jarvis: ,
+Jarvis:  chairman
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  and
+Jarvis:  chief
+Jarvis:  technology
+Jarvis:  officer
+Jarvis:  of
+Jarvis:  SpaceX
+Jarvis: ;
+Jarvis:  angel
+Jarvis:  investor
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  product
+Jarvis:  architect
+Jarvis: ,
+Jarvis:  and
+Jarvis:  former
+Jarvis:  chairman
+Jarvis:  of
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Inc
+Jarvis: .;
+Jarvis:  owner
+Jarvis: ,
+Jarvis:  chairman
+Jarvis: ,
+Jarvis:  and
+Jarvis:  C
+Jarvis: TO
+Jarvis:  of
+Jarvis:  X
+Jarvis:  Corp
+Jarvis: .;
+Jarvis:  founder
+Jarvis:  of
+Jarvis:  The
+Jarvis:  B
+Jarvis: oring
+Jarvis:  Company
+Jarvis: ;
+Jarvis:  co
+Jarvis: -founder
+Jarvis:  of
+Jarvis:  Neural
+Jarvis: ink
+Jarvis:  and
+Jarvis:  Open
+Jarvis: AI
+Jarvis: ;
+Jarvis:  and
+Jarvis:  president
+Jarvis:  of
+Jarvis:  the
+Jarvis:  Musk
+Jarvis:  Foundation
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  wealthiest
+Jarvis:  person
+Jarvis:  in
+Jarvis:  the
+Jarvis:  world
+Jarvis:  with
+Jarvis:  an
+Jarvis:  estimated
+Jarvis:  net
+Jarvis:  worth
+Jarvis:  of
+Jarvis:  **
+Jarvis: US
+Jarvis: $
+Jarvis: 241
+Jarvis:  billion
+Jarvis: **
+Jarvis:  as
+Jarvis:  of
+Jarvis:  September
+Jarvis:  
+Jarvis: 202
+Jarvis: 3
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: Born
+Jarvis:  on
+Jarvis:  June
+Jarvis:  
+Jarvis: 28
+Jarvis: ,
+Jarvis:  
+Jarvis: 197
+Jarvis: 1
+Jarvis:  in
+Jarvis:  Pret
+Jarvis: oria
+Jarvis: ,
+Jarvis:  South
+Jarvis:  Africa
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ],
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis:  briefly
+Jarvis:  attended
+Jarvis:  the
+Jarvis:  University
+Jarvis:  of
+Jarvis:  Pret
+Jarvis: oria
+Jarvis:  before
+Jarvis:  immigr
+Jarvis: ating
+Jarvis:  to
+Jarvis:  Canada
+Jarvis:  at
+Jarvis:  age
+Jarvis:  
+Jarvis: 18
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  acquired
+Jarvis:  Canadian
+Jarvis:  citizenship
+Jarvis:  through
+Jarvis:  his
+Jarvis:  Canadian
+Jarvis: -born
+Jarvis:  mother
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Two
+Jarvis:  years
+Jarvis:  later
+Jarvis: ,
+Jarvis:  he
+Jarvis:  mat
+Jarvis: ric
+Jarvis: ulated
+Jarvis:  at
+Jarvis:  Queen
+Jarvis: 's
+Jarvis:  University
+Jarvis:  in
+Jarvis:  Kingston
+Jarvis: ,
+Jarvis:  Ontario
+Jarvis: .
+Jarvis:  Musk
+Jarvis:  later
+Jarvis:  transferred
+Jarvis:  to
+Jarvis:  the
+Jarvis:  University
+Jarvis:  of
+Jarvis:  Pennsylvania
+Jarvis:  and
+Jarvis:  received
+Jarvis:  bachelor
+Jarvis: 's
+Jarvis:  degrees
+Jarvis:  in
+Jarvis:  economics
+Jarvis:  and
+Jarvis:  physics
+Jarvis:  there
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: M
+Jarvis: usk
+Jarvis:  moved
+Jarvis:  to
+Jarvis:  California
+Jarvis:  in
+Jarvis:  
+Jarvis: 199
+Jarvis: 5
+Jarvis:  to
+Jarvis:  attend
+Jarvis:  Stanford
+Jarvis:  University
+Jarvis:  but
+Jarvis:  dropped
+Jarvis:  out
+Jarvis:  after
+Jarvis:  two
+Jarvis:  days
+Jarvis: .
+Jarvis:  He
+Jarvis:  then
+Jarvis:  co
+Jarvis: -founded
+Jarvis:  online
+Jarvis:  city
+Jarvis:  guide
+Jarvis:  software
+Jarvis:  company
+Jarvis:  Zip
+Jarvis: 2
+Jarvis:  with
+Jarvis:  his
+Jarvis:  brother
+Jarvis:  Kim
+Jarvis: bal
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  startup
+Jarvis:  was
+Jarvis:  acquired
+Jarvis:  by
+Jarvis:  Com
+Jarvis: pa
+Jarvis: q
+Jarvis:  for
+Jarvis:  $
+Jarvis: 307
+Jarvis:  million
+Jarvis:  in
+Jarvis:  
+Jarvis: 199
+Jarvis: 9
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  That
+Jarvis:  same
+Jarvis:  year
+Jarvis: ,
+Jarvis:  Musk
+Jarvis:  co
+Jarvis: -founded
+Jarvis:  X
+Jarvis: .com
+Jarvis: ,
+Jarvis:  a
+Jarvis:  direct
+Jarvis:  bank
+Jarvis: .
+Jarvis:  X
+Jarvis: .com
+Jarvis:  merged
+Jarvis:  with
+Jarvis:  Con
+Jarvis: finity
+Jarvis:  in
+Jarvis:  
+Jarvis: 200
+Jarvis: 0
+Jarvis:  to
+Jarvis:  form
+Jarvis:  PayPal
+Jarvis: .
+Jarvis:  In
+Jarvis:  
+Jarvis: 200
+Jarvis: 2
+Jarvis: ,
+Jarvis:  eBay
+Jarvis:  acquired
+Jarvis:  PayPal
+Jarvis:  for
+Jarvis:  $
+Jarvis: 1
+Jarvis: .
+Jarvis: 5 billion[^1^]. 
+
+In 2002, Musk founded SpaceX with $100 million of the money he made from PayPal[^1^]. In 2004, he became an early investor in electric vehicle manufacturer Tesla Motors, Inc. (
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: now
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Inc
+Jarvis: .)
+Jarvis:  and
+Jarvis:  assumed
+Jarvis:  the
+Jarvis:  position
+Jarvis:  of
+Jarvis:  CEO
+Jarvis:  in
+Jarvis:  
+Jarvis: 200
+Jarvis: 8
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: For
+Jarvis:  more
+Jarvis:  information
+Jarvis:  about
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis: 's
+Jarvis:  achievements
+Jarvis:  and
+Jarvis:  ventures
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  visit
+Jarvis:  [W
+Jarvis: ikipedia
+Jarvis: ](
+Jarvis: ^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ).
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: who is elon musk
+Jarvis: Searching the web for: `elon musk`
+Jarvis: wikipedia`
+Jarvis: 
+Jarvis: 
+Jarvis: on
+Jarvis:  Ree
+Jarvis: ve
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  a
+Jarvis:  **
+Jarvis: business
+Jarvis:  magn
+Jarvis: ate
+Jarvis:  and
+Jarvis:  investor
+Jarvis: **
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  founder
+Jarvis: ,
+Jarvis:  chairman
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  and
+Jarvis:  chief
+Jarvis:  technology
+Jarvis:  officer
+Jarvis:  of
+Jarvis:  SpaceX
+Jarvis: ;
+Jarvis:  angel
+Jarvis:  investor
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  product
+Jarvis:  architect
+Jarvis: ,
+Jarvis:  and
+Jarvis:  former
+Jarvis:  chairman
+Jarvis:  of
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Inc
+Jarvis: .;
+Jarvis:  owner
+Jarvis: ,
+Jarvis:  chairman
+Jarvis: ,
+Jarvis:  and
+Jarvis:  C
+Jarvis: TO
+Jarvis:  of
+Jarvis:  X
+Jarvis:  Corp
+Jarvis: .;
+Jarvis:  founder
+Jarvis:  of
+Jarvis:  The
+Jarvis:  B
+Jarvis: oring
+Jarvis:  Company
+Jarvis: ;
+Jarvis:  co
+Jarvis: -founder
+Jarvis:  of
+Jarvis:  Neural
+Jarvis: ink
+Jarvis:  and
+Jarvis:  Open
+Jarvis: AI
+Jarvis: ;
+Jarvis:  and
+Jarvis:  president
+Jarvis:  of
+Jarvis:  the
+Jarvis:  Musk
+Jarvis:  Foundation
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  wealthiest
+Jarvis:  person
+Jarvis:  in
+Jarvis:  the
+Jarvis:  world
+Jarvis:  with
+Jarvis:  an
+Jarvis:  estimated
+Jarvis:  net
+Jarvis:  worth
+Jarvis:  of
+Jarvis:  **
+Jarvis: US
+Jarvis: $
+Jarvis: 241
+Jarvis:  billion
+Jarvis: **
+Jarvis:  as
+Jarvis:  of
+Jarvis:  September
+Jarvis:  
+Jarvis: 202
+Jarvis: 3
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: Born
+Jarvis:  on
+Jarvis:  **
+Jarvis: June
+Jarvis:  
+Jarvis: 28
+Jarvis: ,
+Jarvis:  
+Jarvis: 197
+Jarvis: 1
+Jarvis: **
+Jarvis:  in
+Jarvis:  Pret
+Jarvis: oria
+Jarvis: ,
+Jarvis:  Trans
+Jarvis: va
+Jarvis: al
+Jarvis: ,
+Jarvis:  South
+Jarvis:  Africa
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ],
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis:  briefly
+Jarvis:  attended
+Jarvis:  the
+Jarvis:  University
+Jarvis:  of
+Jarvis:  Pret
+Jarvis: oria
+Jarvis:  before
+Jarvis:  immigr
+Jarvis: ating
+Jarvis:  to
+Jarvis:  Canada
+Jarvis:  at
+Jarvis:  age
+Jarvis:  
+Jarvis: 18
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  acquired
+Jarvis:  citizenship
+Jarvis:  through
+Jarvis:  his
+Jarvis:  Canadian
+Jarvis: -born
+Jarvis:  mother
+Jarvis:  and
+Jarvis:  mat
+Jarvis: ric
+Jarvis: ulated
+Jarvis:  at
+Jarvis:  Queen
+Jarvis: 's
+Jarvis:  University
+Jarvis:  in
+Jarvis:  Kingston
+Jarvis: ,
+Jarvis:  Ontario
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Later
+Jarvis: ,
+Jarvis:  he
+Jarvis:  transferred
+Jarvis:  to
+Jarvis:  the
+Jarvis:  University
+Jarvis:  of
+Jarvis:  Pennsylvania
+Jarvis:  where
+Jarvis:  he
+Jarvis:  received
+Jarvis:  bachelor
+Jarvis: 's
+Jarvis:  degrees
+Jarvis:  in
+Jarvis:  economics
+Jarvis:  and
+Jarvis:  physics
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: M
+Jarvis: usk
+Jarvis: 's
+Jarvis:  entrepreneurial
+Jarvis:  journey
+Jarvis:  began
+Jarvis:  when
+Jarvis:  he
+Jarvis:  co
+Jarvis: -founded
+Jarvis:  online
+Jarvis:  city
+Jarvis:  guide
+Jarvis:  software
+Jarvis:  company
+Jarvis:  Zip
+Jarvis: 2
+Jarvis:  with
+Jarvis:  his
+Jarvis:  brother
+Jarvis:  Kim
+Jarvis: bal
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  startup
+Jarvis:  was
+Jarvis:  acquired
+Jarvis:  by
+Jarvis:  Com
+Jarvis: pa
+Jarvis: q
+Jarvis:  for
+Jarvis:  $
+Jarvis: 307
+Jarvis:  million
+Jarvis:  in
+Jarvis:  
+Jarvis: 199
+Jarvis: 9
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  In
+Jarvis:  the
+Jarvis:  same
+Jarvis:  year
+Jarvis: ,
+Jarvis:  Musk
+Jarvis:  co
+Jarvis: -founded
+Jarvis:  X
+Jarvis: .com
+Jarvis: ,
+Jarvis:  a
+Jarvis:  direct
+Jarvis:  bank
+Jarvis: .
+Jarvis:  X
+Jarvis: .com
+Jarvis:  merged
+Jarvis:  with
+Jarvis:  Con
+Jarvis: finity
+Jarvis:  in
+Jarvis:  
+Jarvis: 200
+Jarvis: 0
+Jarvis:  to
+Jarvis:  form
+Jarvis:  PayPal
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  In
+Jarvis:  
+Jarvis: 200
+Jarvis: 2
+Jarvis: ,
+Jarvis:  eBay
+Jarvis:  acquired
+Jarvis:  PayPal
+Jarvis:  for
+Jarvis:  $
+Jarvis: 1
+Jarvis: .
+Jarvis: 5
+Jarvis:  billion
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: In
+Jarvis:  addition
+Jarvis:  to
+Jarvis:  his
+Jarvis:  ventures
+Jarvis:  in
+Jarvis:  finance
+Jarvis:  and
+Jarvis:  technology
+Jarvis: ,
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis:  has
+Jarvis:  made
+Jarvis:  significant
+Jarvis:  contributions
+Jarvis:  to
+Jarvis:  space
+Jarvis:  exploration
+Jarvis: .
+Jarvis:  In
+Jarvis:  
+Jarvis: 200
+Jarvis: 2
+Jarvis: ,
+Jarvis:  he
+Jarvis:  founded
+Jarvis:  SpaceX
+Jarvis:  with
+Jarvis:  $
+Jarvis: 100
+Jarvis:  million
+Jarvis:  of
+Jarvis:  his
+Jarvis:  own
+Jarvis:  money
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  company
+Jarvis:  specializes
+Jarvis:  in
+Jarvis:  space
+Jarvis: flight
+Jarvis:  services
+Jarvis:  and
+Jarvis:  has
+Jarvis:  achieved
+Jarvis:  several
+Jarvis:  milestones
+Jarvis:  including
+Jarvis:  launching
+Jarvis:  the
+Jarvis:  first
+Jarvis:  privately
+Jarvis: -funded
+Jarvis:  liquid
+Jarvis: -prop
+Jarvis: ellant
+Jarvis:  rocket
+Jarvis:  to
+Jarvis:  reach
+Jarvis:  orbit
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: El
+Jarvis: on
+Jarvis:  Musk
+Jarvis: 's
+Jarvis:  vision
+Jarvis:  extends
+Jarvis:  beyond
+Jarvis:  Earth
+Jarvis: .
+Jarvis:  He
+Jarvis:  has
+Jarvis:  expressed
+Jarvis:  a
+Jarvis:  desire
+Jarvis:  to
+Jarvis:  establish
+Jarvis:  a
+Jarvis:  human
+Jarvis:  colony
+Jarvis:  on
+Jarvis:  Mars
+Jarvis:  and
+Jarvis:  make
+Jarvis:  life
+Jarvis:  multi
+Jarvis: plan
+Jarvis: etary
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  His
+Jarvis:  company
+Jarvis:  SpaceX
+Jarvis:  is
+Jarvis:  actively
+Jarvis:  working
+Jarvis:  towards
+Jarvis:  this
+Jarvis:  goal
+Jarvis:  by
+Jarvis:  developing
+Jarvis:  reusable
+Jarvis:  rockets
+Jarvis:  and
+Jarvis:  spacecraft
+Jarvis: .
+
+
+Jarvis: M
+Jarvis: usk
+Jarvis: 's
+Jarvis:  involvement
+Jarvis:  in
+Jarvis:  the
+Jarvis:  automotive
+Jarvis:  industry
+Jarvis:  began
+Jarvis:  in
+Jarvis:  
+Jarvis: 200
+Jarvis: 4
+Jarvis:  when
+Jarvis:  he
+Jarvis:  became
+Jarvis:  an
+Jarvis:  early
+Jarvis:  investor
+Jarvis:  in
+Jarvis:  Tesla
+Jarvis:  Motors
+Jarvis:  (
+Jarvis: now
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Inc
+Jarvis: .)
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  assumed
+Jarvis:  the
+Jarvis:  position
+Jarvis:  of
+Jarvis:  CEO
+Jarvis:  in
+Jarvis:  
+Jarvis: 200
+Jarvis: 8
+Jarvis:  and
+Jarvis:  played
+Jarvis:  a
+Jarvis:  pivotal
+Jarvis:  role
+Jarvis:  in
+Jarvis:  transforming
+Jarvis:  Tesla
+Jarvis:  into
+Jarvis:  a
+Jarvis:  leading
+Jarvis:  electric
+Jarvis:  vehicle
+Jarvis:  manufacturer
+Jarvis: .
+
+
+Jarvis: Apart
+Jarvis:  from
+Jarvis:  his
+Jarvis:  professional
+Jarvis:  endeavors
+Jarvis: ,
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis:  has
+Jarvis:  been
+Jarvis:  recognized
+Jarvis:  for
+Jarvis:  his
+Jarvis:  philanth
+Jarvis: ropic
+Jarvis:  efforts
+Jarvis: .
+Jarvis:  He
+Jarvis:  established
+Jarvis:  the
+Jarvis:  Musk
+Jarvis:  Foundation
+Jarvis:  and
+Jarvis:  has
+Jarvis:  pledged
+Jarvis:  significant
+Jarvis:  donations
+Jarvis:  towards
+Jarvis:  causes
+Jarvis:  such
+Jarvis:  as
+Jarvis:  renewable
+Jarvis:  energy
+Jarvis:  research
+Jarvis:  and
+Jarvis:  human
+Jarvis:  space
+Jarvis:  exploration
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: For
+Jarvis:  more
+Jarvis:  detailed
+Jarvis:  information
+Jarvis:  about
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis: 's
+Jarvis:  life
+Jarvis:  and
+Jarvis:  achievements
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  refer
+Jarvis:  to
+Jarvis:  his
+Jarvis:  Wikipedia
+Jarvis:  page
+Jarvis:  [here
+Jarvis: ](
+Jarvis: https
+Jarvis: ://
+Jarvis: en
+Jarvis: .wikipedia
+Jarvis: .org
+Jarvis: /wiki
+Jarvis: /
+Jarvis: El
+Jarvis: on
+Jarvis: _M
+Jarvis: usk
+Jarvis: )[^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: give me a breif about elon musk
+Jarvis: Searching the web for: `elon musk`
+Jarvis: 
+Jarvis: 
+Jarvis: on
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  a
+Jarvis:  **
+Jarvis: South
+Jarvis:  African
+Jarvis: -born
+Jarvis:  American
+Jarvis:  entrepreneur
+Jarvis:  and
+Jarvis:  businessman
+Jarvis: **
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 3
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 4
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  founder
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  and
+Jarvis:  chief
+Jarvis:  engineer
+Jarvis:  of
+Jarvis:  SpaceX
+Jarvis: ;
+Jarvis:  CEO
+Jarvis:  and
+Jarvis:  product
+Jarvis:  architect
+Jarvis:  of
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Inc
+Jarvis: .;
+Jarvis:  owner
+Jarvis:  and
+Jarvis:  C
+Jarvis: TO
+Jarvis:  of
+Jarvis:  Twitter
+Jarvis: ;
+Jarvis:  president
+Jarvis:  of
+Jarvis:  the
+Jarvis:  Musk
+Jarvis:  Foundation
+Jarvis: ; founder of The Boring Company, X Corp., and xAI; and co-founder of Neural
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: ink
+Jarvis:  and
+Jarvis:  Open
+Jarvis: AI
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  known
+Jarvis:  for
+Jarvis:  his
+Jarvis:  ambitious
+Jarvis:  projects
+Jarvis:  such
+Jarvis:  as
+Jarvis:  the
+Jarvis:  development
+Jarvis:  of
+Jarvis:  reusable
+Jarvis:  rockets
+Jarvis: ,
+Jarvis:  electric
+Jarvis:  cars
+Jarvis: ,
+Jarvis:  and
+Jarvis:  underground
+Jarvis:  transportation
+Jarvis:  systems
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  also
+Jarvis:  one
+Jarvis:  of
+Jarvis:  the
+Jarvis:  wealthiest
+Jarvis:  people
+Jarvis:  in
+Jarvis:  the
+Jarvis:  world
+Jarvis:  with
+Jarvis:  an
+Jarvis:  estimated
+Jarvis:  net
+Jarvis:  worth
+Jarvis:  of
+Jarvis:  **
+Jarvis: $
+Jarvis: 241
+Jarvis:  billion
+Jarvis: **
+Jarvis:  as
+Jarvis:  of
+Jarvis:  September
+Jarvis:  
+Jarvis: 202
+Jarvis: 3
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 4
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 5
+Jarvis: ^
+Jarvis: 
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: give me a breif about elon musk
+Jarvis: Searching the web for: `elon musk`
+Jarvis: 
+Jarvis: 
+Jarvis: on
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  a
+Jarvis:  **
+Jarvis: South
+Jarvis:  African
+Jarvis: -born
+Jarvis:  American
+Jarvis:  entrepreneur
+Jarvis:  and
+Jarvis:  businessman
+Jarvis: **
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 3
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 4
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  founder
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  and
+Jarvis:  chief
+Jarvis:  engineer
+Jarvis:  of
+Jarvis:  SpaceX
+Jarvis: ;
+Jarvis:  CEO
+Jarvis:  and
+Jarvis:  product
+Jarvis:  architect
+Jarvis:  of
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Inc
+Jarvis: .;
+Jarvis:  owner
+Jarvis:  and
+Jarvis:  C
+Jarvis: TO
+Jarvis:  of
+Jarvis:  Twitter
+Jarvis: ;
+Jarvis:  president
+Jarvis:  of
+Jarvis:  the
+Jarvis:  Musk
+Jarvis:  Foundation
+Jarvis: ;
+Jarvis:  founder
+Jarvis:  of
+Jarvis:  The
+Jarvis:  B
+Jarvis: oring
+Jarvis:  Company
+Jarvis: ,
+Jarvis:  X
+Jarvis:  Corp
+Jarvis: .,
+Jarvis:  and
+Jarvis:  x
+Jarvis: AI
+Jarvis: ;
+Jarvis:  and
+Jarvis:  co
+Jarvis: -founder
+Jarvis:  of Neuralink and OpenAI [^1^]. He is one of the most
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis:  influential
+Jarvis:  people
+Jarvis:  in
+Jarvis:  the
+Jarvis:  world
+Jarvis: ,
+Jarvis:  with
+Jarvis:  an
+Jarvis:  estimated
+Jarvis:  net
+Jarvis:  worth
+Jarvis:  of
+Jarvis:  **
+Jarvis: $
+Jarvis: 241
+Jarvis:  billion
+Jarvis: **
+Jarvis:  as
+Jarvis:  of
+Jarvis:  September
+Jarvis:  
+Jarvis: 202
+Jarvis: 3
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 4
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 5
+Jarvis: ^
+Jarvis: 
+Jarvis: M
+Jarvis: usk
+Jarvis:  was
+Jarvis:  born
+Jarvis:  on
+Jarvis:  **
+Jarvis: June
+Jarvis:  
+Jarvis: 28
+Jarvis: ,
+Jarvis:  
+Jarvis: 197
+Jarvis: 1
+Jarvis: **,
+Jarvis:  in
+Jarvis:  Pret
+Jarvis: oria
+Jarvis: ,
+Jarvis:  Trans
+Jarvis: va
+Jarvis: al
+Jarvis: ,
+Jarvis:  South
+Jarvis:  Africa
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  briefly
+Jarvis:  attended
+Jarvis:  the
+Jarvis:  University
+Jarvis:  of
+Jarvis:  Pret
+Jarvis: oria
+Jarvis:  before
+Jarvis:  immigr
+Jarvis: ating
+Jarvis:  to
+Jarvis:  Canada
+Jarvis:  at
+Jarvis:  age
+Jarvis:  
+Jarvis: 18
+Jarvis: ,
+Jarvis:  acquiring
+Jarvis:  citizenship
+Jarvis:  through
+Jarvis:  his
+Jarvis:  Canadian
+Jarvis: -born
+Jarvis:  mother
+Jarvis: .
+Jarvis:  Two
+Jarvis:  years
+Jarvis:  later
+Jarvis: ,
+Jarvis:  he
+Jarvis:  mat
+Jarvis: ric
+Jarvis: ulated
+Jarvis:  at
+Jarvis:  Queen
+Jarvis: 's
+Jarvis:  University
+Jarvis:  in
+Jarvis:  Kingston
+Jarvis: ,
+Jarvis:  Ontario
+Jarvis: .
+Jarvis:  Musk
+Jarvis:  later
+Jarvis:  transferred
+Jarvis:  to
+Jarvis:  the
+Jarvis:  University
+Jarvis:  of
+Jarvis:  Pennsylvania
+Jarvis: ,
+Jarvis:  where
+Jarvis:  he
+Jarvis:  received
+Jarvis:  bachelor
+Jarvis: 's
+Jarvis:  degrees
+Jarvis:  in
+Jarvis:  economics
+Jarvis:  and
+Jarvis:  physics
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: M
+Jarvis: usk
+Jarvis: 's
+Jarvis:  entrepreneurial
+Jarvis:  journey
+Jarvis:  began
+Jarvis:  in
+Jarvis:  
+Jarvis: 199
+Jarvis: 5
+Jarvis:  when
+Jarvis:  he
+Jarvis:  co
+Jarvis: -founded
+Jarvis:  Zip
+Jarvis: 2
+Jarvis: ,
+Jarvis:  an
+Jarvis:  online
+Jarvis:  city
+Jarvis:  guide
+Jarvis:  software
+Jarvis:  company
+Jarvis: .
+Jarvis:  The
+Jarvis:  startup
+Jarvis:  was
+Jarvis:  acquired
+Jarvis:  by
+Jarvis:  Com
+Jarvis: pa
+Jarvis: q
+Jarvis:  for
+Jarvis:  $
+Jarvis: 307
+Jarvis:  million
+Jarvis:  in
+Jarvis:  
+Jarvis: 199
+Jarvis: 9
+Jarvis: .
+Jarvis:  With
+Jarvis:  $
+Jarvis: 12
+Jarvis:  million
+Jarvis:  of
+Jarvis:  the
+Jarvis:  money
+Jarvis:  he
+Jarvis:  made
+Jarvis:  from
+Jarvis:  the
+Jarvis:  sale
+Jarvis: ,
+Jarvis:  Musk
+Jarvis:  co
+Jarvis: -founded
+Jarvis:  X
+Jarvis: .com
+Jarvis: ,
+Jarvis:  a
+Jarvis:  direct
+Jarvis:  bank
+Jarvis: .
+Jarvis:  X
+Jarvis: .com
+Jarvis:  merged
+Jarvis:  with
+Jarvis:  Con
+Jarvis: finity
+Jarvis:  in
+Jarvis:  
+Jarvis: 200
+Jarvis: 0
+Jarvis:  to
+Jarvis:  form
+Jarvis:  PayPal
+Jarvis: .
+Jarvis:  In
+Jarvis:  
+Jarvis: 200
+Jarvis: 2
+Jarvis: ,
+Jarvis:  eBay
+Jarvis:  acquired
+Jarvis:  PayPal
+Jarvis:  for
+Jarvis:  $
+Jarvis: 1
+Jarvis: .
+Jarvis: 5
+Jarvis:  billion
+Jarvis: .
+Jarvis:  That
+Jarvis:  same
+Jarvis:  year
+Jarvis: ,
+Jarvis:  with
+Jarvis:  $
+Jarvis: 100
+Jarvis:  million
+Jarvis:  of
+Jarvis:  the
+Jarvis:  money
+Jarvis:  he
+Jarvis:  made
+Jarvis:  from
+Jarvis:  PayPal
+Jarvis: 's
+Jarvis:  sale
+Jarvis: ,
+Jarvis:  Musk
+Jarvis:  founded
+Jarvis:  SpaceX
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: In
+Jarvis:  addition
+Jarvis:  to
+Jarvis:  SpaceX
+Jarvis:  and
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Musk
+Jarvis:  has
+Jarvis:  founded
+Jarvis:  several
+Jarvis:  other
+Jarvis:  companies
+Jarvis:  such
+Jarvis:  as
+Jarvis:  The
+Jarvis:  B
+Jarvis: oring
+Jarvis:  Company
+Jarvis:  (
+Jarvis: which
+Jarvis:  aims
+Jarvis:  to
+Jarvis:  reduce
+Jarvis:  traffic
+Jarvis:  congestion
+Jarvis:  by
+Jarvis:  building
+Jarvis:  underground
+Jarvis:  tunnels
+Jarvis: ),
+Jarvis:  Neural
+Jarvis: ink
+Jarvis:  (
+Jarvis: which
+Jarvis:  develops
+Jarvis:  implant
+Jarvis: able
+Jarvis:  brain
+Jarvis: –
+Jarvis: machine
+Jarvis:  interfaces
+Jarvis: ),
+Jarvis:  and
+Jarvis:  Open
+Jarvis: AI
+Jarvis:  (
+Jarvis: which
+Jarvis:  conducts
+Jarvis:  research
+Jarvis:  in
+Jarvis:  artificial
+Jarvis:  intelligence
+Jarvis: )
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  has
+Jarvis:  also
+Jarvis:  been
+Jarvis:  involved
+Jarvis:  in
+Jarvis:  several
+Jarvis:  controversies
+Jarvis:  throughout
+Jarvis:  his
+Jarvis:  career
+Jarvis: .
+
+
+Jarvis: M
+Jarvis: usk
+Jarvis:  is
+Jarvis:  known
+Jarvis:  for
+Jarvis:  his
+Jarvis:  ambitious
+Jarvis:  goals
+Jarvis:  such
+Jarvis:  as
+Jarvis:  colon
+Jarvis: izing
+Jarvis:  Mars
+Jarvis:  and
+Jarvis:  revolution
+Jarvis: izing
+Jarvis:  transportation
+Jarvis:  on
+Jarvis:  Earth
+Jarvis:  through
+Jarvis:  electric
+Jarvis:  cars
+Jarvis:  and
+Jarvis:  hyper
+Jarvis: loop
+Jarvis:  technology
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  has
+Jarvis:  been
+Jarvis:  recognized
+Jarvis:  for
+Jarvis:  his
+Jarvis:  contributions
+Jarvis:  to
+Jarvis:  science
+Jarvis:  and
+Jarvis:  technology
+Jarvis:  with
+Jarvis:  numerous
+Jarvis:  awards
+Jarvis:  and
+Jarvis:  honors
+Jarvis: .
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is oggy and cockroaches
+Jarvis: Searching the web for: `oggy and cockroaches`
+Jarvis: 
+Jarvis: 
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis:  is
+Jarvis:  a
+Jarvis:  French
+Jarvis:  animated
+Jarvis:  television
+Jarvis:  series
+Jarvis:  created
+Jarvis:  by
+Jarvis:  Jean
+Jarvis: -Y
+Jarvis: ves
+Jarvis:  R
+Jarvis: aim
+Jarvis: ba
+Jarvis: ud
+Jarvis:  and
+Jarvis:  produced
+Jarvis:  by
+Jarvis:  X
+Jarvis: il
+Jarvis: am
+Jarvis:  Animation
+Jarvis: .
+Jarvis:  The
+Jarvis:  show
+Jarvis:  follows
+Jarvis:  the
+Jarvis:  adventures
+Jarvis:  of
+Jarvis:  Og
+Jarvis: gy
+Jarvis: ,
+Jarvis:  a
+Jarvis:  blue
+Jarvis:  cat
+Jarvis:  who
+Jarvis:  enjoys
+Jarvis:  watching
+Jarvis:  TV
+Jarvis:  and
+Jarvis:  eating
+Jarvis: ,
+Jarvis:  and
+Jarvis:  his
+Jarvis:  three
+Jarvis:  mis
+Jarvis: chie
+Jarvis: vous
+Jarvis:  cock
+Jarvis: roach
+Jarvis:  room
+Jarvis: mates
+Jarvis: ,
+Jarvis:  Joey
+Jarvis: ,
+Jarvis:  Dee
+Jarvis:  Dee
+Jarvis: ,
+Jarvis:  and
+Jarvis:  Mark
+Jarvis: y
+Jarvis:  [^
+Jarvis: 5
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  show
+Jarvis:  is
+Jarvis:  known
+Jarvis:  for
+Jarvis:  its
+Jarvis:  slap
+Jarvis: stick
+Jarvis:  humor
+Jarvis:  and
+Jarvis:  has
+Jarvis:  been
+Jarvis:  broadcast
+Jarvis: ed
+Jarvis:  in
+Jarvis:  over
+Jarvis:  
+Jarvis: 160
+Jarvis:  countries
+Jarvis:  [^
+Jarvis: 5
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  interested
+Jarvis:  in
+Jarvis:  watching
+Jarvis:  the
+Jarvis:  show
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  find
+Jarvis:  full
+Jarvis:  episodes
+Jarvis:  on
+Jarvis:  the
+Jarvis:  official
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  Channel
+Jarvis: **
+Jarvis:  on
+Jarvis:  YouTube
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: what is oggy 
+Jarvis: Searching the web for: `what is oggy`
+Jarvis: cockroaches`
+Jarvis: 
+Jarvis: 
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis:  is
+Jarvis:  a
+Jarvis:  French
+Jarvis:  animated
+Jarvis:  comedy
+Jarvis:  television
+Jarvis:  series
+Jarvis:  created
+Jarvis:  by
+Jarvis:  Jean
+Jarvis: -Y
+Jarvis: ves
+Jarvis:  R
+Jarvis: aim
+Jarvis: ba
+Jarvis: ud
+Jarvis:  for
+Jarvis:  Ga
+Jarvis: umont
+Jarvis:  Multimedia
+Jarvis:  and
+Jarvis:  X
+Jarvis: il
+Jarvis: am
+Jarvis:  Animation
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  show
+Jarvis:  chron
+Jarvis: icles
+Jarvis:  the
+Jarvis:  exploits
+Jarvis:  and
+Jarvis:  adventures
+Jarvis:  of
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis: **,
+Jarvis:  a
+Jarvis:  blue
+Jarvis:  cat
+Jarvis:  whose
+Jarvis:  life
+Jarvis:  is
+Jarvis:  constantly
+Jarvis:  interrupted
+Jarvis:  by
+Jarvis:  three
+Jarvis:  cock
+Jarvis: ro
+Jarvis: aches
+Jarvis:  -
+Jarvis:  **
+Jarvis: De
+Jarvis: e
+Jarvis:  Dee
+Jarvis: **,
+Jarvis:  **
+Jarvis: Mark
+Jarvis: y
+Jarvis: **,
+Jarvis:  and
+Jarvis:  **
+Jarvis: Jo
+Jarvis: ey
+Jarvis: **
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  series
+Jarvis:  premiered
+Jarvis:  in
+Jarvis:  September
+Jarvis:  
+Jarvis: 199
+Jarvis: 8
+Jarvis:  on
+Jarvis:  France
+Jarvis:  
+Jarvis: 3
+Jarvis:  and
+Jarvis:  has
+Jarvis:  since
+Jarvis:  expanded
+Jarvis:  internationally
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  It
+Jarvis:  employs
+Jarvis:  silent
+Jarvis:  comedy
+Jarvis: ,
+Jarvis:  with
+Jarvis:  characters
+Jarvis:  either
+Jarvis:  not
+Jarvis:  speaking
+Jarvis:  or
+Jarvis:  using
+Jarvis:  unint
+Jarvis: ellig
+Jarvis: ible
+Jarvis:  vocal
+Jarvis: izations
+Jarvis:  and
+Jarvis:  gestures
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  show
+Jarvis:  ended
+Jarvis:  in
+Jarvis:  January
+Jarvis:  
+Jarvis: 201
+Jarvis: 9
+Jarvis:  after
+Jarvis:  releasing
+Jarvis:  seven
+Jarvis:  seasons
+Jarvis:  over
+Jarvis:  two
+Jarvis:  decades
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  A
+Jarvis:  reboot
+Jarvis:  series
+Jarvis:  called
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: :
+Jarvis:  Next
+Jarvis:  Generation
+Jarvis: **
+Jarvis:  was
+Jarvis:  announced
+Jarvis:  in
+Jarvis:  September
+Jarvis:  
+Jarvis: 202
+Jarvis: 0
+Jarvis: ,
+Jarvis:  where
+Jarvis:  Og
+Jarvis: gy
+Jarvis:  takes
+Jarvis:  care
+Jarvis:  of
+Jarvis:  Pi
+Jarvis: ya
+Jarvis: ,
+Jarvis:  a
+Jarvis:  young
+Jarvis:  elephant
+Jarvis:  from
+Jarvis:  India
+Jarvis: .
+Jarvis:  It
+Jarvis:  was
+Jarvis:  released
+Jarvis:  worldwide
+Jarvis:  on
+Jarvis:  Netflix
+Jarvis:  on
+Jarvis:  July
+Jarvis:  
+Jarvis: 28
+Jarvis: ,
+Jarvis:  
+Jarvis: 202
+Jarvis: 2
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: If
+Jarvis:  you
+Jarvis: 're
+Jarvis:  interested
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  watch
+Jarvis:  episodes
+Jarvis:  of
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis:  on
+Jarvis:  the
+Jarvis:  official
+Jarvis:  [O
+Jarvis: g
+Jarvis: gy
+Jarvis:  Youtube
+Jarvis:  channel
+Jarvis: ](
+Jarvis: https
+Jarvis: ://
+Jarvis: www
+Jarvis: .youtube
+Jarvis: .com
+Jarvis: /channel
+Jarvis: /
+Jarvis: UC
+Jarvis: NE
+Jarvis: KM
+Jarvis: kg
+Jarvis: _D
+Jarvis: G
+Jarvis: 8
+Jarvis: e
+Jarvis: Ay
+Jarvis: R
+Jarvis: 1
+Jarvis: BN
+Jarvis: Ws
+Jarvis: S
+Jarvis: vw
+Jarvis: )[^
+Jarvis: 5
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Enjoy
+Jarvis:  the
+Jarvis:  g
+Jarvis: ags
+Jarvis:  and
+Jarvis:  have
+Jarvis:  fun
+Jarvis:  with
+Jarvis:  Og
+Jarvis: gy
+Jarvis: ,
+Jarvis:  Joey
+Jarvis: ,
+Jarvis:  Dee
+Jarvis:  Dee
+Jarvis: ,
+Jarvis:  and
+Jarvis:  Mark
+Jarvis: y
+Jarvis: !
+Jarvis:  🐱
+Jarvis: 🪳
+Jarvis: 
+
+
+Jarvis: Let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  there
+Jarvis: 's
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: oggy breif
+Jarvis: Searching the web for: `oggy brief`
+Jarvis: 
+Jarvis: 
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis:  is
+Jarvis:  a
+Jarvis:  French
+Jarvis:  animated
+Jarvis:  comedy
+Jarvis:  television
+Jarvis:  series
+Jarvis:  created
+Jarvis:  by
+Jarvis:  Jean
+Jarvis: -Y
+Jarvis: ves
+Jarvis:  R
+Jarvis: aim
+Jarvis: ba
+Jarvis: ud
+Jarvis:  for
+Jarvis:  Ga
+Jarvis: umont
+Jarvis:  Multimedia
+Jarvis:  and
+Jarvis:  X
+Jarvis: il
+Jarvis: am
+Jarvis:  Animation
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  show
+Jarvis:  chron
+Jarvis: icles
+Jarvis:  the
+Jarvis:  adventures
+Jarvis:  of
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis: **,
+Jarvis:  a
+Jarvis:  blue
+Jarvis:  cat
+Jarvis:  whose
+Jarvis:  life
+Jarvis:  is
+Jarvis:  constantly
+Jarvis:  interrupted
+Jarvis:  by
+Jarvis:  three
+Jarvis:  cock
+Jarvis: ro
+Jarvis: aches
+Jarvis:  named
+Jarvis:  **
+Jarvis: De
+Jarvis: e
+Jarvis:  Dee
+Jarvis: ,
+Jarvis:  Mark
+Jarvis: y
+Jarvis: ,
+Jarvis:  and
+Jarvis:  Joey
+Jarvis: **
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Og
+Jarvis: gy
+Jarvis:  usually
+Jarvis:  spends
+Jarvis:  his
+Jarvis:  time
+Jarvis:  either
+Jarvis:  watching
+Jarvis:  TV
+Jarvis:  or
+Jarvis:  doing
+Jarvis:  house
+Jarvis: work
+Jarvis:  when
+Jarvis:  he
+Jarvis: 's
+Jarvis:  not
+Jarvis:  chasing
+Jarvis:  the
+Jarvis:  cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  show
+Jarvis:  premiered
+Jarvis:  in
+Jarvis:  September
+Jarvis:  
+Jarvis: 199
+Jarvis: 8
+Jarvis:  on
+Jarvis:  France
+Jarvis:  
+Jarvis: 3
+Jarvis:  and
+Jarvis:  has
+Jarvis:  since
+Jarvis:  expanded
+Jarvis:  internationally
+Jarvis: .
+Jarvis:  It
+Jarvis:  concluded
+Jarvis:  in
+Jarvis:  January
+Jarvis:  
+Jarvis: 201
+Jarvis: 9
+Jarvis:  after
+Jarvis:  seven
+Jarvis:  seasons
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  A
+Jarvis:  reboot
+Jarvis:  series
+Jarvis:  titled
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: :
+Jarvis:  Next
+Jarvis:  Generation
+Jarvis: **
+Jarvis:  was
+Jarvis:  released
+Jarvis:  on
+Jarvis:  Netflix
+Jarvis:  in
+Jarvis:  July
+Jarvis:  
+Jarvis: 202
+Jarvis: 2
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: Unfortunately
+Jarvis: ,
+Jarvis:  I
+Jarvis:  am
+Jarvis:  unable
+Jarvis:  to
+Jarvis:  provide
+Jarvis:  a
+Jarvis:  brief
+Jarvis:  of
+Jarvis:  the
+Jarvis:  entire
+Jarvis:  series
+Jarvis:  in
+Jarvis:  this
+Jarvis:  response
+Jarvis: .
+Jarvis:  However
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  find
+Jarvis:  more
+Jarvis:  information
+Jarvis:  about
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis:  on
+Jarvis:  [W
+Jarvis: ikipedia
+Jarvis: ](
+Jarvis: ^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ).
+
+
+Jarvis: Please
+Jarvis:  let
+Jarvis:  me
+Jarvis:  know
+Jarvis:  if
+Jarvis:  there
+Jarvis:  is
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  assist
+Jarvis:  you
+Jarvis:  with
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: oggy breif
+Jarvis: Searching the web for: `oggy brief`
+Jarvis: 
+Jarvis: 
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis:  is
+Jarvis:  a
+Jarvis:  French
+Jarvis:  animated
+Jarvis:  comedy
+Jarvis:  television
+Jarvis:  series
+Jarvis:  created
+Jarvis:  by
+Jarvis:  Jean
+Jarvis: -Y
+Jarvis: ves
+Jarvis:  R
+Jarvis: aim
+Jarvis: ba
+Jarvis: ud
+Jarvis:  for
+Jarvis:  Ga
+Jarvis: umont
+Jarvis:  Multimedia
+Jarvis:  and
+Jarvis:  X
+Jarvis: il
+Jarvis: am
+Jarvis:  Animation
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  show
+Jarvis:  premiered
+Jarvis:  in
+Jarvis:  September
+Jarvis:  
+Jarvis: 199
+Jarvis: 8
+Jarvis:  on
+Jarvis:  France
+Jarvis:  
+Jarvis: 3
+Jarvis:  and
+Jarvis:  has
+Jarvis:  since
+Jarvis:  expanded
+Jarvis:  internationally
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  It
+Jarvis:  chron
+Jarvis: icles
+Jarvis:  the
+Jarvis:  adventures
+Jarvis:  of
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis: **,
+Jarvis:  a
+Jarvis:  blue
+Jarvis:  cat
+Jarvis:  whose
+Jarvis:  life
+Jarvis:  is
+Jarvis:  constantly
+Jarvis:  interrupted
+Jarvis:  by
+Jarvis:  three
+Jarvis:  cock
+Jarvis: ro
+Jarvis: aches
+Jarvis:  named
+Jarvis:  **
+Jarvis: De
+Jarvis: e
+Jarvis:  Dee
+Jarvis: ,
+Jarvis:  Mark
+Jarvis: y
+Jarvis: ,
+Jarvis:  and
+Jarvis:  Joey
+Jarvis: **
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  show
+Jarvis:  employs
+Jarvis:  silent
+Jarvis:  comedy
+Jarvis: ,
+Jarvis:  with
+Jarvis:  characters
+Jarvis:  either
+Jarvis:  not
+Jarvis:  speaking
+Jarvis:  or
+Jarvis:  using
+Jarvis:  unint
+Jarvis: ellig
+Jarvis: ible
+Jarvis:  vocal
+Jarvis: izations
+Jarvis:  and
+Jarvis:  gestures
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Og
+Jarvis: gy
+Jarvis: 's
+Jarvis:  days
+Jarvis:  are
+Jarvis:  filled
+Jarvis:  with
+Jarvis:  watching
+Jarvis:  television
+Jarvis: ,
+Jarvis:  doing
+Jarvis:  house
+Jarvis: work
+Jarvis: ,
+Jarvis:  and
+Jarvis:  being
+Jarvis:  p
+Jarvis: ester
+Jarvis: ed
+Jarvis:  by
+Jarvis:  the
+Jarvis:  mis
+Jarvis: chie
+Jarvis: vous
+Jarvis:  cock
+Jarvis: ro
+Jarvis: aches
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: The
+Jarvis:  series
+Jarvis:  ran
+Jarvis:  for
+Jarvis:  seven
+Jarvis:  seasons
+Jarvis:  over
+Jarvis:  two
+Jarvis:  decades
+Jarvis: ,
+Jarvis:  with
+Jarvis:  a
+Jarvis:  total
+Jarvis:  of
+Jarvis:  
+Jarvis: 169
+Jarvis:  episodes
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  In
+Jarvis:  September
+Jarvis:  
+Jarvis: 202
+Jarvis: 0
+Jarvis: ,
+Jarvis:  a
+Jarvis:  reboot
+Jarvis:  series
+Jarvis:  titled
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: :
+Jarvis:  Next
+Jarvis:  Generation
+Jarvis: **
+Jarvis:  was
+Jarvis:  announced
+Jarvis: .
+Jarvis:  It
+Jarvis:  features
+Jarvis:  Og
+Jarvis: gy
+Jarvis:  taking
+Jarvis:  care
+Jarvis:  of
+Jarvis:  Pi
+Jarvis: ya
+Jarvis: ,
+Jarvis:  a
+Jarvis:  young
+Jarvis:  elephant
+Jarvis:  from
+Jarvis:  India
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  reboot
+Jarvis:  series
+Jarvis:  was
+Jarvis:  released
+Jarvis:  worldwide
+Jarvis:  on
+Jarvis:  Netflix
+Jarvis:  on
+Jarvis:  July
+Jarvis:  
+Jarvis: 28
+Jarvis: ,
+Jarvis:  
+Jarvis: 202
+Jarvis: 2
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: For
+Jarvis:  more
+Jarvis:  information
+Jarvis:  about
+Jarvis:  the
+Jarvis:  show
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  visit
+Jarvis:  its
+Jarvis:  Wikipedia
+Jarvis:  page
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: Please
+Jarvis:  note
+Jarvis:  that
+Jarvis:  I
+Jarvis:  am
+Jarvis:  not
+Jarvis:  able
+Jarvis:  to
+Jarvis:  see
+Jarvis:  images
+Jarvis: .
+Jarvis:  If
+Jarvis:  you
+Jarvis:  have
+Jarvis:  any
+Jarvis:  specific
+Jarvis:  requests
+Jarvis:  or
+Jarvis:  questions
+Jarvis:  about
+Jarvis:  the
+Jarvis:  show
+Jarvis: ,
+Jarvis:  feel
+Jarvis:  free
+Jarvis:  to
+Jarvis:  ask
+Jarvis: !
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: oggy
+Jarvis: Searching the web for: `oggy cartoon`
+Jarvis: TY (S04E52) CARTOON | New Episodes ...
+Jarvis: 
+Jarvis: 
+Jarvis:  am
+Jarvis:  familiar
+Jarvis:  with
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis: .
+Jarvis:  It
+Jarvis:  is
+Jarvis:  a
+Jarvis:  popular
+Jarvis:  animated
+Jarvis:  television
+Jarvis:  series
+Jarvis:  that
+Jarvis:  features
+Jarvis:  the
+Jarvis:  adventures
+Jarvis:  of
+Jarvis:  Og
+Jarvis: gy
+Jarvis: ,
+Jarvis:  a
+Jarvis:  lazy
+Jarvis:  cat
+Jarvis: ,
+Jarvis:  and
+Jarvis:  his
+Jarvis:  constant
+Jarvis:  battle
+Jarvis:  with
+Jarvis:  three
+Jarvis:  pes
+Jarvis: ky
+Jarvis:  cock
+Jarvis: ro
+Jarvis: aches
+Jarvis:  named
+Jarvis:  Dee
+Jarvis:  Dee
+Jarvis: ,
+Jarvis:  Mark
+Jarvis: y
+Jarvis: ,
+Jarvis:  and
+Jarvis:  Joey
+Jarvis: .
+Jarvis:  The
+Jarvis:  show
+Jarvis:  is
+Jarvis:  known
+Jarvis:  for
+Jarvis:  its
+Jarvis:  slap
+Jarvis: stick
+Jarvis:  humor
+Jarvis:  and
+Jarvis:  visual
+Jarvis:  g
+Jarvis: ags
+Jarvis: .
+Jarvis:  It
+Jarvis:  has
+Jarvis:  gained
+Jarvis:  a
+Jarvis:  significant
+Jarvis:  following
+Jarvis:  among
+Jarvis:  children
+Jarvis:  and
+Jarvis:  adults
+Jarvis:  alike
+Jarvis: .
+
+
+Jarvis: If
+Jarvis:  you
+Jarvis:  are
+Jarvis:  interested
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  watch
+Jarvis:  episodes
+Jarvis:  of
+Jarvis:  **
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis: **
+Jarvis:  on
+Jarvis:  the
+Jarvis:  official
+Jarvis:  [O
+Jarvis: g
+Jarvis: gy
+Jarvis:  YouTube
+Jarvis:  channel
+Jarvis: ](
+Jarvis: https
+Jarvis: ://
+Jarvis: www
+Jarvis: .youtube
+Jarvis: .com
+Jarvis: /channel
+Jarvis: /
+Jarvis: UC
+Jarvis: NE
+Jarvis: KM
+Jarvis: kg
+Jarvis: _D
+Jarvis: G
+Jarvis: 8
+Jarvis: e
+Jarvis: Ay
+Jarvis: R
+Jarvis: 1
+Jarvis: BN
+Jarvis: Ws
+Jarvis: S
+Jarvis: vw
+Jarvis: )
+Jarvis:  [^
+Jarvis: 4
+Jarvis: ^
+Jarvis: ].
+Jarvis:  You
+Jarvis:  can
+Jarvis:  also
+Jarvis:  find
+Jarvis:  episodes
+Jarvis:  on
+Jarvis:  platforms
+Jarvis:  like
+Jarvis:  [Netflix
+Jarvis: ](
+Jarvis: https
+Jarvis: ://
+Jarvis: www
+Jarvis: .netflix
+Jarvis: .com
+Jarvis: /title
+Jarvis: /
+Jarvis: 811
+Jarvis: 055
+Jarvis: 61
+Jarvis: )
+Jarvis:  [^
+Jarvis: 5
+Jarvis: ^
+Jarvis: ]
+Jarvis:  and
+Jarvis:  [D
+Jarvis: ail
+Jarvis: ym
+Jarvis: otion
+Jarvis: ](
+Jarvis: https
+Jarvis: ://
+Jarvis: www
+Jarvis: .d
+Jarvis: ail
+Jarvis: ym
+Jarvis: otion
+Jarvis: .com
+Jarvis: /video
+Jarvis: /x
+Jarvis: 8
+Jarvis: j
+Jarvis: tg
+Jarvis: q
+Jarvis: 1
+Jarvis: )
+Jarvis:  [^
+Jarvis: 6
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: Here
+Jarvis:  is
+Jarvis:  a
+Jarvis:  snippet
+Jarvis:  from
+Jarvis:  one
+Jarvis:  of
+Jarvis:  the
+Jarvis:  episodes
+Jarvis: :
+Jarvis:  
+
+
+Jarvis: ![O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis:  -
+Jarvis:  PY
+Jarvis: J
+Jarvis: AMA
+Jarvis:  PARTY
+Jarvis:  (
+Jarvis: S
+Jarvis: 04
+Jarvis: E
+Jarvis: 52
+Jarvis: )
+Jarvis:  CART
+Jarvis: O
+Jarvis: ON
+Jarvis:  |
+Jarvis:  New
+Jarvis:  Episodes
+Jarvis:  ...
+Jarvis: ](
+Jarvis: sandbox
+Jarvis: :/
+Jarvis: graphic
+Jarvis: _art
+Jarvis: ('
+Jarvis: O
+Jarvis: g
+Jarvis: gy
+Jarvis:  and
+Jarvis:  the
+Jarvis:  Cock
+Jarvis: ro
+Jarvis: aches
+Jarvis:  -
+Jarvis:  PY
+Jarvis: J
+Jarvis: AMA
+Jarvis:  PARTY
+Jarvis:  (
+Jarvis: S
+Jarvis: 04
+Jarvis: E
+Jarvis: 52
+Jarvis: )
+Jarvis:  CART
+Jarvis: O
+Jarvis: ON
+Jarvis:  |
+Jarvis:  New
+Jarvis:  Episodes
+Jarvis:  ...
+Jarvis: '))
+
+
+Jarvis: Enjoy
+Jarvis:  watching
+Jarvis: !
+Jarvis:  😄
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: elon musk breif
+Jarvis: Searching the web for: `elon musk brief`
+Jarvis: 
+Jarvis: 
+Jarvis: on
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  a
+Jarvis:  South
+Jarvis:  African
+Jarvis: -born
+Jarvis:  American
+Jarvis:  entrepreneur
+Jarvis:  and
+Jarvis:  businessman
+Jarvis: .
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  founder
+Jarvis: ,
+Jarvis:  chairman
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  and
+Jarvis:  chief
+Jarvis:  technology
+Jarvis:  officer
+Jarvis:  of
+Jarvis:  SpaceX
+Jarvis: ;
+Jarvis:  angel
+Jarvis:  investor
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  product
+Jarvis:  architect
+Jarvis: ,
+Jarvis:  and
+Jarvis:  former
+Jarvis:  chairman
+Jarvis:  of
+Jarvis:  Tesla
+Jarvis: ,
+Jarvis:  Inc
+Jarvis: .;
+Jarvis:  owner
+Jarvis: ,
+Jarvis:  chairman
+Jarvis: ,
+Jarvis:  and
+Jarvis:  C
+Jarvis: TO
+Jarvis:  of
+Jarvis:  X
+Jarvis:  Corp
+Jarvis: .;
+Jarvis:  founder
+Jarvis:  of
+Jarvis:  the
+Jarvis:  B
+Jarvis: oring
+Jarvis:  Company
+Jarvis: ;
+Jarvis:  co
+Jarvis: -founder
+Jarvis:  of
+Jarvis:  Neural
+Jarvis: ink
+Jarvis:  and
+Jarvis:  Open
+Jarvis: AI
+Jarvis: ;
+Jarvis:  and
+Jarvis:  president
+Jarvis:  of
+Jarvis:  the
+Jarvis:  Musk
+Jarvis:  Foundation
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ]
+Jarvis:  [^
+Jarvis: 4
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  was
+Jarvis:  born
+Jarvis:  on
+Jarvis:  June
+Jarvis:  
+Jarvis: 28
+Jarvis: ,
+Jarvis:  
+Jarvis: 197
+Jarvis: 1
+Jarvis: ,
+Jarvis:  in
+Jarvis:  Pret
+Jarvis: oria
+Jarvis: ,
+Jarvis:  South
+Jarvis:  Africa
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Musk
+Jarvis:  became
+Jarvis:  a
+Jarvis:  multim
+Jarvis: illion
+Jarvis: aire
+Jarvis:  in
+Jarvis:  his
+Jarvis:  late
+Jarvis:  
+Jarvis: 20
+Jarvis: s
+Jarvis:  when
+Jarvis:  he
+Jarvis:  sold
+Jarvis:  his
+Jarvis:  start
+Jarvis: -up
+Jarvis:  company
+Jarvis: ,
+Jarvis:  Zip
+Jarvis: 2
+Jarvis: ,
+Jarvis:  to
+Jarvis:  a
+Jarvis:  division
+Jarvis:  of
+Jarvis:  Com
+Jarvis: pa
+Jarvis: q
+Jarvis:  Computers
+Jarvis:  [^
+Jarvis: 2
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  widely
+Jarvis:  known
+Jarvis:  for
+Jarvis:  his
+Jarvis:  advances
+Jarvis:  in
+Jarvis:  electric
+Jarvis:  vehicles
+Jarvis:  and
+Jarvis:  space
+Jarvis:  travel
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+
+Jarvis: Is
+Jarvis:  there
+Jarvis:  anything
+Jarvis:  else
+Jarvis:  I
+Jarvis:  can
+Jarvis:  help
+Jarvis:  you
+Jarvis:  with
+Jarvis: ?
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: tell me who is elon musk
+Jarvis: Searching the web for: `elon musk`
+Jarvis: 
+Jarvis: 
+Jarvis: on
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  a
+Jarvis:  **
+Jarvis: business
+Jarvis:  magn
+Jarvis: ate
+Jarvis:  and
+Jarvis:  investor
+Jarvis: **
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  the
+Jarvis:  founder
+Jarvis: ,
+Jarvis:  chairman
+Jarvis: ,
+Jarvis:  CEO
+Jarvis: ,
+Jarvis:  and
+Jarvis:  chief
+Jarvis:  technology
+Jarvis:  officer
+Jarvis:  of
+Jarvis:  SpaceX
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  is
+Jarvis:  also
+Jarvis:  an
+Jarvis:  angel
+Jarvis:  investor
+Jarvis: , CEO, product architect, and former chairman of Tesla, Inc.[^1^]. Additionally, he is the owner, chairman
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: ,
+Jarvis:  and
+Jarvis:  C
+Jarvis: TO
+Jarvis:  of
+Jarvis:  X
+Jarvis:  Corp
+Jarvis: .,
+Jarvis:  founder
+Jarvis:  of
+Jarvis:  The
+Jarvis:  B
+Jarvis: oring
+Jarvis:  Company
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ],
+Jarvis:  co
+Jarvis: -founder
+Jarvis:  of
+Jarvis:  Neural
+Jarvis: ink
+Jarvis:  and
+Jarvis:  Open
+Jarvis: AI
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ],
+Jarvis:  and
+Jarvis:  president
+Jarvis:  of
+Jarvis:  the Musk Foundation[^1^]. Elon Musk is known for his contributions
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis:  to
+Jarvis:  various
+Jarvis:  industries
+Jarvis:  such
+Jarvis:  as
+Jarvis:  space
+Jarvis:  exploration
+Jarvis: ,
+Jarvis:  electric
+Jarvis:  vehicles
+Jarvis: ,
+Jarvis:  renewable
+Jarvis:  energy
+Jarvis: ,
+Jarvis:  and
+Jarvis:  artificial
+Jarvis:  intelligence
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: He
+Jarvis:  was
+Jarvis:  born
+Jarvis:  on
+Jarvis:  June
+Jarvis:  
+Jarvis: 28
+Jarvis: ,
+Jarvis:  
+Jarvis: 197
+Jarvis: 1
+Jarvis:  in
+Jarvis:  Pret
+Jarvis: oria
+Jarvis: ,
+Jarvis:  Trans
+Jarvis: va
+Jarvis: al
+Jarvis: ,
+Jarvis:  South
+Jarvis:  Africa
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Musk
+Jarvis:  holds
+Jarvis:  citizenship
+Jarvis:  in
+Jarvis:  South
+Jarvis:  Africa
+Jarvis: ,
+Jarvis:  Canada
+Jarvis: ,
+Jarvis:  and
+Jarvis:  the
+Jarvis:  United
+Jarvis:  States
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  attended
+Jarvis:  the
+Jarvis:  University
+Jarvis:  of
+Jarvis:  Pennsylvania
+Jarvis:  where
+Jarvis:  he
+Jarvis:  received
+Jarvis:  bachelor
+Jarvis: 's
+Jarvis:  degrees
+Jarvis:  in
+Jarvis:  economics
+Jarvis:  and
+Jarvis:  physics
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  Throughout
+Jarvis:  his
+Jarvis:  career
+Jarvis: ,
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis:  has
+Jarvis:  been
+Jarvis:  involved
+Jarvis:  in
+Jarvis:  several
+Jarvis:  ventures
+Jarvis:  including
+Jarvis:  PayPal
+Jarvis:  (
+Jarvis: formerly
+Jarvis:  X
+Jarvis: .com
+Jarvis: ),
+Jarvis:  which
+Jarvis:  was
+Jarvis:  acquired
+Jarvis:  by
+Jarvis:  eBay
+Jarvis:  for
+Jarvis:  $
+Jarvis: 1
+Jarvis: .
+Jarvis: 5
+Jarvis:  billion
+Jarvis:  in
+Jarvis:  
+Jarvis: 200
+Jarvis: 2
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  In
+Jarvis:  
+Jarvis: 200
+Jarvis: 2
+Jarvis: ,
+Jarvis:  he
+Jarvis:  founded
+Jarvis:  SpaceX
+Jarvis:  with
+Jarvis:  the
+Jarvis:  goal
+Jarvis:  of
+Jarvis:  reducing
+Jarvis:  space
+Jarvis:  transportation
+Jarvis:  costs
+Jarvis:  and
+Jarvis:  enabling
+Jarvis:  the
+Jarvis:  colonization
+Jarvis:  of
+Jarvis:  Mars
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  He
+Jarvis:  also
+Jarvis:  played
+Jarvis:  a
+Jarvis:  significant
+Jarvis:  role
+Jarvis:  in
+Jarvis:  the
+Jarvis:  development
+Jarvis:  of
+Jarvis:  Tesla
+Jarvis: 's
+Jarvis:  electric
+Jarvis:  vehicles
+Jarvis:  and
+Jarvis:  renewable
+Jarvis:  energy
+Jarvis:  solutions
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: El
+Jarvis: on
+Jarvis:  Musk
+Jarvis:  is
+Jarvis:  widely
+Jarvis:  recognized
+Jarvis:  as
+Jarvis:  one
+Jarvis:  of
+Jarvis:  the
+Jarvis:  wealthiest
+Jarvis:  individuals
+Jarvis:  in
+Jarvis:  the
+Jarvis:  world
+Jarvis: .
+Jarvis:  As
+Jarvis:  of
+Jarvis:  September
+Jarvis:  
+Jarvis: 202
+Jarvis: 3
+Jarvis: ,
+Jarvis:  his
+Jarvis:  estimated
+Jarvis:  net
+Jarvis:  worth
+Jarvis:  is
+Jarvis:  around
+Jarvis:  **
+Jarvis: $
+Jarvis: 241
+Jarvis:  billion
+Jarvis: **
+Jarvis:  according
+Jarvis:  to
+Jarvis:  the
+Jarvis:  Bloomberg
+Jarvis:  Billion
+Jarvis: aires
+Jarvis:  Index
+Jarvis: [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+
+Jarvis: For
+Jarvis:  more
+Jarvis:  detailed
+Jarvis:  information
+Jarvis:  about
+Jarvis:  Elon
+Jarvis:  Musk
+Jarvis: 's
+Jarvis:  life
+Jarvis:  and
+Jarvis:  achievements
+Jarvis: ,
+Jarvis:  you
+Jarvis:  can
+Jarvis:  refer
+Jarvis:  to
+Jarvis:  his
+Jarvis:  Wikipedia
+Jarvis:  page
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: how to increase your period
+You: whatsapp business document
+You: Let's show Instagram profile Instagram profile
+You: Who is the Prime Minister of India?
+Jarvis: Searching the web for: `Prime Minister of India`
+Jarvis: 
+Jarvis: 
+Jarvis:  current
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  of
+Jarvis:  India
+Jarvis:  is
+Jarvis:  **
+Jarvis: N
+Jarvis: arendra
+Jarvis:  Modi
+Jarvis: **
+Jarvis: .
+Jarvis:  He
+Jarvis:  has
+Jarvis:  been
+Jarvis:  serving
+Jarvis:  as
+Jarvis:  the
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  since
+Jarvis:  May
+Jarvis:  
+Jarvis: 26
+Jarvis: ,
+Jarvis:  
+Jarvis: 201
+Jarvis: 4
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  Prime
+Jarvis:  Minister
+Jarvis:  of
+Jarvis:  India
+Jarvis:  is
+Jarvis:  the
+Jarvis:  head
+Jarvis:  of
+Jarvis:  the
+Jarvis:  government
+Jarvis:  and
+Jarvis:  chief
+Jarvis:  of
+Jarvis:  the
+Jarvis:  executive
+Jarvis:  of
+Jarvis:  the
+Jarvis:  government
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  The
+Jarvis:  prime
+Jarvis:  minister
+Jarvis:  is
+Jarvis:  appointed
+Jarvis:  by
+Jarvis:  the
+Jarvis:  President
+Jarvis:  of
+Jarvis:  India
+Jarvis: ;
+Jarvis:  however
+Jarvis: ,
+Jarvis:  the
+Jarvis:  prime
+Jarvis:  minister
+Jarvis:  has
+Jarvis:  to
+Jarvis:  enjoy
+Jarvis:  the
+Jarvis:  confidence
+Jarvis:  of
+Jarvis:  the
+Jarvis:  majority
+Jarvis:  of
+Jarvis:  Lok
+Jarvis:  Sabha
+Jarvis:  members
+Jarvis: ,
+Jarvis:  who
+Jarvis:  are
+Jarvis:  directly
+Jarvis:  elected
+Jarvis:  every
+Jarvis:  five
+Jarvis:  years
+Jarvis: ,
+Jarvis:  lest
+Jarvis:  the
+Jarvis:  prime
+Jarvis:  minister
+Jarvis:  shall
+Jarvis:  resign
+Jarvis:  [^
+Jarvis: 1
+Jarvis: ^
+Jarvis: ].
+Jarvis:  
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 
+You: After that, you can kiss whatever window is there and you can logout with this feature.
+Jarvis: I
+Jarvis: 'm
+Jarvis:  sorry
+Jarvis:  but
+Jarvis:  I
+Jarvis:  prefer
+Jarvis:  not
+Jarvis:  to
+Jarvis:  continue
+Jarvis:  this
+Jarvis:  conversation
+Jarvis: .
+Jarvis:  I
+Jarvis: 'm
+Jarvis:  still
+Jarvis:  learning
+Jarvis:  so
+Jarvis:  I
+Jarvis:  appreciate
+Jarvis:  your
+Jarvis:  understanding
+Jarvis:  and
+Jarvis:  patience
+Jarvis: .
+Jarvis: 🙏
+Jarvis: 
+
+Jarvis: 
+Jarvis: 
+Jarvis: 
+Jarvis: 

@@ -1,0 +1,82 @@
+
+Question : what is python 
+Answer : Python is a programming language that is widely used in many different application domains.
+Question : what is physics 
+Answer : Physics is the study of the fundamental principles governing the natural world. It covers a wide range of topics, from the smallest particles to the largest structures in the universe.
+Question : what is chemistry 
+Answer : Chemistry is the study of the properties of matter and the interactions between different types of matter. It is a branch of science that is essential to our understanding of the world around us.
+Question : what is nn? 
+Answer : There is no one-size-fits-all answer to this question, as the best neural network architecture for a given problem will vary depending on the specifics of the problem. However, some common architectures for neural networks include fully connected networks, convolutional neural networks, and recurrent neural networks.
+Question : what is kinematics 
+Answer : Kinematics is the study of motion. It is a branch of physics that deals with the description of motion, without reference to the forces that cause it.
+Question : what is the dipole? 
+Answer : A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question : what is the smallest unit of charge 
+Answer : The smallest unit of charge is the electron.
+Question : what's the value of electron 
+Answer : The value of an electron is -1.602 x 10-19 coulombs.
+Question : what is coulombs 
+Answer : A coulomb is a unit of electric charge.
+Question : The position of an object 
+Answer : The position of an object is its location in space.
+Question : moving along x-axis is given by x = a + bt2 
+Answer : This equation describes motion along the x-axis where a is the initial position, b is the acceleration, and t is the time.
+Question : where a = 8.5 m, b = 2.5 m s�2 and t is 
+Answer : The position of the object at time t is given by x = 8.5 + 2.5t2.
+Question : measured in seconds. What is its velocity at 
+Answer : The velocity of the object at time t is given by v = 2.5t.
+Question : t = 0 s and t = 2.0 s. What is the average 
+Answer : The average velocity of the object over the time interval from t = 0 s to t = 2.0 s is given by v = (2.5t + 2.5(2.0-0))/2.0 = 2.5 m/s.
+Question : velocity between t = 2.0 s and t = 4.0 s ?  
+Answer : The average velocity of the object over the time interval from t = 2.0 s to t = 4.0 s is given by v = (2.5t + 2.5(4.0-2.0))/2.0 = 3.75 m/s.
+Question : Can velocity be negative 
+Answer : Yes, velocity can be negative. Velocity is a vector quantity, so it has both magnitude and direction. The direction of velocity can be either positive or negative, depending on the direction of motion.
+Question : is kinematics important for JEE 
+Answer : Kinematics is one of the important topics for JEE. It is a branch of physics that deals with the description of motion, without reference to the forces that cause it.
+Question : Hydrogen gas is not evolved when most of the metals react with nitric acid. why? 
+Answer : Hydrogen gas is not evolved when most of the metals react with nitric acid because the metals are not strong enough to reduce the nitric acid to nitrogen gas.
+Question : where is africa 
+Answer : Africa is a continent located in the eastern hemisphere.
+Question : what is land 
+Answer : Land is a natural feature of the earth's surface that is composed of solid rock, soil, and vegetation.
+Question : what is my friend's name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is my friend's name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is my friends name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is my friend's name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : I asked what is my friends name did not reply anything 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is the name 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is panel metrics in physics 
+Answer : There is no one-size-fits-all answer to this question, as the best panel metric for a given problem will vary depending on the specifics of the problem. However, some common panel metrics for physics include the mass, the electric charge, the electric field, and the magnetic field.
+Question : what is kinetic in physics 
+Answer : Kinetic energy is the energy of motion. It is the energy that an object has due to its motion.
+Question : what is its edge 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is the edge 
+Answer : I'm sorry, but I cannot answer that question.
+Question : what is the edge 
+Answer : I'm sorry, but I cannot answer that question.You : And tell me how are you 
+Answer : I'm doing well, thank you for asking. How about you?
+Question : who made you 
+Answer : I was created by the team at Iron Man Labs.
+Question : reminder education 
+Answer : You have an education-related event coming up.
+Question : how old were you 
+Answer : I was created by the team at Iron Man Labs.
+Question : tell me who is herman 
+Answer : Herman is a character in the Iron Man comics. He is a member of the Iron Legion, and is often seen assisting Tony Stark in his lab.
+Question : tell me how old is he 
+Answer : Herman is a character in the Iron Man comics. He is a member of the Iron Legion, and is often seen assisting Tony Stark in his lab.
+Question : data marketing.com 
+Answer : The website Data Marketing.com is a resource for marketing professionals. It provides articles, tips, and tools to help marketing professionals succeed in their careers.
+Question : tell me who is iron man 
+Answer : Iron Man is a superhero who appears in comic books published by Marvel Comics. He is one of the most popular and recognizable superheroes in the world, and has been featured in many movies and television shows.
+Question : tell me who is mark zuckerberg 
+Answer : Mark Zuckerberg is the co-founder and CEO of Facebook. He is one of the most influential people in the world, and has been instrumental in shaping the social media landscape.
+Question : what is the time 
+Answer : The time is the current moment or time of day.

@@ -1,0 +1,24 @@
+The __Secure-1PSIDTS cookie is a first-party cookie used by Google to track users across different websites and collect information about their browsing activity. It is a secure cookie, which means that it is only sent over HTTPS connections and cannot be read by third-party scripts.
+
+The __Secure-1PSIDTS cookie is used for a variety of purposes, including:
+
+* Identifying users across different websites
+* Tracking user browsing activity
+* Personalizing advertising
+* Measuring website traffic
+* Preventing fraud
+
+The __Secure-1PSIDTS cookie is set by Google when a user visits a website that uses Google services, such as Gmail or Google Maps. The cookie is stored on the user's browser and is renewed every time the user visits a Google-owned website.
+
+The __Secure-1PSIDTS cookie can be blocked by using a cookie blocker extension for your browser. However, blocking this cookie may prevent you from using some features of Google websites.
+
+Here are some additional details about the __Secure-1PSIDTS cookie:
+
+* Name: __Secure-1PSIDTS
+* Domain: .google.com
+* Expiration: 2 years
+* Purpose: Track users across different websites, collect information about their browsing activity, personalize advertising, measure website traffic, and prevent fraud
+* Secure: Yes
+* Third-party: No
+
+I hope this helps! Let me know if you have any other questions.

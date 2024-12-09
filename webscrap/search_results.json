@@ -1,0 +1,479 @@
+{
+    "query": "https://rajkamalsvm.com/",
+    "best_answer": "Wisdom comes with years but knowledge comes bit by bit through laborious search and other many a weary step. RSVM strives to impart thoughtful and up to\u00a0...",
+    "search_results": {
+        "kind": "customsearch#search",
+        "url": {
+            "type": "application/json",
+            "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+        },
+        "queries": {
+            "request": [
+                {
+                    "title": "Google Custom Search - https://rajkamalsvm.com/",
+                    "totalResults": "923",
+                    "searchTerms": "https://rajkamalsvm.com/",
+                    "count": 10,
+                    "startIndex": 1,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "323d63fa938554f39"
+                }
+            ],
+            "nextPage": [
+                {
+                    "title": "Google Custom Search - https://rajkamalsvm.com/",
+                    "totalResults": "923",
+                    "searchTerms": "https://rajkamalsvm.com/",
+                    "count": 10,
+                    "startIndex": 11,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "323d63fa938554f39"
+                }
+            ]
+        },
+        "context": {
+            "title": "web scrap"
+        },
+        "searchInformation": {
+            "searchTime": 0.432531,
+            "formattedSearchTime": "0.43",
+            "totalResults": "923",
+            "formattedTotalResults": "923"
+        },
+        "spelling": {
+            "correctedQuery": "http://rajkamalsvm.com/",
+            "htmlCorrectedQuery": "<b><i>http</i></b>://rajkamalsvm.com/"
+        },
+        "items": [
+            {
+                "kind": "customsearch#result",
+                "title": "Rajkamal Saraswati Vidya Mandir - Home",
+                "htmlTitle": "Rajkamal Saraswati Vidya Mandir - Home",
+                "link": "https://rajkamalsvm.com/",
+                "displayLink": "rajkamalsvm.com",
+                "snippet": "Wisdom comes with years but knowledge comes bit by bit through laborious search and other many a weary step. RSVM strives to impart thoughtful and up to\u00a0...",
+                "htmlSnippet": "Wisdom comes with years but knowledge comes bit by bit through laborious search and other many a weary step. RSVM strives to impart thoughtful and up to&nbsp;...",
+                "cacheId": "NlBd9-GzjKgJ",
+                "formattedUrl": "https://rajkamalsvm.com/",
+                "htmlFormattedUrl": "https://rajkamalsvm.com/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4OshM4ygUmeUd9IpwlVlahx_hbG6mRcT2RrlbpU5awA5QNBjJ4e5s_PY",
+                            "width": "352",
+                            "height": "143"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "title": "Rajkamal Saraswati Vidya Mandir - Dhanbad"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://rsvm.in/uploads/gallery/media/XII%20Science%20Boys%20-%20Topper%20-%206th%20to%2010th.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "RAJKAMAL.S.V.M.....BUDDIES...",
+                "htmlTitle": "<b>RAJKAMAL.S.V.M.</b>....BUDDIES...",
+                "link": "https://www.facebook.com/groups/114410585340945/",
+                "displayLink": "www.facebook.com",
+                "snippet": "Registration link:-http://rajkamalsvm.com/alumni_student.php. Alumni Login link:-\u2026 See more. Rajkamal Saraswati Vidya Mandir Ashok Nagar, Dhansar, Dhanbad.",
+                "htmlSnippet": "Registration link:-http://<b>rajkamalsvm.com</b>/alumni_student.php. Alumni Login link:-\u2026 See more. Rajkamal Saraswati Vidya Mandir Ashok Nagar, Dhansar, Dhanbad.",
+                "formattedUrl": "https://www.facebook.com/groups/114410585340945/",
+                "htmlFormattedUrl": "https://www.facebook.com/groups/114410585340945/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "application-name": "Facebook Groups",
+                            "apple-itunes-app": "app-id=284882215, app-argument=fb://group/?id=114410585340945",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "RAJKAMAL.S.V.M.....BUDDIES... | Facebook",
+                            "al:ios:app_name": "Facebook",
+                            "application-url": "https://www.facebook.com/groups/",
+                            "og:title": "RAJKAMAL.S.V.M.....BUDDIES... | Facebook",
+                            "al:android:package": "com.facebook.katana",
+                            "al:ios:url": "fb://group/?id=114410585340945",
+                            "al:ios:app_store_id": "284882215",
+                            "al:android:url": "fb://group/114410585340945",
+                            "referrer": "origin-when-crossorigin",
+                            "twitter:site": "@facebookapp",
+                            "viewport": "user-scalable=no,initial-scale=1,maximum-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.facebook.com/groups/114410585340945/",
+                            "al:android:app_name": "Facebook"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Raj Kamal Saraswati Vidya Mandir, Dhanbad",
+                "htmlTitle": "Raj Kamal Saraswati Vidya Mandir, Dhanbad",
+                "link": "https://www.indiastudychannel.com/schools/6958-raj-kamal-saraswati-vidya-mandir-dhanbad",
+                "displayLink": "www.indiastudychannel.com",
+                "snippet": "Feb 11, 2022 ... Website: https://rajkamalsvm.com. Board: CBSE. Management: Bal kalyan Samiti Dhanbad. Other Popular Names:.",
+                "htmlSnippet": "Feb 11, 2022 <b>...</b> Website: <b>https</b>://<b>rajkamalsvm.com</b>. Board: CBSE. Management: Bal kalyan Samiti Dhanbad. Other Popular Names:.",
+                "cacheId": "IrjxV4skYdUJ",
+                "formattedUrl": "https://www.indiastudychannel.com/.../6958-raj-kamal-saraswati-vidya- mandir-dhanbad",
+                "htmlFormattedUrl": "https://www.indiastudychannel.com/.../6958-raj-kamal-saraswati-vidya- mandir-dhanbad",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoy464r99ARW6Z95udTHmiviF1CEYBYZD4DeuM9llaa0nTOiky6Q4TKh4",
+                            "width": "224",
+                            "height": "224"
+                        }
+                    ],
+                    "School": [
+                        {
+                            "name": "Raj Kamal Saraswati Vidya Mandir, Dhanbad School",
+                            "description": "If you are new in Dhanbad city and looking"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://www.indiastudychannel.com/images/logo1.png"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "IndiaStudyChannel",
+                            "url": "https://www.indiastudychannel.com"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.indiastudychannel.com/images/iscbanner.png",
+                            "og:site_name": "IndiaStudyChannel.com",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "Raj Kamal Saraswati Vidya Mandir, Dhanbad",
+                            "og:url": "https://www.indiastudychannel.com/schools/6958-raj-kamal-saraswati-vidya-mandir-dhanbad",
+                            "og:description": "If you are new in Dhanbad city and looking for the contact address of Raj Kamal Saraswati Vidya Mandir then must see below post. This post is updated with latest contact numbers and full postal address of Raj Kamal Saraswati Vidya Mandir, Dhanbad.",
+                            "article:publisher": "https://facebook.com/indiastudychannel"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.indiastudychannel.com/images/iscbanner.png"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Rajkamal Saraswati Vidya Mandir, Dhansar, Dhanbad - Home ...",
+                "htmlTitle": "Rajkamal Saraswati Vidya Mandir, Dhansar, Dhanbad - Home ...",
+                "link": "https://www.facebook.com/rajkamalsvm/",
+                "displayLink": "www.facebook.com",
+                "snippet": "http://rajkamalsvm.com/. +91 326 230 3099. Public School. \u00b7. High School. The Rajkamal Saraswati Vidya Mandir School is one of India's leading schools with\u00a0...",
+                "htmlSnippet": "http://<b>rajkamalsvm.com</b>/. +91 326 230 3099. Public School. \u00b7. High School. The Rajkamal Saraswati Vidya Mandir School is one of India&#39;s leading schools with&nbsp;...",
+                "cacheId": "7ptgGNkoxFEJ",
+                "formattedUrl": "https://www.facebook.com/rajkamalsvm/",
+                "htmlFormattedUrl": "https://www.facebook.com/rajkamalsvm/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLK1KgaNOv9gBE_J1xsOwzRO4BPlJnbhMbHJXncjtwUjh94ge-xMLcsA",
+                            "width": "100",
+                            "height": "100"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin-when-crossorigin",
+                            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=114808988602529",
+                            "theme-color": "#3b5998",
+                            "twitter:card": "summary",
+                            "twitter:title": "Rajkamal Saraswati Vidya Mandir, Dhansar, Dhanbad - Home | Facebook",
+                            "viewport": "user-scalable=no,initial-scale=1,maximum-scale=1",
+                            "twitter:description": "Wisdom comes with years but even knowledge comes bit by bit through laborious such and other many a... Dhanbad, Jharkhand, India 826001",
+                            "og:title": "Rajkamal Saraswati Vidya Mandir, Dhansar, Dhanbad - Home | Facebook",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.facebook.com/rajkamalsvm/",
+                            "og:description": "Wisdom comes with years but even knowledge comes bit by bit through laborious such and other many a... Dhanbad, Jharkhand, India 826001",
+                            "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=114808988602529"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=114808988602529"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "RAJKAMAL SVM, DHANBAD - YouTube",
+                "htmlTitle": "<b>RAJKAMAL SVM</b>, DHANBAD - YouTube",
+                "link": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                "displayLink": "www.youtube.com",
+                "snippet": "RAJKAMAL SVM, DHANBAD. @rajkamalsvmdhanbad24934.33K subscribers1.7K videos ... rajkamalsvm.com. Subscribe. HomeVideosShorts\u00a0...",
+                "htmlSnippet": "<b>RAJKAMAL SVM</b>, DHANBAD. @rajkamalsvmdhanbad24934.33K subscribers1.7K videos ... <b>rajkamalsvm.com</b>. Subscribe. HomeVideosShorts&nbsp;...",
+                "cacheId": "6T6lJR_hH0QJ",
+                "formattedUrl": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                "htmlFormattedUrl": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "RAJKAMAL SVM, DHANBAD",
+                            "url": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XJhdxHT0lS0VnsPcvKZB8pXld7ESNPbW8e1OoExlcWS4xSRjpzMXAek",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "900",
+                            "url": "https://yt3.googleusercontent.com/ytc/AOPolaRftZCU2Yfyk5Fii5i3i-k6MOu9ihOGp5nd-7RG=s900-c-k-c0x00ffffff-no-rj",
+                            "height": "900"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "RAJKAMAL SVM, DHANBAD",
+                            "url": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug?referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+                            "og:image": "https://yt3.googleusercontent.com/ytc/AOPolaRftZCU2Yfyk5Fii5i3i-k6MOu9ihOGp5nd-7RG=s900-c-k-c0x00ffffff-no-rj",
+                            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                            "twitter:app:id:googleplay": "com.google.android.youtube",
+                            "theme-color": "rgb(255, 255, 255)",
+                            "og:image:width": "900",
+                            "twitter:card": "summary",
+                            "og:site_name": "YouTube",
+                            "twitter:url": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                            "al:android:package": "com.google.android.youtube",
+                            "twitter:app:name:googleplay": "YouTube",
+                            "al:ios:url": "vnd.youtube://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                            "twitter:app:id:iphone": "544007664",
+                            "og:description": "Wisdom comes with years but knowledge comes bit by bit through laborious search and other many a weary step. RSVM strives to impart thoughtful and up to date quality education with a view to equipping the students to face the challenges around them and cope up with the fast changing and highly competitive scenario. Our objective is directed towards improving the course curriculum given by CBSE and providing students with continuous interaction with innovative and new ideas of our highly qualified teachers. We believe that a sound foundation in our own socio cultural values is necessary to produce disciplined, educated and good citizens for our motherland. We therefore aim at the development of a total personality by instilling in them the ethical and spiritual values in our students.",
+                            "al:ios:app_store_id": "544007664",
+                            "twitter:image": "https://yt3.googleusercontent.com/ytc/AOPolaRftZCU2Yfyk5Fii5i3i-k6MOu9ihOGp5nd-7RG=s900-c-k-c0x00ffffff-no-rj",
+                            "twitter:site": "@youtube",
+                            "og:type": "profile",
+                            "twitter:title": "RAJKAMAL SVM, DHANBAD",
+                            "al:ios:app_name": "YouTube",
+                            "og:title": "RAJKAMAL SVM, DHANBAD",
+                            "og:image:height": "900",
+                            "twitter:app:id:ipad": "544007664",
+                            "al:web:url": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug?feature=applinks",
+                            "og:video:tag": "RAJKAMAL SARASWATI VIDYA MANDIR",
+                            "al:android:url": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug?feature=applinks",
+                            "fb:app_id": "87741124305",
+                            "twitter:app:url:googleplay": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                            "twitter:app:name:ipad": "YouTube",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+                            "twitter:description": "Wisdom comes with years but knowledge comes bit by bit through laborious search and other many a weary step. RSVM strives to impart thoughtful and up to date quality education with a view to equipping the students to face the challenges around them and cope up with the fast changing and highly competitive scenario. Our objective is directed towards improving the course curriculum given by CBSE and providing students with continuous interaction with innovative and new ideas of our highly qualified teachers. We believe that a sound foundation in our own socio cultural values is necessary to produce disciplined, educated and good citizens for our motherland. We therefore aim at the development of a total personality by instilling in them the ethical and spiritual values in our students.",
+                            "og:url": "https://www.youtube.com/channel/UCB8jxWTzDe1XS9qhRjnX6Ug",
+                            "al:android:app_name": "YouTube",
+                            "twitter:app:name:iphone": "YouTube"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://yt3.googleusercontent.com/ytc/AOPolaRftZCU2Yfyk5Fii5i3i-k6MOu9ihOGp5nd-7RG=s900-c-k-c0x00ffffff-no-rj"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Rajkamalsvm.com - Rajkamalsvm",
+                "htmlTitle": "<b>Rajkamalsvm.com</b> - <b>Rajkamalsvm</b>",
+                "link": "https://sites.ipaddress.com/rajkamalsvm.com/",
+                "displayLink": "sites.ipaddress.com",
+                "snippet": "May 2, 2023 ... Welcome to our comprehensive review of Rajkamalsvm.com! In this detailed analysis, we delve into various crucial aspects of the website that\u00a0...",
+                "htmlSnippet": "May 2, 2023 <b>...</b> Welcome to our comprehensive review of <b>Rajkamalsvm.com</b>! In this detailed analysis, we delve into various crucial aspects of the website that&nbsp;...",
+                "cacheId": "BIFEZzoFNSMJ",
+                "formattedUrl": "https://sites.ipaddress.com/rajkamalsvm.com/",
+                "htmlFormattedUrl": "https://sites.ipaddress.com/rajkamalsvm.com/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#FFFFFF",
+                            "msapplication-config": "https://s.ipaddress.com/icon/browserconfig.xml",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "msapplication-tileimage": "https://s.ipaddress.com/icon/favicon-144.png",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Prashant Agarwal - Finance Manager - ITC Limited | LinkedIn",
+                "htmlTitle": "Prashant Agarwal - Finance Manager - ITC Limited | LinkedIn",
+                "link": "https://in.linkedin.com/in/prashant-agarwal-868a16121",
+                "displayLink": "in.linkedin.com",
+                "snippet": "Activities and Societies: Debate competition, Commerce quiz. website-rajkamalsvm.com. Honors & Awards. 2nd Best Presenter - AICITSS\u00a0...",
+                "htmlSnippet": "Activities and Societies: Debate competition, Commerce quiz. website-<b>rajkamalsvm.com</b>. Honors &amp; Awards. 2nd Best Presenter - AICITSS&nbsp;...",
+                "formattedUrl": "https://in.linkedin.com/in/prashant-agarwal-868a16121",
+                "htmlFormattedUrl": "https://in.linkedin.com/in/prashant-agarwal-868a16121",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_wtkpeEVq1c8t3UsOKFqyR2drhVyW_TnCvhoM62tUR4CkFlUrYRBc7Tvy",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.licdn.com/dms/image/D5603AQHxXNLjHKyD4A/profile-displayphoto-shrink_800_800/0/1677148490700?e=2147483647&v=beta&t=1vJHPNzA5PBoXrX7ZtSTIjT7jSZvI1XpImPOS9aC_YY",
+                            "twitter:card": "summary",
+                            "platform-worker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+                            "al:android:package": "com.linkedin.android",
+                            "locale": "en_US",
+                            "al:ios:url": "https://in.linkedin.com/in/prashant-agarwal-868a16121",
+                            "og:description": "||  Quotes & poetries interest me || Reader || | Learn more about Prashant Agarwal's work experience, education, connections & more by visiting their profile on LinkedIn",
+                            "al:ios:app_store_id": "288429040",
+                            "platform": "https://static.licdn.com/aero-v1/sc/h/f33q20v34yatd3rlvaysuuuwj",
+                            "twitter:image": "https://media.licdn.com/dms/image/D5603AQHxXNLjHKyD4A/profile-displayphoto-shrink_800_800/0/1677148490700?e=2147483647&v=beta&t=1vJHPNzA5PBoXrX7ZtSTIjT7jSZvI1XpImPOS9aC_YY",
+                            "profile:last_name": "Agarwal",
+                            "twitter:site": "@Linkedin",
+                            "litmsprofilename": "public-profile-frontend",
+                            "profile:first_name": "Prashant",
+                            "og:type": "profile",
+                            "twitter:title": "Prashant Agarwal - Finance Manager - ITC Limited | LinkedIn",
+                            "al:ios:app_name": "LinkedIn",
+                            "og:title": "Prashant Agarwal - Finance Manager - ITC Limited | LinkedIn",
+                            "pagekey": "public_profile_v3_mobile",
+                            "al:android:url": "https://in.linkedin.com/in/prashant-agarwal-868a16121",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "||  Quotes & poetries interest me || Reader || | Learn more about Prashant Agarwal's work experience, education, connections & more by visiting their profile on LinkedIn",
+                            "ubba": "https://static.licdn.com/aero-v1/sc/h/7s95ht6x7h4z36lg1l4qd3per",
+                            "og:url": "https://in.linkedin.com/in/prashant-agarwal-868a16121",
+                            "al:android:app_name": "LinkedIn"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.licdn.com/dms/image/D5603AQHxXNLjHKyD4A/profile-displayphoto-shrink_800_800/0/1677148490700?e=2147483647&v=beta&t=1vJHPNzA5PBoXrX7ZtSTIjT7jSZvI1XpImPOS9aC_YY"
+                        }
+                    ],
+                    "Person": [
+                        {}
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Untitled",
+                "htmlTitle": "Untitled",
+                "link": "https://rsvm.in/uploads/gallery/media/PTAMembers.pdf",
+                "displayLink": "rsvm.in",
+                "snippet": "Website: www.rajkamalsvm.com. Date: 30-04-2022. As discussed in School Management Committee Meeting dated 30-04-2022 at.",
+                "htmlSnippet": "Website: www.<b>rajkamalsvm.com</b>. Date: 30-04-2022. As discussed in School Management Committee Meeting dated 30-04-2022 at.",
+                "cacheId": "25V6NKAGV90J",
+                "formattedUrl": "https://rsvm.in/uploads/gallery/media/PTAMembers.pdf",
+                "htmlFormattedUrl": "https://rsvm.in/uploads/gallery/media/PTAMembers.pdf",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "Tue May 24 15:40:54 2022",
+                            "creationdate": "Tue May 24 15:40:54 2022",
+                            "author": "info",
+                            "producer": "Microsoft: Print To PDF"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat"
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Rajkamal Saraswati Vidya Mandir | Dhanbad",
+                "htmlTitle": "Rajkamal Saraswati Vidya Mandir | Dhanbad",
+                "link": "https://m.facebook.com/people/Rajkamal-Saraswati-Vidya-Mandir/100069759793035/",
+                "displayLink": "m.facebook.com",
+                "snippet": "Ashok Nagar, Dhansar, Dhanbad, India, Jharkhand. \udb86\udd02. rajkamalsvm.com. \udb85\ude47. See more about Rajkamal Saraswati Vidya Mandir. No posts available.",
+                "htmlSnippet": "Ashok Nagar, Dhansar, Dhanbad, India, Jharkhand. \udb86\udd02. <b>rajkamalsvm.com</b>. \udb85\ude47. See more about Rajkamal Saraswati Vidya Mandir. No posts available.",
+                "cacheId": "7i4gTHK304cJ",
+                "formattedUrl": "https://m.facebook.com/people/Rajkamal-Saraswati.../100069759793035/",
+                "htmlFormattedUrl": "https://m.facebook.com/people/Rajkamal-Saraswati.../100069759793035/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXjkKrVz6AR-1UbmPKBPOHjCDMLcWYXnSMX90fFjTMHqjjapwIpb_RXiM",
+                            "width": "304",
+                            "height": "166"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=284882215, app-argument=fb://profile/100069759793035",
+                            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069759793035",
+                            "og:type": "article",
+                            "og:image:alt": "Rajkamal Saraswati Vidya Mandir",
+                            "twitter:card": "summary",
+                            "twitter:title": "Rajkamal Saraswati Vidya Mandir",
+                            "theme-color": "#FFFFFF",
+                            "al:ios:app_name": "Facebook",
+                            "og:title": "Rajkamal Saraswati Vidya Mandir",
+                            "al:android:package": "com.facebook.katana",
+                            "google": "notranslate",
+                            "al:ios:url": "fb://profile/100069759793035",
+                            "og:description": "Rajkamal Saraswati Vidya Mandir, Dhanbad. 152 likes. \"Wisdom comes with years but even knowledge comes bit by bit through laborious such and other many a weary step.\n\nRSVM strives to impact...",
+                            "al:ios:app_store_id": "284882215",
+                            "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069759793035",
+                            "al:android:url": "fb://profile/100069759793035",
+                            "referrer": "origin-when-crossorigin",
+                            "twitter:image:alt": "Rajkamal Saraswati Vidya Mandir",
+                            "viewport": "width=360, user-scalable=no",
+                            "twitter:description": "Rajkamal Saraswati Vidya Mandir, Dhanbad. 152 likes. \"Wisdom comes with years but even knowledge comes bit by bit through laborious such and other many a weary step.\n\nRSVM strives to impact...",
+                            "og:locale": "en_US",
+                            "fb-version": "372.0.0.0.2:2314",
+                            "og:url": "https://www.facebook.com/profile.php?id=100069759793035",
+                            "al:android:app_name": "Facebook"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100069759793035"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Login : Rajkamal Saraswati Vidya Mandir",
+                "htmlTitle": "Login : Rajkamal Saraswati Vidya Mandir",
+                "link": "https://rsvm.in/site/userlogin",
+                "displayLink": "rsvm.in",
+                "snippet": "Important !! Result for Admission Test of Class XI Phase 2 Admission is declared [Click Here to View]. Result Declared for Admission Test for Class XI The\u00a0...",
+                "htmlSnippet": "Important !! Result for Admission Test of Class XI Phase 2 Admission is declared [Click Here to View]. Result Declared for Admission Test for Class XI The&nbsp;...",
+                "cacheId": "Kv6VSiTWZAsJ",
+                "formattedUrl": "https://rsvm.in/site/userlogin",
+                "htmlFormattedUrl": "https://rsvm.in/site/userlogin",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "theme-color": "#424242",
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

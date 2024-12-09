@@ -1,0 +1,7 @@
+The Python code you ran calculates the factorial of a number. The factorial of a number is the product of all the positive integers less than or equal to that number. For example, the factorial of 5 is 120, because 120 is equal to 1 * 2 * 3 * 4 * 5.
+
+The code first defines a function called `factorial()`. This function takes one argument, `n`, which is the number whose factorial we want to calculate. The function then checks if `n` is equal to 0. If it is, the function returns 1. Otherwise, the function returns `n` multiplied by the factorial of `n - 1`.
+
+The last line of the code calls the `factorial()` function with the argument 5. This means that the function will calculate the factorial of 5 and return the result. The result is 120, which is why the output of the code is 120.
+
+I hope this explanation is helpful. Let me know if you have any other questions.
